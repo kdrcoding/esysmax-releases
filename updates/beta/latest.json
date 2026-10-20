@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.33",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.33/E-Sys-Max-3.3.33-win-x64.msi",
-  "sha256": "D800774F8D5F4585A6326797C1FC4115769EADC1A50EA3A0464D60C87FE44EFF",
-  "size": 62660740,
-  "notes": "## Improved\n- Remote coding (Radmin VPN, Hamachi, ZeroTier, Tailscale, AnyDesk and other remote tools): E-Sys MAX never opens a second connection beside E-Sys\u0027s, so E-Sys keeps the car.\n- The gateway address may now be a name (for example mycar.ddns.net:6801) or an IPv6 address.\n- Clearer messages in remote sessions: read the SVT instead of \u0022connect first\u0022, and how to restart a module.\n- Service functions and Service reset use E-Sys\u0027s gateway URL when no remote address is typed.",
+  "version": "3.3.34",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.34/E-Sys-Max-3.3.34-win-x64.msi",
+  "sha256": "BBAECE2E87241B490471EA137717AD1270E0FBB071B5380BD5F4BB7C45182B11",
+  "size": 62685316,
+  "notes": "## Fixed\n- A fresh E-Sys that has never connected is no longer taken for a remote session: the car connection check and the fault scan look for the car on the cable as before.\n- The car connection check explains the remote side when a remote car address is checked.",
   "published": "2026-10-20",
   "minimumVersion": "3.0.6",
   "channel": "beta"
