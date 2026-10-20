@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.20",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.20/E-Sys-Max-3.3.20-win-x64.msi",
-  "sha256": "C7417A66B410986727B15D666B4A7D7AE9E5A8119DB1CD22DC686D8F605DB2D4",
-  "size": 62632068,
-  "notes": "## Better\n- Updates arrive even when the website is down: E-Sys MAX also checks a second address for new versions.\n- Code several changes now goes on to the next module on E-Sys 24 too, where E-Sys shows its result in the dashboard instead of a report window.\n- When the licence cannot be checked, the message says why in plain words, and points at the sign-in page on hotel or guest Wi-Fi.\n## Safer\n- Clearing faults through E-Sys checks the connected car again before each module.\n- Problem reports leave out every login, password and PIN line.\n- A backup folder E-Sys MAX cannot write to is refused when you choose it.\n## Fixed\n- Offline wording now says a paid licence works offline for up to 14 days at a time, as the licence terms say.\n- One recommended E-Sys version (25.10) everywhere.",
+  "version": "3.3.21",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.21/E-Sys-Max-3.3.21-win-x64.msi",
+  "sha256": "4600D619DB8D80319218CF9A9871120CD756844230D20C8259C1D24A4E1A20A1",
+  "size": 62636164,
+  "notes": "## Better\n- The FDL-Editor stays smooth while setting names arrive, also with a big cheat sheets folder.\n- The car report now lists settings coded after a module\u0027s software was updated.\n## Fixed\n- Cheat sheets shows each saved My coding setting as its own row.\n- What can I code no longer offers a cheat that Apply would refuse for this CAFD version.\n- Row tips in the FDL-Editor no longer show another car\u0027s My coding.\n- A required update stays until it is installed, also for beta testers.",
   "published": "2026-10-20",
   "minimumVersion": "3.0.6",
   "channel": "beta"
