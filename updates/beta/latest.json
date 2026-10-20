@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.25",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.25/E-Sys-Max-3.3.25-win-x64.msi",
-  "sha256": "73A59766D1CD45EA4107A28E8FE726B059A27DBDD1158675C6587B8309C758CE",
-  "size": 62664836,
-  "notes": "## Better\n- The E-Sys version settings window stays smooth while you type a folder, also a network folder.",
+  "version": "3.3.26",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.26/E-Sys-Max-3.3.26-win-x64.msi",
+  "sha256": "EC340D8FEC3BFE072817DE4F06151BC1DB56FA91CE7F3391120EDCC41117C5FD",
+  "size": 62640260,
+  "notes": "## Better\n- Remote coding: the fault scan, Module info and Restart module now use the same address E-Sys is connected to, also through a gateway URL over a VPN (Radmin, Hamachi, ZeroTier, Tailscale) or a remote tool\u0027s local port. Before, they searched this PC\u0027s own cable and found no car.\n- With E-Sys connected and an SVT open, the fault scan reads through E-Sys\u0027s own connection when no address is known.",
   "published": "2026-10-20",
   "minimumVersion": "3.0.6",
   "channel": "beta"
