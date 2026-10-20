@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.30",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.30/E-Sys-Max-3.3.30-win-x64.msi",
-  "sha256": "1C7BB7B49FFDD380D9BA96A861FB1F523882CF4BF0BA1F6F165BEF1D83E25C71",
-  "size": 62673028,
-  "notes": "## Better\n- Remote coding: the battery voltage, Module info, the full backup\u0027s fault memory and the fault window\u0027s other buttons now go through E-Sys\u0027s own connection in a remote session, so the remote link is never asked for a second connection.\n- The car you connected remotely now counts everywhere E-Sys MAX picks a car (reports, history, cheat sheets).\n## Fixed\n- Messages in a remote session no longer tell you to plug in an ENET cable or turn off the VPN; they say what to check instead.",
+  "version": "3.3.31",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.31/E-Sys-Max-3.3.31-win-x64.msi",
+  "sha256": "0736D4C590853A590F591A4373CF5931994A7FC30BE82007362EF9E30F72869E",
+  "size": 62656644,
+  "notes": "## Fixed\n- The SVT tree\u0027s title (SVT [VIN]) is no longer labelled \u0022Servotronic\u0022.",
   "published": "2026-10-20",
   "minimumVersion": "3.0.6",
   "channel": "beta"
