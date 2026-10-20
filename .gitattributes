@@ -1,0 +1,5 @@
+# The update feed is signed byte for byte: never convert line endings.
+updates/latest.json -text
+updates/*.sig -text
+updates/beta/latest.json -text
+updates/beta/*.sig -text
