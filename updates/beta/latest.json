@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.35",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.35/E-Sys-Max-3.3.35-win-x64.msi",
-  "sha256": "73EB028D5A5B6CD5ED724E0CAA499BE7343E48C5DF2F8E04E46D8FC6336E5673",
-  "size": 62881924,
-  "notes": "## Fixed\n- The FDL-Editor\u0027s own \u0022Search for\u0022 box now finds settings by the names E-Sys MAX shows (for example HMI in the head unit). Press Search or Enter again for the next match.\n\n## Improved\n- Thousands more coding settings now have a plain English explanation in the CAFD editor, and the explanations of the functions people code most are clearer.\n- Fault scan explains more faults: test entries, engine self-checks, electrical and LIN faults, internal module faults and values that are too high or too low.",
+  "version": "3.3.36",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.36/E-Sys-Max-3.3.36-win-x64.msi",
+  "sha256": "04E17A0CDA7C67B7FB6412552F26BE639C1391D4CAB2D57F34E8C3B2EBB7F160",
+  "size": 63017092,
+  "notes": "## Fixed\n- The FDL-Editor\u0027s \u0022Search for\u0022 box keeps finding settings after you open another coding file or a second FDL-Editor page.\n\n## Improved\n- Thousands more coding settings now have a plain English explanation in the CAFD editor, and unclear ones are worded more carefully.",
   "published": "2026-10-20",
   "minimumVersion": "3.0.6",
   "channel": "beta"
