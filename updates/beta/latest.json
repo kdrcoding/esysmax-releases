@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.32",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.32/E-Sys-Max-3.3.32-win-x64.msi",
-  "sha256": "3D5A53BB3EA26D779FC8758AFA7E0111789677FA413D33543780616A8467A721",
-  "size": 62664836,
-  "notes": "## New\n- Ignition status (KL15) next to the battery voltage: on, engine on or off, so you can see at a glance whether the car is ready to code.",
+  "version": "3.3.33",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.33/E-Sys-Max-3.3.33-win-x64.msi",
+  "sha256": "D800774F8D5F4585A6326797C1FC4115769EADC1A50EA3A0464D60C87FE44EFF",
+  "size": 62660740,
+  "notes": "## Improved\n- Remote coding (Radmin VPN, Hamachi, ZeroTier, Tailscale, AnyDesk and other remote tools): E-Sys MAX never opens a second connection beside E-Sys\u0027s, so E-Sys keeps the car.\n- The gateway address may now be a name (for example mycar.ddns.net:6801) or an IPv6 address.\n- Clearer messages in remote sessions: read the SVT instead of \u0022connect first\u0022, and how to restart a module.\n- Service functions and Service reset use E-Sys\u0027s gateway URL when no remote address is typed.",
   "published": "2026-10-20",
   "minimumVersion": "3.0.6",
   "channel": "beta"
