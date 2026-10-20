@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.27",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.27/E-Sys-Max-3.3.27-win-x64.msi",
-  "sha256": "340629BF90F7DFA0C8760CCE19EDBED2280E2665104A82F77085C01257A13A32",
-  "size": 62681220,
-  "notes": "## Better\n- Remote coding: About \u003E Check car connection has a Remote car address box (for example tcp://127.0.0.1:12345 or a VPN address). The check asks the car behind it for its VIN and says plainly whether it answers.\n- Service functions and Service reset use that remote car address when one is set, and every question names the remote car.\n- When E-Sys is set to Connection via gateway URL, the car connection check tests that address instead of searching the cable, and no longer tells remote users to turn their VPN off.",
+  "version": "3.3.28",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.28/E-Sys-Max-3.3.28-win-x64.msi",
+  "sha256": "DDBA04BF080DEE0BDBD18A07A161F54C4843F69F893A7923E12002B815485EBC",
+  "size": 62648452,
+  "notes": "## Fixed\n- Remote coding and ICOM: E-Sys shows no VIN in its status line for Connection via gateway URL or ICOM, so Save and code, Code several changes, Restart module and other car checks said \u0022connect first\u0022. With an SVT read, E-Sys MAX now asks the car itself for its VIN through E-Sys\u0027s connection.",
   "published": "2026-10-20",
   "minimumVersion": "3.0.6",
   "channel": "beta"
