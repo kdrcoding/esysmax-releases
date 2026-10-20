@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.21",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.21/E-Sys-Max-3.3.21-win-x64.msi",
-  "sha256": "4600D619DB8D80319218CF9A9871120CD756844230D20C8259C1D24A4E1A20A1",
-  "size": 62636164,
-  "notes": "## Better\n- The FDL-Editor stays smooth while setting names arrive, also with a big cheat sheets folder.\n- The car report now lists settings coded after a module\u0027s software was updated.\n## Fixed\n- Cheat sheets shows each saved My coding setting as its own row.\n- What can I code no longer offers a cheat that Apply would refuse for this CAFD version.\n- Row tips in the FDL-Editor no longer show another car\u0027s My coding.\n- A required update stays until it is installed, also for beta testers.",
+  "version": "3.3.22",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.22/E-Sys-Max-3.3.22-win-x64.msi",
+  "sha256": "CE1DA7D58323764253C34C073077472B288509665B05165AB190A3017D7752CD",
+  "size": 62632068,
+  "notes": "## Safer\n- Full backup marks the vehicle order or SVT as \u0022what E-Sys had open\u0022 when reading it from the car did not work, so it is never taken for the car\u0027s own.\n## Fixed\n- A full backup is no longer stopped by E-Sys MAX\u0027s own \u0022could not copy\u0022 message, and that message shows once a minute at most.\n- A full backup that fails on a full disk no longer leaves a half-written zip behind.\n- Ticking a code in the vehicle order no longer leaves an empty line when E-Sys refuses the value.\n- The \u0022Update required\u0022 message also names a second download address.",
   "published": "2026-10-20",
   "minimumVersion": "3.0.6",
   "channel": "beta"
