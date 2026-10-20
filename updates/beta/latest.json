@@ -1,0 +1,11 @@
+{
+  "product": "E-Sys MAX",
+  "version": "3.3.19",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.19/E-Sys-Max-3.3.19-win-x64.msi",
+  "sha256": "3096D71862603F8CA61AC643CDBA7D15C531813579875733056BAD92963D59FA",
+  "size": 62652548,
+  "notes": "## Safer\n- Restart module from the SVT menu no longer opens a second connection on cars whose gateway takes one at a time; it says how to restart the module instead.\n- Pressing Code by hand while an E-Sys MAX coding job runs, or with an edit saved for another car still in E-Sys\u0027s coding folder, now asks first. Wait / No is the default.\n- Exclude modules checks the car and the SVT again before it loads the filter.\n## Fixed\n- Code several changes says clearly when a module may be coded in part, and no longer tells you to press Code NCD after it has put the files back.\n- Clearing faults says \u0022not sure\u0022 when the request went out but no answer came back, and old reasons from an earlier clear are no longer shown.\n- Token and back-to-normal-mode steps say \u0022not sure\u0022 when E-Sys stopped part way.",
+  "published": "2026-10-20",
+  "minimumVersion": "3.0.6",
+  "channel": "beta"
+}

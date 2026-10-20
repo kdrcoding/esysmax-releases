@@ -1,0 +1,11 @@
+{
+  "product": "E-Sys MAX",
+  "version": "3.3.13",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.13/E-Sys-Max-3.3.13-win-x64.msi",
+  "sha256": "ED31D2C83B3979436338B07CFC5B7518DE4B568C40C66F4800DC963366BE638D",
+  "size": 62644356,
+  "notes": "## New\n- What to code for a feature (E-Sys MAX menu): search a feature such as sport displays, folding mirrors or speed limit info and see every module it needs, in order, with the setting names and anything else it needs. 69 coding changes for F and G series.\n- Cheat sheets and the FDL-Editor tell you when a change needs more than one module, so you never code only half of a feature.\n- Fault scan: details for each fault (how often, the mileage when it was stored) and Copy for a forum post.\n- Service functions and Service reset in the launcher (Home \u003E Functions), the used-car check in Fault scan, and SFA status.\n- Works with the newest PSdZData 4.61.\n## Better\n- FA helper and Retrofit helper: clear step-by-step instructions, and a \u0022To finish\u0022 line after a retrofit.\n- Save and code counts a change as coded only when E-Sys reports the coding finished, and never codes a file E-Sys wrote again.\n- Full backups saved in your own folder are found by Coding history, Search the car, Car report and the garage; a backup that stopped part way is marked and never counted as a good one.\n- Write vehicle order says up front whether a copy of the order is saved.\n- Updates keep the install folder and the desktop shortcut you chose.\n- The connection check names a VPN that blocks the car, and one-connection gateways are never asked twice at once.\n- Clearer licence screen and About card.\n## Fixed\n- Many fixes in backups, names for offline use, the used-car check, cheat sheets, the NCD editor, Insert signed NCD, the Flash assistant, Service reset and the connection screen.\n- Problem reports leave out personal details.\n- Small fixes.",
+  "published": "2026-10-20",
+  "minimumVersion": "3.0.6",
+  "channel": "main"
+}
