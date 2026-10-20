@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.22",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.22/E-Sys-Max-3.3.22-win-x64.msi",
-  "sha256": "CE1DA7D58323764253C34C073077472B288509665B05165AB190A3017D7752CD",
-  "size": 62632068,
-  "notes": "## Safer\n- Full backup marks the vehicle order or SVT as \u0022what E-Sys had open\u0022 when reading it from the car did not work, so it is never taken for the car\u0027s own.\n## Fixed\n- A full backup is no longer stopped by E-Sys MAX\u0027s own \u0022could not copy\u0022 message, and that message shows once a minute at most.\n- A full backup that fails on a full disk no longer leaves a half-written zip behind.\n- Ticking a code in the vehicle order no longer leaves an empty line when E-Sys refuses the value.\n- The \u0022Update required\u0022 message also names a second download address.",
+  "version": "3.3.23",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.23/E-Sys-Max-3.3.23-win-x64.msi",
+  "sha256": "2560339AD3AE469ECE50D5D2D85780446F405A9F75879D49E81D7243335CB995",
+  "size": 62660740,
+  "notes": "## Fixed\n- The real-time backup no longer retries a coding file it cannot copy on every pass; it tries three times.\n- With another car\u0027s vehicle order open, coding read from the connected car goes to that car\u0027s own backup folder.",
   "published": "2026-10-20",
   "minimumVersion": "3.0.6",
   "channel": "beta"
