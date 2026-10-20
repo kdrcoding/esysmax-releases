@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.28",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.28/E-Sys-Max-3.3.28-win-x64.msi",
-  "sha256": "DDBA04BF080DEE0BDBD18A07A161F54C4843F69F893A7923E12002B815485EBC",
-  "size": 62648452,
-  "notes": "## Fixed\n- Remote coding and ICOM: E-Sys shows no VIN in its status line for Connection via gateway URL or ICOM, so Save and code, Code several changes, Restart module and other car checks said \u0022connect first\u0022. With an SVT read, E-Sys MAX now asks the car itself for its VIN through E-Sys\u0027s connection.",
+  "version": "3.3.29",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.29/E-Sys-Max-3.3.29-win-x64.msi",
+  "sha256": "8988C31D6350CE34802E9949FE95C21F154EB40EEED8AB74574020922680D069",
+  "size": 62656644,
+  "notes": "## Fixed\n- Fault scan: the Gateway box now takes a whole address with its port, as E-Sys writes it (for example tcp://127.0.0.1:12345 from a remote tool). Before, only a bare address worked, and the scan said \u0022No car found\u0022.",
   "published": "2026-10-20",
   "minimumVersion": "3.0.6",
   "channel": "beta"
