@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.19",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.19/E-Sys-Max-3.3.19-win-x64.msi",
-  "sha256": "3096D71862603F8CA61AC643CDBA7D15C531813579875733056BAD92963D59FA",
-  "size": 62652548,
-  "notes": "## Safer\n- Restart module from the SVT menu no longer opens a second connection on cars whose gateway takes one at a time; it says how to restart the module instead.\n- Pressing Code by hand while an E-Sys MAX coding job runs, or with an edit saved for another car still in E-Sys\u0027s coding folder, now asks first. Wait / No is the default.\n- Exclude modules checks the car and the SVT again before it loads the filter.\n## Fixed\n- Code several changes says clearly when a module may be coded in part, and no longer tells you to press Code NCD after it has put the files back.\n- Clearing faults says \u0022not sure\u0022 when the request went out but no answer came back, and old reasons from an earlier clear are no longer shown.\n- Token and back-to-normal-mode steps say \u0022not sure\u0022 when E-Sys stopped part way.",
+  "version": "3.3.20",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.20/E-Sys-Max-3.3.20-win-x64.msi",
+  "sha256": "C7417A66B410986727B15D666B4A7D7AE9E5A8119DB1CD22DC686D8F605DB2D4",
+  "size": 62632068,
+  "notes": "## Better\n- Updates arrive even when the website is down: E-Sys MAX also checks a second address for new versions.\n- Code several changes now goes on to the next module on E-Sys 24 too, where E-Sys shows its result in the dashboard instead of a report window.\n- When the licence cannot be checked, the message says why in plain words, and points at the sign-in page on hotel or guest Wi-Fi.\n## Safer\n- Clearing faults through E-Sys checks the connected car again before each module.\n- Problem reports leave out every login, password and PIN line.\n- A backup folder E-Sys MAX cannot write to is refused when you choose it.\n## Fixed\n- Offline wording now says a paid licence works offline for up to 14 days at a time, as the licence terms say.\n- One recommended E-Sys version (25.10) everywhere.",
   "published": "2026-10-20",
   "minimumVersion": "3.0.6",
   "channel": "beta"
