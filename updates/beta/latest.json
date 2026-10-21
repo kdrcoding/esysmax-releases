@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.4.6",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.4.6/E-Sys-Max-3.4.6-win-x64.msi",
-  "sha256": "21ABDD1CE6A6DF667ECC8DF1CA94661F52582B6A9CE805B76CACA9723DE138CE",
-  "size": 63250564,
-  "notes": "## Better\n- After the car disconnects, the battery and ignition plates show sooner that their reading is old.\n- Fault scan and the plates no longer use another car\u0027s SVT that is still open: read the SVT of the connected car first.",
+  "version": "3.4.7",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.4.7/E-Sys-Max-3.4.7-win-x64.msi",
+  "sha256": "1FC89A151694F793C4D51B5E8E260E43C301025B061275EE4470D8A91F8EEED2",
+  "size": 63225988,
+  "notes": "## New\n- Open ICOM page: in the E-Sys MAX menu, opens your ICOM\u0027s own web page (status, restart) in the browser, handy when the ICOM stays busy. Nothing is sent to the car.",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
