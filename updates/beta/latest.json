@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.54",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.54/E-Sys-Max-3.3.54-win-x64.msi",
-  "sha256": "4932FF8BA6020C3F38AB8D69C61C993E3959D6D029EA9AC99EC30EE175E58B04",
-  "size": 63213700,
-  "notes": "## Better\n- Search the car shows each car\u0027s own coding changes, not the connected car\u0027s.\n- Coding history, car search, coding guide and cheat sheet windows close with Esc and reopen cleanly.\n- Copied file names no longer carry a VIN.\n- The launcher says when an update did not install, or when Windows needs a restart to finish it.",
+  "version": "3.3.55",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.55/E-Sys-Max-3.3.55-win-x64.msi",
+  "sha256": "EECC94F3EB5FF7B42A9FCBBEA41960EFB9B55E5C4347A6C0651461204BDCBF98",
+  "size": 63225988,
+  "notes": "## Fixed\n- Fault scan: while E-Sys is connected, E-Sys MAX never opens a second connection to the car beside E-Sys\u0027s own, also when no SVT is open.\n- Fault scan: a typed gateway address of another car is read at that address, not through E-Sys\u0027s connection.\n- Fault scan and Clear stop when E-Sys reconnects part way.\n- Fault scan: one module that does not answer no longer ends the whole scan.\n- Clear in a remote session asks every module for the VIN, not only the faulty ones.",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
