@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.42",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.42/E-Sys-Max-3.3.42-win-x64.msi",
-  "sha256": "DD93C7A64DEC2FDDF301B5E657D665350735CF1198AE15FC7BEE1F47E1E65AF1",
-  "size": 63185028,
-  "notes": "## Better\n- Fault clear: a module that got the clear request but gave no clear answer is shown as not sure, never as not cleared.\n- Save and code, Code several changes, Write vehicle order and battery registration check the car and E-Sys once more right before they write, and say honestly when it is not sure whether something was written.\n- Updates are never installed while E-Sys is open, and a beta update requirement no longer blocks E-Sys after beta updates are turned off.\n- The update check works better when the website is slow.",
+  "version": "3.3.43",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.43/E-Sys-Max-3.3.43-win-x64.msi",
+  "sha256": "40E33728013A0DFB68F85DA5A96A5B7C1C734B278028A5893EDD9D7E855497A1",
+  "size": 63197316,
+  "notes": "## Better\n- Setting names you gave are never lost when Windows or antivirus holds the names file for a moment.\n- Names imported from PSdZData now remember their CAFD version, so a name from another version is no longer shown as BMW\u0027s.\n- Backups wait until E-Sys has finished writing before they copy, and a half-written backup is never left behind.\n- The car report no longer opens after you cancel it.\n- The remote car address now accepts a name (like a DDNS address) as well as an IP address.\n- Service reset and Service functions open without a pause.\n- Revert all and Discard edits in the NCD editor now default to Cancel.",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
