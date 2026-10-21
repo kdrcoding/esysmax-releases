@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.46",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.46/E-Sys-Max-3.3.46-win-x64.msi",
-  "sha256": "08DE8AF363F287AD16D236F7542E9A982C8607972532735C31F671F603F3E804",
-  "size": 63197316,
-  "notes": "## Better\n- Problem reports leave out more personal details: user names with accents, the summary file, lower-case VINs, the licence name and the remote car address.\n- Flash assistant: E-Sys no longer stutters every second when the backup folder is on a slow or sleeping drive, and \u0022I checked the job\u0022 is cleared for a new job.\n- SVT Compare no longer shows a module as changed when only the order of its parts differs.\n- Service and Functions open only once, even on a double click.\n- If the launcher cannot open, it says so and closes, instead of blocking every later start.\n- A maximised launcher comes back maximised.",
+  "version": "3.3.47",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.47/E-Sys-Max-3.3.47-win-x64.msi",
+  "sha256": "BA2DD8B5AB016544866BDA1747216CA7F3B136BD5DA43CF06E83EF1CBFB92C9B",
+  "size": 63201412,
+  "notes": "## Better\n- Fault scan: Clear and Scan again wait for E-Sys to let go of a one-connection gateway, a retried module starts fresh, and a late answer to another question is never taken as the fault list.\n- A fault list read from a typed address is no longer filed under the car E-Sys holds when that may be another car.\n- Battery badge: the ignition is not shown as off when the engine computer answered a moment before, and a reading that finishes after you switched cars does not count for the new car.\n- Code several changes and Car search use the names of each module\u0027s own CAFD version.\n- Cheat sheets: search also finds the setting name shown in a row, sheets saved in other encodings keep their umlauts, and descriptions with \u20AC or \u2122 are kept.\n- Offline names stay available when another program holds their file for a moment.\n- Less stutter when names arrive while a module is open.",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
