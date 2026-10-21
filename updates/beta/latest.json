@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.57",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.57/E-Sys-Max-3.3.57-win-x64.msi",
-  "sha256": "F0856C898AEB81D9025C427DBD8A1ECC7995CC9DCF8A36D9C5BFBE6B7ED4AF9A",
-  "size": 63234180,
-  "notes": "## Better\n- Error windows stay in front of E-Sys MAX and close with Esc.\n- When E-Sys closes before its window shows, one message says so, not two.\n- Check for updates waits while an update downloads.\n- The Move licence window opens over the licence window it came from.",
+  "version": "3.3.58",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.58/E-Sys-Max-3.3.58-win-x64.msi",
+  "sha256": "C5AB20D633ED996A2B975DA43DB894ECCA25CCEA6538B7C930F46AE03E07D9FD",
+  "size": 63221892,
+  "notes": "## Fixed\n- ICOM: found while E-Sys is connected through it, also when a remote tool brings the ICOM to this PC (tcp://127.0.0.1:50160) or the ICOM is given by name.\n- Check car connection: an ICOM given by name, or through a remote tool on this PC, is checked too.\n## New\n- Double-click a line of the SVT or vehicle order (FA) tree to copy it with its name. Ctrl\u002BC copies the selected lines.",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
