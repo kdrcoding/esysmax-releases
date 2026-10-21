@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.43",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.43/E-Sys-Max-3.3.43-win-x64.msi",
-  "sha256": "40E33728013A0DFB68F85DA5A96A5B7C1C734B278028A5893EDD9D7E855497A1",
-  "size": 63197316,
-  "notes": "## Better\n- Setting names you gave are never lost when Windows or antivirus holds the names file for a moment.\n- Names imported from PSdZData now remember their CAFD version, so a name from another version is no longer shown as BMW\u0027s.\n- Backups wait until E-Sys has finished writing before they copy, and a half-written backup is never left behind.\n- The car report no longer opens after you cancel it.\n- The remote car address now accepts a name (like a DDNS address) as well as an IP address.\n- Service reset and Service functions open without a pause.\n- Revert all and Discard edits in the NCD editor now default to Cancel.",
+  "version": "3.3.44",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.44/E-Sys-Max-3.3.44-win-x64.msi",
+  "sha256": "1E5F58398D956E8FB7B6D6A1A6EB49508FACEE2D6130CF41B18626234A380983",
+  "size": 63213700,
+  "notes": "## Better\n- Service functions: a routine the module does not report on now shows as started, never as finished.\n- Service reset and Service functions check once more that E-Sys is still closed right before they send.\n- Battery registration checks the ignition and E-Sys once more before it sends, and names a remote car in its question.\n- Fault clear and battery registration never call a \u0022still working\u0022 answer a refusal.\n- NCD editor: picking a value always writes exactly that value, and a file opened from E-Sys while Save is open is never saved under the other file\u0027s name.\n- Settings for an E-Sys open without a pause, even when its PSdZData folder is on a sleeping drive.\n- The launcher no longer pops up over the logo screen while E-Sys starts.\n- Signed NCD and CAFD version numbers work on PCs set to Persian or Arabic number formats.",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
