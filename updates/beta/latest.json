@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.37",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.37/E-Sys-Max-3.3.37-win-x64.msi",
-  "sha256": "2CDE9FFC6726A82B2C8D997712811D9B0A7A4BF9B2AA25942384AB04C3D174FF",
-  "size": 63197316,
-  "notes": "## Improved\n- Almost every coding setting in the CAFD editor now has a plain English explanation, and every new explanation was checked a second time so unclear ones stay careful instead of guessing.",
+  "version": "3.3.38",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.38/E-Sys-Max-3.3.38-win-x64.msi",
+  "sha256": "430BEAA5EB9B7F7046871A3A6244F36314ADF39F1F254FD622FFD6FAB8D72BCC",
+  "size": 63189124,
+  "notes": "## Improved\n- Setting explanations in the CAFD editor are now correct for every car series and module that uses the same setting name (no more F-series examples on a G-series car).",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
