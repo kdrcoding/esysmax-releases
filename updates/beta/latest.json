@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.4.1",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.4.1/E-Sys-Max-3.4.1-win-x64.msi",
-  "sha256": "14372BDD6E7FA8409D8CFB5C9429DBFEDCC87D52DAE6CEE27BF7B94C76038F73",
-  "size": 63225988,
-  "notes": "## Fixed\n- SVT-Editor: Ctrl\u002BA selects every module again, the last one included.",
+  "version": "3.4.2",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.4.2/E-Sys-Max-3.4.2-win-x64.msi",
+  "sha256": "15E0ABF2412F3F6EF4D39CACED740099BDDE9C3ED70DFF49C475664ABC5B6D65",
+  "size": 63213700,
+  "notes": "## Fixed\n- KL15 and KL30 plates on remote, ICOM and one-connection gateways: a click reads at once, and the ignition plate follows the car within seconds (it used to wait or not react).",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
