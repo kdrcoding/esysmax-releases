@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.38",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.38/E-Sys-Max-3.3.38-win-x64.msi",
-  "sha256": "430BEAA5EB9B7F7046871A3A6244F36314ADF39F1F254FD622FFD6FAB8D72BCC",
-  "size": 63189124,
-  "notes": "## Improved\n- Setting explanations in the CAFD editor are now correct for every car series and module that uses the same setting name (no more F-series examples on a G-series car).",
+  "version": "3.3.39",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.39/E-Sys-Max-3.3.39-win-x64.msi",
+  "sha256": "EF1B64F62C263F54BC598A510202EBF9D26B34BFB348E82257C71CB885C3F9EE",
+  "size": 63205508,
+  "notes": "## New\n- Read and edit settings: right-click a module in the SVT on the Coding page. E-Sys reads its coding from the car and the FDL-Editor opens with it, in one step.\n## Better\n- The Save window names the file for you every time (vehicle order, SVT, TAL), also the first time.\n- The vehicle profile beside the vehicle order fits smaller screens: the code lists keep their height and nothing is cut off.",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
