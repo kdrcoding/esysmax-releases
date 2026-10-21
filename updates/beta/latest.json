@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.49",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.49/E-Sys-Max-3.3.49-win-x64.msi",
-  "sha256": "791B629664B118367909F1E5B089E2E00A6C40DE174B17E3FAC7425251339863",
-  "size": 63185028,
-  "notes": "## Better\n- The launcher fits small laptop screens (1366x768, big Windows text): the window and the coding window are never taller than the screen.\n- Long tooltips wrap, right-click menus and lists are dark like the rest of the launcher, and version names and status texts end in \u0022...\u0022 instead of being cut off.\n- After sending a problem report or a message, the window shows Close (no more Sent and Done buttons).\n- Problem reports leave out more: VINs in any form and the address of a remote car.\n- Help improve names never sends a typed e-mail address or phone number.\n- Uninstalling with \u0022remove from E-Sys\u0022 also cleans your own E-Sys entries.",
+  "version": "3.3.50",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.50/E-Sys-Max-3.3.50-win-x64.msi",
+  "sha256": "34B1D72FD7CD66FC4D2CD12D8B447C1EEF3E0C5FF196B357186C64DA9542DFFD",
+  "size": 63193220,
+  "notes": "## Better\n- Two modules that share one CAFD keep their own My coding apart, also when the file was opened with E-Sys\u0027s own Edit FDL.\n- Ticked changes in \u0022What can I code?\u0022 are cleared when another coding file opens.\n- Re-apply my coding saves without freezing the window.\n- Read and edit stops if you click another module or another car connects before the read starts.\n- Backups and working copies are never left half-written after a power cut.\n- The coding editor stays smoother while setting names load.",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
