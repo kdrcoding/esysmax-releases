@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.44",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.44/E-Sys-Max-3.3.44-win-x64.msi",
-  "sha256": "1E5F58398D956E8FB7B6D6A1A6EB49508FACEE2D6130CF41B18626234A380983",
-  "size": 63213700,
-  "notes": "## Better\n- Service functions: a routine the module does not report on now shows as started, never as finished.\n- Service reset and Service functions check once more that E-Sys is still closed right before they send.\n- Battery registration checks the ignition and E-Sys once more before it sends, and names a remote car in its question.\n- Fault clear and battery registration never call a \u0022still working\u0022 answer a refusal.\n- NCD editor: picking a value always writes exactly that value, and a file opened from E-Sys while Save is open is never saved under the other file\u0027s name.\n- Settings for an E-Sys open without a pause, even when its PSdZData folder is on a sleeping drive.\n- The launcher no longer pops up over the logo screen while E-Sys starts.\n- Signed NCD and CAFD version numbers work on PCs set to Persian or Arabic number formats.",
+  "version": "3.3.45",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.45/E-Sys-Max-3.3.45-win-x64.msi",
+  "sha256": "9C2D1503E40760EEE69433E61DF5539C568FE809EBE127CB9F9954AEFACE7783",
+  "size": 63180932,
+  "notes": "## Better\n- My coding saved for one module is never offered to another module that uses the same CAFD.\n- Code several changes refuses two ticked changes that set the same setting, and names every My coding change in its question.\n- If a change in the FDL-Editor can only be put back partly, it says so and keeps it for Undo.\n- An update never installs over an E-Sys or E-Sys MAX window opened during the download.\n- Repairing the E-Sys menu entry now also removes a second E-Sys MAX entry, and E-Sys file backups are never overwritten.\n- Settings saved at the same moment by two windows no longer overwrite each other.",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
