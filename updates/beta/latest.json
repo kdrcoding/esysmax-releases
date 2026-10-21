@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.47",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.47/E-Sys-Max-3.3.47-win-x64.msi",
-  "sha256": "BA2DD8B5AB016544866BDA1747216CA7F3B136BD5DA43CF06E83EF1CBFB92C9B",
-  "size": 63201412,
-  "notes": "## Better\n- Fault scan: Clear and Scan again wait for E-Sys to let go of a one-connection gateway, a retried module starts fresh, and a late answer to another question is never taken as the fault list.\n- A fault list read from a typed address is no longer filed under the car E-Sys holds when that may be another car.\n- Battery badge: the ignition is not shown as off when the engine computer answered a moment before, and a reading that finishes after you switched cars does not count for the new car.\n- Code several changes and Car search use the names of each module\u0027s own CAFD version.\n- Cheat sheets: search also finds the setting name shown in a row, sheets saved in other encodings keep their umlauts, and descriptions with \u20AC or \u2122 are kept.\n- Offline names stay available when another program holds their file for a moment.\n- Less stutter when names arrive while a module is open.",
+  "version": "3.3.48",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.48/E-Sys-Max-3.3.48-win-x64.msi",
+  "sha256": "47F4E49555B9626CD213A85CD6459A118E987A34B05B59112BB11D1E5ADEA2B7",
+  "size": 63197316,
+  "notes": "## Better\n- FA helper no longer makes another car\u0027s vehicle order the active one while E-Sys is connected to a car.\n- Write vehicle order stops if a different order replaced the one in the question.\n- Signed NCD insert: a normal coding file whose name does not match its content is refused.\n- Coding history and Help improve names: no freeze when a module has many saved codings, and sent names say which CAFD version they are for.\n- Launcher: the coding window no longer opens twice when you take a while in \u0022Select coding data\u0022, and double clicks on Settings, Editor, Backup and Fix integration open one window only.\n- Saving an E-Sys\u0027s settings with PSdZData on a sleeping or network drive no longer freezes the window.\n- Service tools work with user names that have accents (M\u00FCller, \u00C7a\u011Fr\u0131).\n- Settings and session files are safer if the PC loses power mid-save.",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
