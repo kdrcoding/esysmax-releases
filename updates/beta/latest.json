@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.52",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.52/E-Sys-Max-3.3.52-win-x64.msi",
-  "sha256": "F48DFF8C275D20218DB476D43D4B9616193A5F703031EE308E974FB555E53C74",
-  "size": 63205508,
-  "notes": "## Better\n- Pressing play on an E-Sys that was opened from its own shortcut now says it runs without E-Sys MAX, instead of only bringing it to the front.\n- Remove from E-Sys works when E-Sys lists E-Sys MAX twice.\n- The coding window no longer leaves a hidden process behind when it cannot open.\n- A hand-edited settings file with empty parts no longer stops E-Sys from starting.\n- The E-Sys settings window no longer shows an error when antivirus holds its change log.\n- A clearer hint when an E-Sys folder needs administrator rights.\n- Folder choices in the coding window are saved safely beside other launcher windows.",
+  "version": "3.3.53",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.53/E-Sys-Max-3.3.53-win-x64.msi",
+  "sha256": "EC3812C24FC03EF1EF640B2508F15D6FBF1D6F5841644409A1A3695212D12848",
+  "size": 63201412,
+  "notes": "## Better\n- Coding window: a working copy is never saved from a file that E-Sys read again meanwhile, so it cannot undo newer coding.\n- Coding shortcuts never change emissions-relevant (OBD) settings, the same as changes by hand.\n- Opening the same coding file twice brings its window forward instead of opening a second one.\n- Full backup: when a read ends with an error and the file did not change, it is saved as what E-Sys had open, not as read from the car.\n- Full backup says so when E-Sys coded a module while it ran.\n- Coding read back to an earlier state shows as the newest coding again.\n- Backups and copies are never left half-written under their real names.",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
