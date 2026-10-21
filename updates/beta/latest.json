@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.50",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.50/E-Sys-Max-3.3.50-win-x64.msi",
-  "sha256": "34B1D72FD7CD66FC4D2CD12D8B447C1EEF3E0C5FF196B357186C64DA9542DFFD",
-  "size": 63193220,
-  "notes": "## Better\n- Two modules that share one CAFD keep their own My coding apart, also when the file was opened with E-Sys\u0027s own Edit FDL.\n- Ticked changes in \u0022What can I code?\u0022 are cleared when another coding file opens.\n- Re-apply my coding saves without freezing the window.\n- Read and edit stops if you click another module or another car connects before the read starts.\n- Backups and working copies are never left half-written after a power cut.\n- The coding editor stays smoother while setting names load.",
+  "version": "3.3.51",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.51/E-Sys-Max-3.3.51-win-x64.msi",
+  "sha256": "A7BF937A346149BBB783DC9E00BF51D4E141125CA2BDE3285571566AB2C3E5C1",
+  "size": 63213700,
+  "notes": "## Better\n- Flash assistant starts again when another car is connected, never carries a \u0022flash even if up to date\u0022 target into a whole-car update, and stops when the vehicle order and the job are for two different cars.\n- Exclude modules no longer remembers ticks for a car it cannot name.\n- Register a new battery: only for petrol engine computers it knows, never sent blind when the battery cannot be read, and never while another E-Sys MAX job starts.\n- Service reset: an item the engine or brake module cannot reset itself is reset in the instrument cluster.\n- Message windows fit their text: no more big empty boxes.\n- Coding history: version rows fit their column.\n- Car reports and imported names files are safer with odd files from others.",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
