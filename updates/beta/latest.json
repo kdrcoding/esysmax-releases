@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.4.2",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.4.2/E-Sys-Max-3.4.2-win-x64.msi",
-  "sha256": "15E0ABF2412F3F6EF4D39CACED740099BDDE9C3ED70DFF49C475664ABC5B6D65",
-  "size": 63213700,
-  "notes": "## Fixed\n- KL15 and KL30 plates on remote, ICOM and one-connection gateways: a click reads at once, and the ignition plate follows the car within seconds (it used to wait or not react).",
+  "version": "3.4.3",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.4.3/E-Sys-Max-3.4.3-win-x64.msi",
+  "sha256": "ADE621CCF865AFD22DD1185F61DC71B3C3B0657A80EA7F1AA8A994652A0205D6",
+  "size": 63234180,
+  "notes": "## Fixed\n- KL15 and KL30 plates with an ICOM passed on by a remote tool (local address or name): they read through E-Sys again instead of staying empty.",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
