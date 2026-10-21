@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.40",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.40/E-Sys-Max-3.3.40-win-x64.msi",
-  "sha256": "74BA6CAB06C352DEC3C47D7E92CA5927A2464B00EDDA6CF3ECA8D23FB9D87E23",
-  "size": 63172740,
-  "notes": "## Better\n- After you save a file (your setting names, a copy of names to share, an NCD working copy) E-Sys MAX shows where it went, with Show in folder.",
+  "version": "3.3.41",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.41/E-Sys-Max-3.3.41-win-x64.msi",
+  "sha256": "02D66EC6B090A9338678746C653F9836A8C29A0645CD234B03FB24BAD8B91857",
+  "size": 63176836,
+  "notes": "## Better\n- Read and edit settings opens the coding E-Sys just read, also when the same file was backed up earlier that day.\n- Save names fit the folder: TAL saves are named TAL, and a name you typed last time is not kept for the next save.\n- Show in folder works for folders with spaces in their names.\n- Module info, the fault scan and the coding backup copy handle a car that disconnects or changes more safely.\n- Settings and NCD working copies are saved more safely.",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
