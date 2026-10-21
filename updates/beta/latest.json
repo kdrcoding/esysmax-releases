@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.55",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.55/E-Sys-Max-3.3.55-win-x64.msi",
-  "sha256": "EECC94F3EB5FF7B42A9FCBBEA41960EFB9B55E5C4347A6C0651461204BDCBF98",
-  "size": 63225988,
-  "notes": "## Fixed\n- Fault scan: while E-Sys is connected, E-Sys MAX never opens a second connection to the car beside E-Sys\u0027s own, also when no SVT is open.\n- Fault scan: a typed gateway address of another car is read at that address, not through E-Sys\u0027s connection.\n- Fault scan and Clear stop when E-Sys reconnects part way.\n- Fault scan: one module that does not answer no longer ends the whole scan.\n- Clear in a remote session asks every module for the VIN, not only the faulty ones.",
+  "version": "3.3.56",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.56/E-Sys-Max-3.3.56-win-x64.msi",
+  "sha256": "9C5B956A84828DF25911C0B7E77315DD94723A773478DB036DD69CD80DACDEF4",
+  "size": 63213700,
+  "notes": "## Better\n- Restart module from the SVT menu follows the same connection check as the fault scan.\n- Fault scan: the empty gateway box says the address is found by itself.\n- Problem reports leave out more personal details: other Windows user folders, network addresses outside the PC and e-mail addresses.\n- Name suggestions never send an e-mail address or phone number typed as a name.",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
