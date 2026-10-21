@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.41",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.41/E-Sys-Max-3.3.41-win-x64.msi",
-  "sha256": "02D66EC6B090A9338678746C653F9836A8C29A0645CD234B03FB24BAD8B91857",
-  "size": 63176836,
-  "notes": "## Better\n- Read and edit settings opens the coding E-Sys just read, also when the same file was backed up earlier that day.\n- Save names fit the folder: TAL saves are named TAL, and a name you typed last time is not kept for the next save.\n- Show in folder works for folders with spaces in their names.\n- Module info, the fault scan and the coding backup copy handle a car that disconnects or changes more safely.\n- Settings and NCD working copies are saved more safely.",
+  "version": "3.3.42",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.42/E-Sys-Max-3.3.42-win-x64.msi",
+  "sha256": "DD93C7A64DEC2FDDF301B5E657D665350735CF1198AE15FC7BEE1F47E1E65AF1",
+  "size": 63185028,
+  "notes": "## Better\n- Fault clear: a module that got the clear request but gave no clear answer is shown as not sure, never as not cleared.\n- Save and code, Code several changes, Write vehicle order and battery registration check the car and E-Sys once more right before they write, and say honestly when it is not sure whether something was written.\n- Updates are never installed while E-Sys is open, and a beta update requirement no longer blocks E-Sys after beta updates are turned off.\n- The update check works better when the website is slow.",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
