@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.4.4",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.4.4/E-Sys-Max-3.4.4-win-x64.msi",
-  "sha256": "6E05FAD2746AD95006FC5674CBBB3B11247A80F271FAD1E9C185912BC13C7D7C",
-  "size": 63225988,
-  "notes": "## Better\n- The ignition plate (KL15) reads the ignition state from the car itself, so it shows off right after you switch off.\n- Hover the battery or ignition plate to see which connection E-Sys MAX found (ENET, ICOM or remote).",
+  "version": "3.4.5",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.4.5/E-Sys-Max-3.4.5-win-x64.msi",
+  "sha256": "D6C02E0629E0848A0CA29A26A371702470C7331ACD12FE59EF326FDEA7B8ADF9",
+  "size": 63230084,
+  "notes": "## New\n- Ignition on / off (G-series cars, new): in the E-Sys MAX menu, switch the ignition (KL15) on or off from the PC. It asks first, and shows what the car reports afterwards.",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
