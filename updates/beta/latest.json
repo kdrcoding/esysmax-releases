@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.59",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.59/E-Sys-Max-3.3.59-win-x64.msi",
-  "sha256": "C76CD86CEBC1E150D706EB2E1E3206241CE8CCCAA16417B205CFB0B1B363D2F3",
+  "version": "3.4.0",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.4.0/E-Sys-Max-3.4.0-win-x64.msi",
+  "sha256": "91BFD70377310F2F4EBA822FD3DBCA78914B7FEBFE34D9B7D809CB68910C159D",
   "size": 63234180,
-  "notes": "## New\n- Service functions and Service reset work with a remote car or an ICOM: type its address in the new Car address box, or leave it empty and the car is found by itself (ENET cable, E-Sys\u0027s remote gateway URL or its ICOM). The car\u0027s VIN is always shown before anything is sent.\n## Better\n- Cheat sheets: a sheet that cannot be read is named with the reason, instead of being left out without a word.\n- Double-click copy in the SVT and FA trees shows a short Copied note and keeps E-Sys\u0027s own tooltips and keys.",
+  "notes": "## Fixed\n- The battery badge reads again for remote and ICOM connections (it could stay on \u0022reading...\u0022 in 3.3.58 and 3.3.59).\n- Fault scan and module info find the car on a remote ICOM given by name or through a local port.\n## Better\n- Windows never open on top of each other at start: the licence window and an update question take turns.\n- Notices wait their turn instead of replacing one another.\n- The Welcome and Terms windows fit small laptop screens.\n- Save and code warns more clearly when it cannot tell which car a coding file came from.",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
