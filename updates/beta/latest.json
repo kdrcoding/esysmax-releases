@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.45",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.45/E-Sys-Max-3.3.45-win-x64.msi",
-  "sha256": "9C2D1503E40760EEE69433E61DF5539C568FE809EBE127CB9F9954AEFACE7783",
-  "size": 63180932,
-  "notes": "## Better\n- My coding saved for one module is never offered to another module that uses the same CAFD.\n- Code several changes refuses two ticked changes that set the same setting, and names every My coding change in its question.\n- If a change in the FDL-Editor can only be put back partly, it says so and keeps it for Undo.\n- An update never installs over an E-Sys or E-Sys MAX window opened during the download.\n- Repairing the E-Sys menu entry now also removes a second E-Sys MAX entry, and E-Sys file backups are never overwritten.\n- Settings saved at the same moment by two windows no longer overwrite each other.",
+  "version": "3.3.46",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.46/E-Sys-Max-3.3.46-win-x64.msi",
+  "sha256": "08DE8AF363F287AD16D236F7542E9A982C8607972532735C31F671F603F3E804",
+  "size": 63197316,
+  "notes": "## Better\n- Problem reports leave out more personal details: user names with accents, the summary file, lower-case VINs, the licence name and the remote car address.\n- Flash assistant: E-Sys no longer stutters every second when the backup folder is on a slow or sleeping drive, and \u0022I checked the job\u0022 is cleared for a new job.\n- SVT Compare no longer shows a module as changed when only the order of its parts differs.\n- Service and Functions open only once, even on a double click.\n- If the launcher cannot open, it says so and closes, instead of blocking every later start.\n- A maximised launcher comes back maximised.",
   "published": "2026-10-21",
   "minimumVersion": "3.0.6",
   "channel": "beta"
