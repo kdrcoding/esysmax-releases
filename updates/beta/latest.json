@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.5.0",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.5.0/E-Sys-Max-3.5.0-win-x64.msi",
-  "sha256": "DE382F854A5619534450B1D8EAE03E216D2F1C7CECA7A336656476B36143D153",
-  "size": 63246468,
-  "notes": "Coding ideas window with tabs, simpler menu and many fixes.",
+  "version": "3.5.1",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.5.1/E-Sys-Max-3.5.1-win-x64.msi",
+  "sha256": "75A35BC28D9DD04D399E428684C285BDE7C0E5FA76F17C533FEC0194848FA2C5",
+  "size": 63238276,
+  "notes": "## New\n- New Home: a side bar for Home, Settings and About, and a workspace with your setup, your garage and Launch E-Sys.\n- Launch E-Sys: choose a version, then press Launch. A double-click starts it at once.\n- Your car is drawn in light, in its own colour, on the Home page and the loading screen.\n## Better\n- The E-Sys Light or Dark choice is always in sight, under the Launch button.\n- Setup check in one card: E-Sys, PSdZData and the cable at a glance.\n- Fits small laptop screens better.",
   "published": "2026-10-22",
   "minimumVersion": "3.0.6",
   "channel": "beta"
