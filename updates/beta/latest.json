@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.4.10",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.4.10/E-Sys-Max-3.4.10-win-x64.msi",
-  "sha256": "1EDE9834C7EC9CFCFFB784950FA733B92D55D2FC84D86FFEAE1ABAF6B985EEC2",
+  "version": "3.5.0",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.5.0/E-Sys-Max-3.5.0-win-x64.msi",
+  "sha256": "DE382F854A5619534450B1D8EAE03E216D2F1C7CECA7A336656476B36143D153",
   "size": 63246468,
-  "notes": "One Coding ideas window with tabs for features, retrofits, cheat sheets and searching the car. Simpler menu.",
+  "notes": "Coding ideas window with tabs, simpler menu and many fixes.",
   "published": "2026-10-22",
   "minimumVersion": "3.0.6",
   "channel": "beta"
