@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.4.8",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.4.8/E-Sys-Max-3.4.8-win-x64.msi",
-  "sha256": "BCE7ED179C9D061189728AC62F685E15FCD99C526EC60F8B8748CEE0F180EEC6",
-  "size": 63254660,
-  "notes": "Small fixes and better reliability on PCs set to other languages.",
+  "version": "3.4.9",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.4.9/E-Sys-Max-3.4.9-win-x64.msi",
+  "sha256": "B6E7A7C48B07C4F488AA4EE7E1284BE02BD0F2271600FB6A158FA136A16409AA",
+  "size": 63250564,
+  "notes": "Simpler E-Sys MAX menu: tools grouped, and items that do not fit the car are hidden. E-Sys starts even when an antivirus removed E-Sys.exe. Small fixes.",
   "published": "2026-10-22",
   "minimumVersion": "3.0.6",
   "channel": "beta"
