@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.5.3",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.5.3/E-Sys-Max-3.5.3-win-x64.msi",
-  "sha256": "962C024D0A9ED5B1B9763E05E9722D3E3DDFCCDD59DED9AC69A7D759AC41CB7B",
-  "size": 63250564,
-  "notes": "## Better\n- Ignition on / off from the PC now also works on cars with the earlier BDC body module (BDC_BODY2).",
+  "version": "3.5.4",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.5.4/E-Sys-Max-3.5.4-win-x64.msi",
+  "sha256": "08CFFE5F9D8C418949013BE3DBE19B9080AC02A0C2E439343146B0C709438A56",
+  "size": 63246468,
+  "notes": "## New\n- Light look: choose Dark or Light at the bottom of the side bar. The launcher restarts in the new colours.\n## Better\n- Settings and About have the same look as the new Home.",
   "published": "2026-10-22",
   "minimumVersion": "3.0.6",
   "channel": "beta"
