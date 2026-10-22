@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.5.5",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.5.5/E-Sys-Max-3.5.5-win-x64.msi",
-  "sha256": "F4E8AF7C07E9145497292136ED33950ACE3644988150B8E0BE1C8D3FF71C1159",
-  "size": 63283332,
-  "notes": "## New\n- Service reset: the car\u0027s service history. On newer instrument clusters, every past service reset is listed with the car\u0027s own date and mileage.",
+  "version": "3.5.6",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.5.6/E-Sys-Max-3.5.6-win-x64.msi",
+  "sha256": "9788CA5477E0D7E023B0EDAA330EC6F2E6E70465EFD0EBD1E5EFE8A712828453",
+  "size": 63250564,
+  "notes": "## Fixed\n- Service reset: the note that a reset was added to the car\u0027s service history now also shows when that history is full.",
   "published": "2026-10-22",
   "minimumVersion": "3.0.6",
   "channel": "beta"
