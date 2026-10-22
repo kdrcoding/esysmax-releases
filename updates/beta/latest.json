@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.5.4",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.5.4/E-Sys-Max-3.5.4-win-x64.msi",
-  "sha256": "08CFFE5F9D8C418949013BE3DBE19B9080AC02A0C2E439343146B0C709438A56",
-  "size": 63246468,
-  "notes": "## New\n- Light look: choose Dark or Light at the bottom of the side bar. The launcher restarts in the new colours.\n## Better\n- Settings and About have the same look as the new Home.",
+  "version": "3.5.5",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.5.5/E-Sys-Max-3.5.5-win-x64.msi",
+  "sha256": "F4E8AF7C07E9145497292136ED33950ACE3644988150B8E0BE1C8D3FF71C1159",
+  "size": 63283332,
+  "notes": "## New\n- Service reset: the car\u0027s service history. On newer instrument clusters, every past service reset is listed with the car\u0027s own date and mileage.",
   "published": "2026-10-22",
   "minimumVersion": "3.0.6",
   "channel": "beta"
