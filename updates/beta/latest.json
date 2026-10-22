@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.5.7",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.5.7/E-Sys-Max-3.5.7-win-x64.msi",
-  "sha256": "B6A354ABD3FA2AA479C63A005FA2634F7E399A0FDDD0D830EAB40D73E4252DCB",
-  "size": 63246468,
-  "notes": "## Fixed\n- Service reset: the same item reset twice on one day is now seen as a new service history entry.\n- Settings: changing between the light and dark look now waits until an update download, a problem report or a refresh has finished.",
+  "version": "3.5.8",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.5.8/E-Sys-Max-3.5.8-win-x64.msi",
+  "sha256": "894428F2EA8F11DB02989818870100A05E056CEE184E3DF35D12AB31AA252A29",
+  "size": 63230084,
+  "notes": "## Improved\n- Home: the Launch E-Sys panel shows more E-Sys versions at once; the E-Sys look switch moved up next to its title.\n- Free trial: shown at the top of the window with a Buy button, so Home has more room.",
   "published": "2026-10-22",
   "minimumVersion": "3.0.6",
   "channel": "beta"
