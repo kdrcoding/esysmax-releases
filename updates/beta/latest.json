@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.5.2",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.5.2/E-Sys-Max-3.5.2-win-x64.msi",
-  "sha256": "E8352239EACFEDF3C34F164393B37EF3B1DCD0F399099D437E71A6193C62E447",
-  "size": 63262852,
-  "notes": "## Better\n- Click the KL15 plate to read the ignition now or to switch it on or off (on cars that support it).\n- Clearer help when EDIABAS on this PC cannot start (missing 64-bit part or Visual C\u002B\u002B files).",
+  "version": "3.5.3",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.5.3/E-Sys-Max-3.5.3-win-x64.msi",
+  "sha256": "962C024D0A9ED5B1B9763E05E9722D3E3DDFCCDD59DED9AC69A7D759AC41CB7B",
+  "size": 63250564,
+  "notes": "## Better\n- Ignition on / off from the PC now also works on cars with the earlier BDC body module (BDC_BODY2).",
   "published": "2026-10-22",
   "minimumVersion": "3.0.6",
   "channel": "beta"
