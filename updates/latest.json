@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.3.38",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.3.38/E-Sys-Max-3.3.38-win-x64.msi",
-  "sha256": "430BEAA5EB9B7F7046871A3A6244F36314ADF39F1F254FD622FFD6FAB8D72BCC",
-  "size": 63189124,
-  "notes": "## New\n- Almost every coding setting in the CAFD editor now has a plain English explanation, and each one is true for every car series and module that uses the setting.\n- The FDL-Editor\u0027s own \u0022Search for\u0022 box finds settings by the names E-Sys MAX shows (for example HMI in the head unit), also after you open another coding file.\n- Remote coding (Radmin VPN, Hamachi, ZeroTier, Tailscale, AnyDesk and other remote tools): fault scan, Module info, Restart module, battery voltage and backups go through E-Sys\u0027s own connection, so E-Sys keeps the car. About \u003E Check car connection has a Remote car address box.\n- Ignition status (KL15) next to the battery voltage: on, engine on or off.\n- Fault scan explains many more faults.\n## Better\n- A licence you buy while E-Sys is open arrives by itself and is used right away, without starting E-Sys again.\n- Fault scan, Saved lists, backups and the FDL-Editor stay smooth without freezing E-Sys.\n- Code several changes goes on to the next module on E-Sys 24 too, and says clearly when a module may be coded in part.\n- Pressing Code by hand while an E-Sys MAX job runs, or with an edit for another car still waiting, asks first.\n- Clearing faults and token steps say \u0022not sure\u0022 when no answer came back from the car.\n- Updates arrive even when the website is down.\n- Clearer messages on the licence screen, for required updates and in remote sessions.\n## Fixed\n- Many fixes in the fault scan, full backups, the vehicle order, cheat sheets, What to code for a feature, the FA editor and Settings.\n- Problem reports leave out every login, password and PIN line.\n- Small fixes.",
-  "published": "2026-10-21",
+  "version": "3.5.0",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.5.0/E-Sys-Max-3.5.0-win-x64.msi",
+  "sha256": "DE382F854A5619534450B1D8EAE03E216D2F1C7CECA7A336656476B36143D153",
+  "size": 63246468,
+  "notes": "## New\n- Coding ideas: one window with tabs for what to code for a feature, retrofit steps, cheat sheets and a search of every setting of your car.\n- Simpler E-Sys MAX menu: tools are grouped, and tools that do not fit the car in E-Sys stay hidden.\n- Right-click a module in the SVT \u003E Edit settings: reads the module and opens every setting in the FDL-Editor.\n- Ignition on / off from the PC on G-series cars.\n- Ignition status next to the battery voltage shows how fresh it is.\n- Open ICOM page: the ICOM\u0027s own page, or how to free a busy ICOM.\n- Copy SVT and FA lines with a double-click or Ctrl\u002BC, and Show in folder after saving.\n- Car address box in Service functions and Service reset (remote sessions, ICOM or cable).\n## Better\n- Fault scan never opens a second connection next to E-Sys, and ignores an SVT that belongs to another car.\n- Save names are filled in right the first time.\n- E-Sys starts even when an antivirus removed E-Sys.exe.\n- Works the same on PCs set to other languages.\n- The launcher fits small screens better.\n## Fixed\n- SVT editor: select all then Delete no longer leaves modules behind.\n- Battery status no longer stays on \u0022reading\u0022 with some ICOMs.\n- Many small fixes.",
+  "published": "2026-10-22",
   "minimumVersion": "3.0.6",
   "channel": "main"
 }
