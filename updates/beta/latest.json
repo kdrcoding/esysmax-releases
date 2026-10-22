@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.5.1",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.5.1/E-Sys-Max-3.5.1-win-x64.msi",
-  "sha256": "75A35BC28D9DD04D399E428684C285BDE7C0E5FA76F17C533FEC0194848FA2C5",
-  "size": 63238276,
-  "notes": "## New\n- New Home: a side bar for Home, Settings and About, and a workspace with your setup, your garage and Launch E-Sys.\n- Launch E-Sys: choose a version, then press Launch. A double-click starts it at once.\n- Your car is drawn in light, in its own colour, on the Home page and the loading screen.\n## Better\n- The E-Sys Light or Dark choice is always in sight, under the Launch button.\n- Setup check in one card: E-Sys, PSdZData and the cable at a glance.\n- Fits small laptop screens better.",
+  "version": "3.5.2",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.5.2/E-Sys-Max-3.5.2-win-x64.msi",
+  "sha256": "E8352239EACFEDF3C34F164393B37EF3B1DCD0F399099D437E71A6193C62E447",
+  "size": 63262852,
+  "notes": "## Better\n- Click the KL15 plate to read the ignition now or to switch it on or off (on cars that support it).\n- Clearer help when EDIABAS on this PC cannot start (missing 64-bit part or Visual C\u002B\u002B files).",
   "published": "2026-10-22",
   "minimumVersion": "3.0.6",
   "channel": "beta"
