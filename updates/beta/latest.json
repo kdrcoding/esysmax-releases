@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.5.8",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.5.8/E-Sys-Max-3.5.8-win-x64.msi",
-  "sha256": "894428F2EA8F11DB02989818870100A05E056CEE184E3DF35D12AB31AA252A29",
-  "size": 63230084,
-  "notes": "## Improved\n- Home: the Launch E-Sys panel shows more E-Sys versions at once; the E-Sys look switch moved up next to its title.\n- Free trial: shown at the top of the window with a Buy button, so Home has more room.",
+  "version": "3.5.9",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.5.9/E-Sys-Max-3.5.9-win-x64.msi",
+  "sha256": "4BF3981C44F50A93C9D7E9B0C04627B616A18A7FBF37936E4AC59C2443C3A44E",
+  "size": 63262852,
+  "notes": "## Improved\n- Light look: the small windows (licence, service reset, connection check and others) now have a light title bar too.",
   "published": "2026-10-22",
   "minimumVersion": "3.0.6",
   "channel": "beta"
