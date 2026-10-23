@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.6.11",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.6.11/E-Sys-Max-3.6.11-win-x64.msi",
-  "sha256": "CDF0DCB3743EDDAD21D3BF30979E1BB2337246AFA30809A02FD848CE5C18D73A",
-  "size": 63562044,
-  "notes": "- Shortcuts in Settings now show each key right next to its screen.\n- Change keys opens a clear window: one row per screen, with its key on the same row.",
+  "version": "4.0.0",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.0/E-Sys-Max-4.0.0-win-x64.msi",
+  "sha256": "1BCD8403C2FFC4134C5719C060A39CFBB36EEC544BB83DFA40B5AE10A473411C",
+  "size": 63553852,
+  "notes": "## New look\n- Home, Settings and About are tabs at the top, and the whole window is yours.\n- Your car is drawn in light, in its own colour, on Home and the loading screen.\n- Launch E-Sys: one clean line per version. Pick one and press Launch, or double-click to start it at once.\n- Light look: choose Dark or Light at the top right; it asks before it restarts.\n\n## New\n- PSdZData doctor: Home spots PSdZData in the wrong place (one folder too deep, in Downloads or Desktop), half unpacked or still zipped. Fix it points E-Sys at the right folder. Nothing is moved or deleted.\n- Service history: on newer instrument clusters, every past service reset is listed with the car\u0027s own date and mileage.\n- Ignition: click the KL15 plate to read it, or switch it on or off from the PC (on cars that support it).\n- What\u0027s new after each update, shown once.\n- Last session under Launch: which E-Sys, when, how long, the car it read.\n- Copy setup for support in About: versions, PSdZData and checks to paste in a support chat.\n- Ctrl\u002B1/2/3 switch between Home, Settings and About.\n- F-key shortcuts in E-Sys: F2 Connect, F3 Coding, F4 TAL-Processing, F6 FSC, F7 VCM, F9 Fault scan. Settings shows each key next to its screen; Change keys opens a clear window to pick them.\n\n## Improved\n- A new dark installer with the E-Sys MAX logo. Updates and removal show the same dark pages.\n- Setup check in one card: E-Sys, PSdZData and the cable at a glance.\n- About and Settings in two tidy columns.\n- Free trial shown at the top with a Buy button.\n- Clearer help when EDIABAS on this PC cannot start.\n\n## Fixed\n- Take me there finds VCM, FSC Extended and Coding-Verification on newer E-Sys.\n- Fault clearing, restart, battery registration and ignition check the same car is still connected.\n- Small fixes and checks.",
   "published": "2026-10-23",
   "minimumVersion": "3.0.6",
   "channel": "beta"
