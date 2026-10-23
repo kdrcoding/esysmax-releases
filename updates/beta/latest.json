@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.0.3",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.3/E-Sys-Max-4.0.3-win-x64.msi",
-  "sha256": "A187A2E19A935BFF178CFCE9415763C16199BC9C5A1A7A4CECD292F757ADF14D",
-  "size": 63553852,
-  "notes": "Service functions and Service reset no longer need E-Sys closed, also for remote cars. Only when E-Sys is connected to the car, press Disconnect in E-Sys first.",
+  "version": "4.0.5",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.5/E-Sys-Max-4.0.5-win-x64.msi",
+  "sha256": "5A39C159E002F9046AFD9D0DBA3258E6AC73ABA76ADE6CB9F7E7A0AC56F97A1C",
+  "size": 63549756,
+  "notes": "The Launch E-Sys button stays in view with many cars in the garage.\nUpdating no longer asks you to close E-Sys that another program started. Only an E-Sys opened with E-Sys MAX has to be closed first.\nService functions and Service reset no longer need E-Sys closed, also for remote cars. Only when E-Sys is connected to the car, press Disconnect in E-Sys first.",
   "published": "2026-10-23",
   "minimumVersion": "3.0.6",
   "channel": "beta"
