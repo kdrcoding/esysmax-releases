@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.6.10",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.6.10/E-Sys-Max-3.6.10-win-x64.msi",
-  "sha256": "7C1AB7B063766445D0C3825DB31AFB3CF2719E3C1703AA0D605D5F2D6DE94082",
-  "size": 63566140,
-  "notes": "- Updates now show the new dark E-Sys MAX setup page with the logo while they install.\n- Removing E-Sys MAX shows a dark Removing page and ends on Removed.",
+  "version": "3.6.11",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.6.11/E-Sys-Max-3.6.11-win-x64.msi",
+  "sha256": "CDF0DCB3743EDDAD21D3BF30979E1BB2337246AFA30809A02FD848CE5C18D73A",
+  "size": 63562044,
+  "notes": "- Shortcuts in Settings now show each key right next to its screen.\n- Change keys opens a clear window: one row per screen, with its key on the same row.",
   "published": "2026-10-23",
   "minimumVersion": "3.0.6",
   "channel": "beta"
