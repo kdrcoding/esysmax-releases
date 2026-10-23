@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.0.1",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.1/E-Sys-Max-4.0.1-win-x64.msi",
-  "sha256": "FF0C29EBFE8C5B6FC2F58567964D001FC0D82B5699C5B573AE11EC0E7A7F8108",
-  "size": 63541564,
-  "notes": "If an update is cancelled, or Windows is told No, E-Sys MAX now says so clearly and nothing changes.\nShortcuts in E-Sys: after picking a key, the arrow keys keep moving through the keys of the same screen.",
+  "version": "4.0.2",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.2/E-Sys-Max-4.0.2-win-x64.msi",
+  "sha256": "126A92EC3785EF35D1CE779DDDBF401CD60FEDE3856DD1C19213086AEE19F9E3",
+  "size": 63574332,
+  "notes": "FDL-Editor: places BMW does not use show as Reserved (not used) again, instead of a numbered setting.",
   "published": "2026-10-23",
   "minimumVersion": "3.0.6",
   "channel": "beta"
