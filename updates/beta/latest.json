@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.6.0",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.6.0/E-Sys-Max-3.6.0-win-x64.msi",
-  "sha256": "4F1EF75A0EE5D7FEE8138EB6316356DA6A22716940AD17AFEA20A6C768B4EC91",
+  "version": "3.6.1",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.6.1/E-Sys-Max-3.6.1-win-x64.msi",
+  "sha256": "368ABF558488E013974E8F74E5D8FFE4A2DB8AE8A901AAF3F6C2C51F89BEC03F",
   "size": 63254660,
-  "notes": "## New look\n- Home, Settings and About are now tabs at the top: the whole window is yours, no side bar.\n- Launch E-Sys: one clean line per version, so every version fits at once; versions that are not supported sit at the bottom.\n\n## Improved\n- Free trial: the details on the badge at the top now wrap neatly.",
+  "notes": "## New\n- PSdZData doctor: Home now spots PSdZData in the wrong place (one folder too deep, unpacked in Downloads or Desktop), half unpacked, or still zipped.\n- One click on Fix it points E-Sys at the right folder and checks again. Nothing is moved or deleted, and the old setting can be put back.",
   "published": "2026-10-23",
   "minimumVersion": "3.0.6",
   "channel": "beta"
