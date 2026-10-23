@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.6.8",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.6.8/E-Sys-Max-3.6.8-win-x64.msi",
-  "sha256": "FA82FD36A4E47B1B766D768F0E10E8AA9E5CBD39987EE83EA1EC26349FDBE2C5",
-  "size": 63541528,
-  "notes": "## New\n- A new dark installer with the E-Sys MAX logo: one click to install, the Terms and the install folder on the same page.",
+  "version": "3.6.9",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.6.9/E-Sys-Max-3.6.9-win-x64.msi",
+  "sha256": "685791DBF62998CF616966F900EAC9036F3B78C15A3C4EDDB8A1F4A840B82384",
+  "size": 63545656,
+  "notes": "## Fixed\n- F2 in E-Sys\u0027s file lists and External Applications does E-Sys\u0027s own Edit again when a shortcut uses F2.\n- Settings says so when a shortcut key could not be saved.",
   "published": "2026-10-23",
   "minimumVersion": "3.0.6",
   "channel": "beta"
