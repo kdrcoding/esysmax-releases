@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.0.2",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.2/E-Sys-Max-4.0.2-win-x64.msi",
-  "sha256": "126A92EC3785EF35D1CE779DDDBF401CD60FEDE3856DD1C19213086AEE19F9E3",
-  "size": 63574332,
-  "notes": "FDL-Editor: places BMW does not use show as Reserved (not used) again, instead of a numbered setting.",
+  "version": "4.0.3",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.3/E-Sys-Max-4.0.3-win-x64.msi",
+  "sha256": "A187A2E19A935BFF178CFCE9415763C16199BC9C5A1A7A4CECD292F757ADF14D",
+  "size": 63553852,
+  "notes": "Service functions and Service reset no longer need E-Sys closed, also for remote cars. Only when E-Sys is connected to the car, press Disconnect in E-Sys first.",
   "published": "2026-10-23",
   "minimumVersion": "3.0.6",
   "channel": "beta"
