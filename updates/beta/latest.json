@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.0.7",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.7/E-Sys-Max-4.0.7-win-x64.msi",
-  "sha256": "0932256685E29CFE92E1731E9F7788DC813B5A00264F22C6D3BEA3BE118CA1C4",
-  "size": 63586620,
-  "notes": "The PSdZData list stays open while it looks for more packs on this PC.",
+  "version": "4.0.8",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.8/E-Sys-Max-4.0.8-win-x64.msi",
+  "sha256": "EF169AFE60BA33858BB22BC5A8DEB3B34A60121209CD380855F29D3B9A8EFEA5",
+  "size": 63557948,
+  "notes": "Opening another file in the FDL editor no longer shows the last file\u0027s message (like Changed 4 settings).",
   "published": "2026-10-23",
   "minimumVersion": "3.0.6",
   "channel": "beta"
