@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.6.5",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.6.5/E-Sys-Max-3.6.5-win-x64.msi",
-  "sha256": "50FF2C10880A2C1D227998453D63491A4C04EDAA6F451E7015035075FF052C79",
-  "size": 63262852,
-  "notes": "## New\n- What\u0027s new: after an update, E-Sys MAX shows once what the new version brings.\n- Last session: under Launch, which E-Sys you used last, when, for how long and the car it read.\n- Copy setup for support (About \u003E This PC): your E-Sys versions, PSdZData and checks as text to paste when you ask for help. Your licence and car numbers are left out.\n- Ctrl\u002B1, Ctrl\u002B2 and Ctrl\u002B3 switch between Home, Settings and About.\n\n## Fixed\n- PSdZData doctor: plainer words when the psdzdata folder itself was chosen.\n- Look switch: clicking the current look again closes the question.",
+  "version": "3.6.6",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.6.6/E-Sys-Max-3.6.6-win-x64.msi",
+  "sha256": "F2FE6871ED2CDF592131F7F04C8CDC48211946541B825D91A1AD3121C0668BD6",
+  "size": 63254720,
+  "notes": "## New\n- F-key shortcuts in E-Sys: F2 Connect, F3 Coding, F4 TAL-Processing, F6 FSC Extended, F7 VCM, F9 Fault scan. Change or turn off each key in Settings \u003E Shortcuts in E-Sys. A key only opens the screen; nothing is sent to the car.\n\n## Fixed\n- Take me there now finds VCM, FSC Extended and Coding-Verification on newer E-Sys versions.\n- Fault clearing, module restart, battery registration and ignition check that the same car is still connected first.\n- Safer handling of text in cheat sheets and search.\n- EDIABAS and PSdZData set up by another Windows user are no longer used without asking.\n- Small fixes and checks.",
   "published": "2026-10-23",
   "minimumVersion": "3.0.6",
   "channel": "beta"
