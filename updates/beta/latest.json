@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.6.7",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.6.7/E-Sys-Max-3.6.7-win-x64.msi",
-  "sha256": "0536381FEEF941A22F5AB17FA2D6A38301E990F16B047A581CFB2251AC423164",
-  "size": 63271104,
-  "notes": "## Fixed\n- F2 and other keys work again for editing a value in E-Sys tables while a shortcut uses that key.\n- Smoother typing in E-Sys with shortcuts on.",
+  "version": "3.6.8",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.6.8/E-Sys-Max-3.6.8-win-x64.msi",
+  "sha256": "FA82FD36A4E47B1B766D768F0E10E8AA9E5CBD39987EE83EA1EC26349FDBE2C5",
+  "size": 63541528,
+  "notes": "## New\n- A new dark installer with the E-Sys MAX logo: one click to install, the Terms and the install folder on the same page.",
   "published": "2026-10-23",
   "minimumVersion": "3.0.6",
   "channel": "beta"
