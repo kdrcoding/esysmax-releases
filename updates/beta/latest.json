@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.6.2",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.6.2/E-Sys-Max-3.6.2-win-x64.msi",
-  "sha256": "E61CC9402C175F1467486127EC79C85F0776CF9E30755DE3883F0FFA46F98694",
-  "size": 63266948,
-  "notes": "## New look\n- About: your licence on the left, help and updates on the right; this PC\u0027s ID, terms and links are always shown below.\n- Settings: two even columns, Coding and Privacy on the left, Backups on the right.",
+  "version": "3.6.3",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.6.3/E-Sys-Max-3.6.3-win-x64.msi",
+  "sha256": "D849B2DD92149263465408B3D63739DD14B23390AE7415F3E408BCC847D1BE09",
+  "size": 63254660,
+  "notes": "## Improved\n- PSdZData Fix it: Home shows the result right away.\n- Light look: status text such as Ready and Not supported is easier to read.",
   "published": "2026-10-23",
   "minimumVersion": "3.0.6",
   "channel": "beta"
