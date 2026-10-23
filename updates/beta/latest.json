@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.6.3",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.6.3/E-Sys-Max-3.6.3-win-x64.msi",
-  "sha256": "D849B2DD92149263465408B3D63739DD14B23390AE7415F3E408BCC847D1BE09",
-  "size": 63254660,
-  "notes": "## Improved\n- PSdZData Fix it: Home shows the result right away.\n- Light look: status text such as Ready and Not supported is easier to read.",
+  "version": "3.6.4",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.6.4/E-Sys-Max-3.6.4-win-x64.msi",
+  "sha256": "90C612F7B15907AC9F08F1945F660B56E55C6B52889F801F55FB98FC98584A92",
+  "size": 63275140,
+  "notes": "## Improved\n- The light or dark look now asks first: restart now, or keep working and get the new look the next time E-Sys MAX opens.",
   "published": "2026-10-23",
   "minimumVersion": "3.0.6",
   "channel": "beta"
