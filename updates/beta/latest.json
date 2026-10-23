@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.0.11",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.11/E-Sys-Max-4.0.11-win-x64.msi",
-  "sha256": "965DFF4C50540F455000DA181CF7E73520E17D548674AC49C85D0281ED6869AB",
-  "size": 63578428,
-  "notes": "Big scripts no longer freeze E-Sys: 1,000\u002B settings apply in about a second.\nOpen a script as .txt or .csr in the Script tab.\nNew: choose the PSdZData right where it says Ready on Home: press Change beside PSdZData.\nCleaner Settings page: the E-Sys shortcuts are now neat key tiles.\nEnglish module names, cheat sheets and activating the vehicle order after reading are always on now.\nSafety fixes.",
+  "version": "4.0.12",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.12/E-Sys-Max-4.0.12-win-x64.msi",
+  "sha256": "78D4E3BD4120DC826E60C4041F1845761FC5DC982058530939DB843795CE2E3E",
+  "size": 63557948,
+  "notes": "Script tab: opening a file that is not a script (a picture, a program) no longer freezes E-Sys; it is refused right away.\nScripts saved as Unicode (UTF-16), with umlauts, or with old line endings now open correctly.\nLarge or broken files picked by mistake are refused faster everywhere.\nSafety fixes.",
   "published": "2026-10-23",
   "minimumVersion": "3.0.6",
   "channel": "beta"
