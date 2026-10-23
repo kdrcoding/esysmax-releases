@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "3.5.9",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.5.9/E-Sys-Max-3.5.9-win-x64.msi",
-  "sha256": "4BF3981C44F50A93C9D7E9B0C04627B616A18A7FBF37936E4AC59C2443C3A44E",
-  "size": 63262852,
-  "notes": "## Improved\n- Light look: the small windows (licence, service reset, connection check and others) now have a light title bar too.",
-  "published": "2026-10-22",
+  "version": "3.6.0",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v3.6.0/E-Sys-Max-3.6.0-win-x64.msi",
+  "sha256": "4F1EF75A0EE5D7FEE8138EB6316356DA6A22716940AD17AFEA20A6C768B4EC91",
+  "size": 63254660,
+  "notes": "## New look\n- Home, Settings and About are now tabs at the top: the whole window is yours, no side bar.\n- Launch E-Sys: one clean line per version, so every version fits at once; versions that are not supported sit at the bottom.\n\n## Improved\n- Free trial: the details on the badge at the top now wrap neatly.",
+  "published": "2026-10-23",
   "minimumVersion": "3.0.6",
   "channel": "beta"
 }
