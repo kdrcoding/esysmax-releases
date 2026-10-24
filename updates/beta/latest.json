@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.0.12",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.12/E-Sys-Max-4.0.12-win-x64.msi",
-  "sha256": "78D4E3BD4120DC826E60C4041F1845761FC5DC982058530939DB843795CE2E3E",
-  "size": 63557948,
-  "notes": "Script tab: opening a file that is not a script (a picture, a program) no longer freezes E-Sys; it is refused right away.\nScripts saved as Unicode (UTF-16), with umlauts, or with old line endings now open correctly.\nLarge or broken files picked by mistake are refused faster everywhere.\nSafety fixes.",
-  "published": "2026-10-23",
+  "version": "4.0.13",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.13/E-Sys-Max-4.0.13-win-x64.msi",
+  "sha256": "91366EF2A421632C53165F7995F4A6BFE95B1B4B18BA3B76358B6132B0416163",
+  "size": 63586620,
+  "notes": "A new licence or trial is no longer refused as \u0022ran out\u0022 on a PC whose clock was once set ahead.\nPSdZData Change: picking the folder that is already in use now says so, instead of doing nothing.\nSmall fixes.",
+  "published": "2026-10-24",
   "minimumVersion": "3.0.6",
   "channel": "beta"
 }
