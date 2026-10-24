@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.0.0",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.0/E-Sys-Max-4.0.0-win-x64.msi",
-  "sha256": "1BCD8403C2FFC4134C5719C060A39CFBB36EEC544BB83DFA40B5AE10A473411C",
-  "size": 63553852,
-  "notes": "## New look\n- Home, Settings and About are tabs at the top, and the whole window is yours.\n- Your car is drawn in light, in its own colour, on Home and the loading screen.\n- Launch E-Sys: one clean line per version. Pick one and press Launch, or double-click to start it at once.\n- Light look: choose Dark or Light at the top right; it asks before it restarts.\n\n## New\n- PSdZData doctor: Home spots PSdZData in the wrong place (one folder too deep, in Downloads or Desktop), half unpacked or still zipped. Fix it points E-Sys at the right folder. Nothing is moved or deleted.\n- Service history: on newer instrument clusters, every past service reset is listed with the car\u0027s own date and mileage.\n- Ignition: click the KL15 plate to read it, or switch it on or off from the PC (on cars that support it).\n- What\u0027s new after each update, shown once.\n- Last session under Launch: which E-Sys, when, how long, the car it read.\n- Copy setup for support in About: versions, PSdZData and checks to paste in a support chat.\n- Ctrl\u002B1/2/3 switch between Home, Settings and About.\n- F-key shortcuts in E-Sys: F2 Connect, F3 Coding, F4 TAL-Processing, F6 FSC, F7 VCM, F9 Fault scan. Settings shows each key next to its screen; Change keys opens a clear window to pick them.\n\n## Improved\n- A new dark installer with the E-Sys MAX logo. Updates and removal show the same dark pages.\n- Setup check in one card: E-Sys, PSdZData and the cable at a glance.\n- About and Settings in two tidy columns.\n- Free trial shown at the top with a Buy button.\n- Clearer help when EDIABAS on this PC cannot start.\n\n## Fixed\n- Take me there finds VCM, FSC Extended and Coding-Verification on newer E-Sys.\n- Fault clearing, restart, battery registration and ignition check the same car is still connected.\n- Small fixes and checks.",
-  "published": "2026-10-23",
-  "minimumVersion": "3.0.6",
+  "version": "4.1.0",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.0/E-Sys-Max-4.1.0-win-x64.msi",
+  "sha256": "1F9E6143C5AC36C0033FFEA1EA8AF7FF3BFE3212973EDB97C92A558830205BF3",
+  "size": 63590716,
+  "notes": "New: Keys tab in the CAFD editor. Open your key list (KEYLIST.xml), see only the keys the open file has, pick or type values and apply them all at once, with Undo.\nNew: Script tab in the FDL editor. Paste settings as text, one per line (NAME=werte=01), or open a .txt or .csr script. Each line is checked against the open file, then Apply sets them all at once, with Undo.\nBig scripts apply in about a second, even with 1,000\u002B settings.\nChoose which PSdZData each E-Sys loads: press Change beside PSdZData on Home.\nService functions and Service reset no longer need E-Sys closed. Only when E-Sys is connected to the car, press Disconnect in E-Sys first.\nUpdating only asks you to close an E-Sys that E-Sys MAX opened.\nCleaner Settings page with the E-Sys shortcuts as key tiles.\nMany fixes and safety improvements. This update is required.",
+  "published": "2026-10-24",
+  "minimumVersion": "4.1.0",
   "channel": "main"
 }
