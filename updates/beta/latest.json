@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.1.0",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.0/E-Sys-Max-4.1.0-win-x64.msi",
-  "sha256": "1F9E6143C5AC36C0033FFEA1EA8AF7FF3BFE3212973EDB97C92A558830205BF3",
+  "version": "4.1.1",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.1/E-Sys-Max-4.1.1-win-x64.msi",
+  "sha256": "19C77F97E583F5B1D2CC86A15B8A12F691997C765E0A3B4D38C77133D3160B76",
   "size": 63590716,
-  "notes": "New: Keys tab in the CAFD editor. Open your key list (KEYLIST.xml), see only the keys the open file has, pick or type values and apply them all at once, with Undo.\nNew: Script tab in the FDL editor. Paste settings as text, one per line (NAME=werte=01), or open a .txt or .csr script. Each line is checked against the open file, then Apply sets them all at once, with Undo.\nBig scripts apply in about a second, even with 1,000\u002B settings.\nChoose which PSdZData each E-Sys loads: press Change beside PSdZData on Home.\nService functions and Service reset no longer need E-Sys closed. Only when E-Sys is connected to the car, press Disconnect in E-Sys first.\nUpdating only asks you to close an E-Sys that E-Sys MAX opened.\nCleaner Settings page with the E-Sys shortcuts as key tiles.\nMany fixes and safety improvements. This update is required.",
+  "notes": "Keys tab: a double click now shows the setting in the tree on the left and stays on Keys.",
   "published": "2026-10-24",
   "minimumVersion": "4.1.0",
   "channel": "beta"
