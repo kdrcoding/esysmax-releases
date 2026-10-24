@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.0.14",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.14/E-Sys-Max-4.0.14-win-x64.msi",
-  "sha256": "1C3635E3B25EE0327113CF7C7356E61CA32FD1768AFFBBE68FA7F4E41BD9DEDF",
-  "size": 63598908,
-  "notes": "New Keys tab in the CAFD editor: open your key list (KEYLIST.xml) and see only the keys the open file has, with their values now. Pick a choice or type a value (hex or decimal), then Apply sets them all at once, with Undo.\nSmall fixes.",
+  "version": "4.0.15",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.15/E-Sys-Max-4.0.15-win-x64.msi",
+  "sha256": "2DF0A7388DA694922BDA948D58268BCB220F84A66003C934D673C257E67177E4",
+  "size": 63590716,
+  "notes": "Keys tab: a key list kept on a network drive now opens when you press Open, so the CAFD editor never waits for a drive that is offline.\nScripts saved with mixed encodings are read correctly.\nSmall fixes.",
   "published": "2026-10-24",
   "minimumVersion": "3.0.6",
   "channel": "beta"
