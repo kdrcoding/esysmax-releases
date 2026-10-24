@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.1.1",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.1/E-Sys-Max-4.1.1-win-x64.msi",
-  "sha256": "19C77F97E583F5B1D2CC86A15B8A12F691997C765E0A3B4D38C77133D3160B76",
+  "version": "4.1.2",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.2/E-Sys-Max-4.1.2-win-x64.msi",
+  "sha256": "2D2E8C12A0C5A32E6FD69B1DA7F2ACE35D1C8BFF8667D35A4E86BDD9B55F465B",
   "size": 63590716,
-  "notes": "Keys tab: a double click now shows the setting in the tree on the left and stays on Keys.",
+  "notes": "What can I code? and Keys: a double click shows the setting in the tree on the left and stays on the tab you are on.\nSmall fixes.",
   "published": "2026-10-24",
   "minimumVersion": "4.1.0",
   "channel": "beta"
