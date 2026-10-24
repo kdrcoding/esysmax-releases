@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.1.6",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.6/E-Sys-Max-4.1.6-win-x64.msi",
-  "sha256": "F76983A9AE72C31B40477F5F915C4BFE923A2513933115728BE1231E3BD8AD52",
-  "size": 63607100,
-  "notes": "Restart module now works on every car while E-Sys is connected (right-click in the SVT and in Fault scan), newer G-series included.\nThe SecureCoding mark and question now appear only for modules that really need BMW-signed coding; normal modules such as the MGU code as usual.\nService functions and Service reset: when EDIABAS cannot start on this PC, the window now says so right away and names the exact file that is missing, with what to install.",
+  "version": "4.1.8",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.8/E-Sys-Max-4.1.8-win-x64.msi",
+  "sha256": "F7A66DCB17A2E3852D20B64C9C26680FC28E9898BF4A3319E02FEBB0288A71C0",
+  "size": 63594812,
+  "notes": "FDL-Editor: the value list on a setting now shows its real options (00, 01 ...) instead of a single \u0022.\u0022 and sets the one you pick. Clicking away changes nothing. Keys tab: type a value and press Enter, it is set right away, no Apply needed. Right-click Restart works on more modules and cars, through E-Sys\u0027s own connection. Secure coding is now only marked on modules that really need it. A clear message when EDIABAS cannot start on the PC. Smoother SVT tree on large cars.",
   "published": "2026-10-24",
   "minimumVersion": "4.1.0",
   "channel": "main"
