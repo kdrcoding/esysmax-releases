@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.0.16",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.16/E-Sys-Max-4.0.16-win-x64.msi",
-  "sha256": "F5404BBBC8BC7FC184E722D47EF336ADEA8788A0071F213788B03E7D5164DE1A",
-  "size": 63578428,
-  "notes": "The free trial button now stays off when a trial cannot be given on this PC, instead of repeating the same message.\nSmall fixes.",
+  "version": "4.1.0",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.0/E-Sys-Max-4.1.0-win-x64.msi",
+  "sha256": "1F9E6143C5AC36C0033FFEA1EA8AF7FF3BFE3212973EDB97C92A558830205BF3",
+  "size": 63590716,
+  "notes": "New: Keys tab in the CAFD editor. Open your key list (KEYLIST.xml), see only the keys the open file has, pick or type values and apply them all at once, with Undo.\nNew: Script tab in the FDL editor. Paste settings as text, one per line (NAME=werte=01), or open a .txt or .csr script. Each line is checked against the open file, then Apply sets them all at once, with Undo.\nBig scripts apply in about a second, even with 1,000\u002B settings.\nChoose which PSdZData each E-Sys loads: press Change beside PSdZData on Home.\nService functions and Service reset no longer need E-Sys closed. Only when E-Sys is connected to the car, press Disconnect in E-Sys first.\nUpdating only asks you to close an E-Sys that E-Sys MAX opened.\nCleaner Settings page with the E-Sys shortcuts as key tiles.\nMany fixes and safety improvements. This update is required.",
   "published": "2026-10-24",
-  "minimumVersion": "3.0.6",
+  "minimumVersion": "4.1.0",
   "channel": "beta"
 }
