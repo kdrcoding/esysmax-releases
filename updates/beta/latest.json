@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.1.7",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.7/E-Sys-Max-4.1.7-win-x64.msi",
-  "sha256": "4B1F5B111593F162B057FD60367260C655B3480DDA30614E9A2A9688E5FB13A1",
-  "size": 63615292,
-  "notes": "Smoother SVT tree on large cars: the secure-coding check no longer reads files while the tree is drawn.",
+  "version": "4.1.8",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.8/E-Sys-Max-4.1.8-win-x64.msi",
+  "sha256": "F7A66DCB17A2E3852D20B64C9C26680FC28E9898BF4A3319E02FEBB0288A71C0",
+  "size": 63594812,
+  "notes": "FDL-Editor: the value list on a setting now shows its real options (00, 01 ...) instead of a single \u0022.\u0022 and sets the one you pick. Clicking away changes nothing. Keys tab: type a value and press Enter, it is set right away, no Apply needed.",
   "published": "2026-10-24",
   "minimumVersion": "4.1.0",
   "channel": "beta"
