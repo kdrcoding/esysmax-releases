@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.1.2",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.2/E-Sys-Max-4.1.2-win-x64.msi",
-  "sha256": "2D2E8C12A0C5A32E6FD69B1DA7F2ACE35D1C8BFF8667D35A4E86BDD9B55F465B",
-  "size": 63590716,
-  "notes": "What can I code? and Keys: a double click shows the setting in the tree on the left and stays on the tab you are on.\nSmall fixes.",
+  "version": "4.1.3",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.3/E-Sys-Max-4.1.3-win-x64.msi",
+  "sha256": "8D11CA0E8F9795E22EDD5E43267EC4B85F3AAC39AD2FE4E517EF04B07C1E5B45",
+  "size": 63598908,
+  "notes": "FDL editor: groups BMW gives no name now show their first settings instead of the word Block, and settings without a name read like 3120 setting 12.\nE-Sys 25.10: a coding done with Save and code now counts as coded once E-Sys finishes it (it stayed not coded before).\nFault scan: when E-Sys holds the car, the message now says what to do (read the SVT in E-Sys, or Disconnect first).\nSmall fixes.",
   "published": "2026-10-24",
   "minimumVersion": "4.1.0",
   "channel": "beta"
