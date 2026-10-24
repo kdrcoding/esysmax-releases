@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.0.15",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.15/E-Sys-Max-4.0.15-win-x64.msi",
-  "sha256": "2DF0A7388DA694922BDA948D58268BCB220F84A66003C934D673C257E67177E4",
-  "size": 63590716,
-  "notes": "Keys tab: a key list kept on a network drive now opens when you press Open, so the CAFD editor never waits for a drive that is offline.\nScripts saved with mixed encodings are read correctly.\nSmall fixes.",
+  "version": "4.0.16",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.16/E-Sys-Max-4.0.16-win-x64.msi",
+  "sha256": "F5404BBBC8BC7FC184E722D47EF336ADEA8788A0071F213788B03E7D5164DE1A",
+  "size": 63578428,
+  "notes": "The free trial button now stays off when a trial cannot be given on this PC, instead of repeating the same message.\nSmall fixes.",
   "published": "2026-10-24",
   "minimumVersion": "3.0.6",
   "channel": "beta"
