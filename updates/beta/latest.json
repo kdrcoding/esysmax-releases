@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.0.13",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.13/E-Sys-Max-4.0.13-win-x64.msi",
-  "sha256": "91366EF2A421632C53165F7995F4A6BFE95B1B4B18BA3B76358B6132B0416163",
-  "size": 63586620,
-  "notes": "A new licence or trial is no longer refused as \u0022ran out\u0022 on a PC whose clock was once set ahead.\nPSdZData Change: picking the folder that is already in use now says so, instead of doing nothing.\nSmall fixes.",
+  "version": "4.0.14",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.0.14/E-Sys-Max-4.0.14-win-x64.msi",
+  "sha256": "1C3635E3B25EE0327113CF7C7356E61CA32FD1768AFFBBE68FA7F4E41BD9DEDF",
+  "size": 63598908,
+  "notes": "New Keys tab in the CAFD editor: open your key list (KEYLIST.xml) and see only the keys the open file has, with their values now. Pick a choice or type a value (hex or decimal), then Apply sets them all at once, with Undo.\nSmall fixes.",
   "published": "2026-10-24",
   "minimumVersion": "3.0.6",
   "channel": "beta"
