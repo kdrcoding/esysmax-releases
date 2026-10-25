@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.1.8",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.8/E-Sys-Max-4.1.8-win-x64.msi",
-  "sha256": "F7A66DCB17A2E3852D20B64C9C26680FC28E9898BF4A3319E02FEBB0288A71C0",
-  "size": 63594812,
-  "notes": "FDL-Editor: the value list on a setting now shows its real options (00, 01 ...) instead of a single \u0022.\u0022 and sets the one you pick. Clicking away changes nothing. Keys tab: type a value and press Enter, it is set right away, no Apply needed.",
-  "published": "2026-10-24",
+  "version": "4.1.9",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.9/E-Sys-Max-4.1.9-win-x64.msi",
+  "sha256": "E4CACF9834059CF9366764E61C380EB0D126DD2F3F2A6187291F543C18E461B2",
+  "size": 63611196,
+  "notes": "NCD compare is now on the toolbar, next to Backup. Ignition on / off: when the car wants it, press Disconnect in E-Sys and choose it again, E-Sys MAX then switches it itself. Keys tab: a typed value is set even when the module\u0027s list does not show it (99 = hex 63), and the tree on the left jumps to the setting after Enter. Error messages now say in plain words what went wrong and what to do.",
+  "published": "2026-10-25",
   "minimumVersion": "4.1.0",
   "channel": "beta"
 }
