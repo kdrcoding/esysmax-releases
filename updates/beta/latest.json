@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.1.14",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.14/E-Sys-Max-4.1.14-win-x64.msi",
-  "sha256": "1B60C01C37954260E5546943AD19927A01A83BF62B712441B7DAF868C46B17EA",
-  "size": 63615292,
-  "notes": "When a free trial is over, Home and the licence window say so right away, also when E-Sys MAX was closed at the time. Every Buy button carries your personal lifetime code.",
+  "version": "4.1.15",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.15/E-Sys-Max-4.1.15-win-x64.msi",
+  "sha256": "5930497C632E578F582F7079BF4F778B83676CFDB7E988B78C43128544E2231A",
+  "size": 63594812,
+  "notes": "A new free trial shows Connect your car from the start. When a free trial is over, the licence card and the licence window say so too.",
   "published": "2026-10-25",
   "minimumVersion": "3.0.6",
   "channel": "beta"
