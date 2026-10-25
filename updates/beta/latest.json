@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.1.10",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.10/E-Sys-Max-4.1.10-win-x64.msi",
-  "sha256": "0BA7F37019D70300C1F60ED528F9F98A876A2991B072B823D8C9B9FC26CB5242",
-  "size": 63627580,
-  "notes": "New free trial: one car for 24 hours, counted from when you connect the car. Home and About show the hours left, and the trial is offered again after 31 October. Beta updates are now part of the lifetime licence. Keys tab: a number too big for the setting now says so (for example \u0022300 does not fit: 1 byte holds 0 to 255\u0022). More error messages say in plain words what went wrong.",
+  "version": "4.1.11",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.11/E-Sys-Max-4.1.11-win-x64.msi",
+  "sha256": "2FA4AD6A20581EA2CB3317B75B31049EDEE559A9520A05F5A9CD35EF005E75C9",
+  "size": 63603004,
+  "notes": "Updated Terms: support now depends on the licence. Lifetime licences get priority support by e-mail, Telegram or WhatsApp, plus setup help: About \u003E Talk to us lets you pick one. The Terms, Privacy and Refund texts inside the app now match the website.",
   "published": "2026-10-25",
   "minimumVersion": "3.0.6",
   "channel": "beta"
