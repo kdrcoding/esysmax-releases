@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.2.0",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.0/E-Sys-Max-4.2.0-win-x64.msi",
-  "sha256": "3359BF04DCE9F67C7B710EB44DEB56AB6C004536ED417281ACD9D654B840AD8E",
-  "size": 63631676,
-  "notes": "Home marks the best E-Sys to use on this PC: Best match on the newest one that is ready.\nNew: Car tools \u003E FSC status lists which modules hold feature codes (FSCs) and whether each one is valid, in plain words. It only reads, nothing is written to the car.",
+  "version": "4.2.1",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.1/E-Sys-Max-4.2.1-win-x64.msi",
+  "sha256": "FAFE20391A789C2969EEF253FF9236146FB2C5DD5B9B7E34F389657FFA5662A5",
+  "size": 63684924,
+  "notes": "Fault scan: Restart now restarts the selected module or all modules, one after the other. The gateway, engine, body (ignition) and airbag modules are left running, and it asks first.",
   "published": "2026-10-25",
   "minimumVersion": "3.0.6",
   "channel": "beta"
