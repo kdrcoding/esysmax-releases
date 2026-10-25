@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.1.17",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.17/E-Sys-Max-4.1.17-win-x64.msi",
-  "sha256": "CC4A4893F3B97BBD76ABC79D1FD9DB50E0F9405FFE991732A0B6D31DD3C0A7A2",
-  "size": 63639868,
-  "notes": "E-Sys error messages now say what they mean and what to do, right in E-Sys\u0027s own message window.\nNew: Flashing \u003E Last job report shows E-Sys\u0027s last job in plain words: every module, the step it stopped at and why. It opens by itself when a flash or FSC job does not finish.\nThe fault scan\u0027s \u0022What does a code mean?\u0022 also explains E-Sys\u0027s message codes, like C012.",
+  "version": "4.1.18",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.18/E-Sys-Max-4.1.18-win-x64.msi",
+  "sha256": "1118BB3E06EFEC822E697421EC26887303109CEDF379131CB8EA7C59DF001B46",
+  "size": 63656252,
+  "notes": "Fault scan: a module no longer shows hundreds of faults. Like BMW\u0027s own tester, only stored and pending faults count; older entries from before are counted on the module\u0027s line.",
   "published": "2026-10-25",
   "minimumVersion": "3.0.6",
   "channel": "beta"
