@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.1.8",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.8/E-Sys-Max-4.1.8-win-x64.msi",
-  "sha256": "F7A66DCB17A2E3852D20B64C9C26680FC28E9898BF4A3319E02FEBB0288A71C0",
-  "size": 63594812,
-  "notes": "FDL-Editor: the value list on a setting now shows its real options (00, 01 ...) instead of a single \u0022.\u0022 and sets the one you pick. Clicking away changes nothing. Keys tab: type a value and press Enter, it is set right away, no Apply needed. Right-click Restart works on more modules and cars, through E-Sys\u0027s own connection. Secure coding is now only marked on modules that really need it. A clear message when EDIABAS cannot start on the PC. Smoother SVT tree on large cars.",
-  "published": "2026-10-24",
+  "version": "4.1.18",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.18/E-Sys-Max-4.1.18-win-x64.msi",
+  "sha256": "1118BB3E06EFEC822E697421EC26887303109CEDF379131CB8EA7C59DF001B46",
+  "size": 63656252,
+  "notes": "Fault scan: a module no longer shows hundreds of faults. Like BMW\u0027s own tester, only stored and pending faults count; older entries are counted on the module\u0027s line.\nNew free trial: one car for 24 hours, counted from when you first connect your car. The trial time shows on the licence card, and when it is over every screen says so.\nWhen your trial ends you get a personal lifetime offer on the payment page.\nE-Sys error messages now say what they mean and what to do, right in E-Sys\u0027s own message window.\nNew: Flashing \u003E Last job report shows E-Sys\u0027s last job in plain words: every module, the step it stopped at and why.\nNCD compare is now on the toolbar, right after Backup.\nAfter Disconnect, E-Sys MAX tells you when the ignition is on again.\nTyped values in Keys are checked before they are used.\nThe Terms now show the support each plan includes.\nSmall fixes.",
+  "published": "2026-10-25",
   "minimumVersion": "4.1.0",
   "channel": "main"
 }
