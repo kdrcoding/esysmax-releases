@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.1.15",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.15/E-Sys-Max-4.1.15-win-x64.msi",
-  "sha256": "5930497C632E578F582F7079BF4F778B83676CFDB7E988B78C43128544E2231A",
-  "size": 63594812,
-  "notes": "A new free trial shows Connect your car from the start. When a free trial is over, the licence card and the licence window say so too.",
+  "version": "4.1.16",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.16/E-Sys-Max-4.1.16-win-x64.msi",
+  "sha256": "8995946B7CB4F8BFF82C937224EE9341FAFD3444AA800661DDB61E03CE4D70D7",
+  "size": 63615292,
+  "notes": "A free trial that support gives more cars works on them right away, without restarting E-Sys.",
   "published": "2026-10-25",
   "minimumVersion": "3.0.6",
   "channel": "beta"
