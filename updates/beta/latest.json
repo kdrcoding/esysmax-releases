@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.1.9",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.9/E-Sys-Max-4.1.9-win-x64.msi",
-  "sha256": "E4CACF9834059CF9366764E61C380EB0D126DD2F3F2A6187291F543C18E461B2",
-  "size": 63611196,
-  "notes": "NCD compare is now on the toolbar, next to Backup. Ignition on / off: when the car wants it, press Disconnect in E-Sys and choose it again, E-Sys MAX then switches it itself. Keys tab: a typed value is set even when the module\u0027s list does not show it (99 = hex 63), and the tree on the left jumps to the setting after Enter. Error messages now say in plain words what went wrong and what to do.",
+  "version": "4.1.10",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.10/E-Sys-Max-4.1.10-win-x64.msi",
+  "sha256": "0BA7F37019D70300C1F60ED528F9F98A876A2991B072B823D8C9B9FC26CB5242",
+  "size": 63627580,
+  "notes": "New free trial: one car for 24 hours, counted from when you connect the car. Home and About show the hours left, and the trial is offered again after 31 October. Beta updates are now part of the lifetime licence. Keys tab: a number too big for the setting now says so (for example \u0022300 does not fit: 1 byte holds 0 to 255\u0022). More error messages say in plain words what went wrong.",
   "published": "2026-10-25",
-  "minimumVersion": "4.1.0",
+  "minimumVersion": "3.0.6",
   "channel": "beta"
 }
