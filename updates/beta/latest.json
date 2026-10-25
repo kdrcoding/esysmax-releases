@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.2.4",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.4/E-Sys-Max-4.2.4-win-x64.msi",
-  "sha256": "3212CEC52727D989C656DDD9D900518B300F6FF4CFECB200419914F33698BE32",
-  "size": 63656252,
-  "notes": "Car connection check: new Find ICOM button. It looks for a BMW ICOM on this PC\u0027s networks, shows the address to enter in E-Sys with a Copy button, and the car behind it when the ignition is on.\nNCD compare: new Save as cheat sheet. The settings where NCD 2 differs from NCD 1 become one cheat in your own sheet, named by you, ready on the FDL-Editor\u0027s Cheats tab.\nCheats with values of several bytes made in the launcher\u0027s Sheet Maker now work in the FDL-Editor.",
+  "version": "4.2.5",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.5/E-Sys-Max-4.2.5-win-x64.msi",
+  "sha256": "E2CE8C5E3E7335F1C502CB9A0A416D08316AF06E75972DF3FD53D382D61E4DB8",
+  "size": 63668540,
+  "notes": "Service reset and Service functions: the window can be closed while it reads, and a car that cannot be reached is said in seconds instead of minutes.\nA rare launcher crash after a module answered too slowly is fixed.",
   "published": "2026-10-25",
   "minimumVersion": "3.0.6",
   "channel": "beta"
