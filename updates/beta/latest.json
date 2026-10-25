@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.1.12",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.12/E-Sys-Max-4.1.12-win-x64.msi",
-  "sha256": "66119E20D9271A85E9484F6BF358F0E4F5AA6BF660A546AC0EF321C86A27C48A",
-  "size": 63594812,
-  "notes": "Clearer free trial texts on Home and in the licence window: try E-Sys MAX on one car for 24 hours. The Refund Policy inside the app matches the website again.",
+  "version": "4.1.13",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.13/E-Sys-Max-4.1.13-win-x64.msi",
+  "sha256": "C48E760CD460C0A0FFE7C60B4A9320C8684F0770239123FA114817952FFBFF66",
+  "size": 63623484,
+  "notes": "When your free trial ends, Home shows a personal lifetime offer for 48 hours. Buy a licence opens the payment page with the code already added.",
   "published": "2026-10-25",
   "minimumVersion": "3.0.6",
   "channel": "beta"
