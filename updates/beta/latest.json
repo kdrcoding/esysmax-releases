@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.1.18",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.18/E-Sys-Max-4.1.18-win-x64.msi",
-  "sha256": "1118BB3E06EFEC822E697421EC26887303109CEDF379131CB8EA7C59DF001B46",
-  "size": 63656252,
-  "notes": "Fault scan: a module no longer shows hundreds of faults. Like BMW\u0027s own tester, only stored and pending faults count; older entries from before are counted on the module\u0027s line.",
+  "version": "4.2.0",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.0/E-Sys-Max-4.2.0-win-x64.msi",
+  "sha256": "3359BF04DCE9F67C7B710EB44DEB56AB6C004536ED417281ACD9D654B840AD8E",
+  "size": 63631676,
+  "notes": "Home marks the best E-Sys to use on this PC: Best match on the newest one that is ready.\nNew: Car tools \u003E FSC status lists which modules hold feature codes (FSCs) and whether each one is valid, in plain words. It only reads, nothing is written to the car.",
   "published": "2026-10-25",
   "minimumVersion": "3.0.6",
   "channel": "beta"
