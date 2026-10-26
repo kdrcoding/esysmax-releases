@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.2.18",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.18/E-Sys-Max-4.2.18-win-x64.msi",
-  "sha256": "D65833AABF997AA40EAC5A93B44F531F36E663B3FD36EAB2FC14F743097F9599",
-  "size": 63754556,
-  "notes": "NCD compare: a tick now belongs to exactly one setting (settings with the same name no longer go along), settings start ticked only when both files are from the same car and CAFD version, and Swap keeps your ticks.",
+  "version": "4.2.19",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.19/E-Sys-Max-4.2.19-win-x64.msi",
+  "sha256": "C479F46074BDCD73FF257EA08F1F4874B068A9CA33630213E5655D50C22888F3",
+  "size": 63742268,
+  "notes": "Cheats are safer: a cheat saved from NCD compare remembers its CAFD version and is not applied to another version, a setting named in brackets is checked by that name, and a value that does not fit its setting is left for you instead of being typed in.",
   "published": "2026-10-26",
   "minimumVersion": "3.0.6",
   "channel": "beta"
