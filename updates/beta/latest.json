@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.2.8",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.8/E-Sys-Max-4.2.8-win-x64.msi",
-  "sha256": "EF0249B4EBAB677B5BA83397EE034752E9EA1756B8B61B7599BE6B50195361DA",
-  "size": 63697212,
-  "notes": "Service functions: Register a new battery, right in the Battery health card. Works on petrol and diesel engines that list it. It asks first and checks the car again before it sends anything.\nA new battery with a different size or type also needs the coding changed in E-Sys. The card tells you when.",
+  "version": "4.2.9",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.9/E-Sys-Max-4.2.9-win-x64.msi",
+  "sha256": "066914901A7F4EACF5BA442D3058363994AB9BE80F4ABD82949ECD89F2D4C91F",
+  "size": 63701308,
+  "notes": "New: Preview a vehicle order change (E-Sys MAX menu \u003E Coding tools). Before you write a changed vehicle order, see which modules and which settings VO coding would change, in plain English. E-Sys\u0027s own coding engine works it out on your PC. Nothing goes to the car.\nIt also names any module the changed order does not fit, where E-Sys\u0027s VO coding would stop.",
   "published": "2026-10-26",
   "minimumVersion": "3.0.6",
   "channel": "beta"
