@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.2.16",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.16/E-Sys-Max-4.2.16-win-x64.msi",
-  "sha256": "3857907A6C8C9E1CE2DC1C0B86DFB20353AF96DBFBDF4122959D072CE00F001D",
-  "size": 63729980,
-  "notes": "Secure-coded modules: coding history and Compare coding files now say when two files belong to different modules or the module was flashed in between, instead of calling it a change. The module wizard shows the right coding version (2.0 or 3.0).",
+  "version": "4.2.17",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.17/E-Sys-Max-4.2.17-win-x64.msi",
+  "sha256": "18DFA5D83B0899F2DAB96BAFFA4E51EE59CA79F722F583826A3CB5BE9A7B95C0",
+  "size": 63721788,
+  "notes": "NCD compare: tick the settings you want for a cheat sheet, save either file\u0027s values, and save the way back too. The cheat gets a name by itself (module, number of changes, date). Service functions and service reset check the car once more right before sending, and say honestly when a reset was only started or a light still reads as off.",
   "published": "2026-10-26",
   "minimumVersion": "3.0.6",
   "channel": "beta"
