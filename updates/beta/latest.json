@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.2.15",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.15/E-Sys-Max-4.2.15-win-x64.msi",
-  "sha256": "323A4C6F2CCE3857B56308D203C8ABC6CA497C7E70C76359DEF96DDE221B98D0",
-  "size": 63734076,
-  "notes": "Secure-coded modules (coding 2.0/3.0) no longer show as \u0022could not be read\u0022 in the car report, coding history and compare: E-Sys MAX tells whether their coding data changed. 53 more option codes have English names.",
+  "version": "4.2.16",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.16/E-Sys-Max-4.2.16-win-x64.msi",
+  "sha256": "3857907A6C8C9E1CE2DC1C0B86DFB20353AF96DBFBDF4122959D072CE00F001D",
+  "size": 63729980,
+  "notes": "Secure-coded modules: coding history and Compare coding files now say when two files belong to different modules or the module was flashed in between, instead of calling it a change. The module wizard shows the right coding version (2.0 or 3.0).",
   "published": "2026-10-26",
   "minimumVersion": "3.0.6",
   "channel": "beta"
