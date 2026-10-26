@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.2.12",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.12/E-Sys-Max-4.2.12-win-x64.msi",
-  "sha256": "FA580ED6AAAF1DB1E22490F5C2337AF99F4EC019EB49E4C85BAC93DD04481AC4",
-  "size": 63693116,
-  "notes": "Safer checks in Preview a vehicle order change and Fit a new or used module: Check the coding only says a module is coded right when every coding file was read back, checks the connected car before each module, and stops when you close the window.\nWrite the order now refuses an order that is not the one you previewed. Modules without a coding file are explained as normal.",
+  "version": "4.2.13",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.13/E-Sys-Max-4.2.13-win-x64.msi",
+  "sha256": "462775EFD7634ED611BDC7731A32F7644B3DB502F96E3D105AA93C46CC086F36",
+  "size": 63721788,
+  "notes": "After coding: clearer, more honest results. \u0022No fault came back\u0022 only shows when every module answered again; a module that did not answer is named. A clear that stopped part way says exactly what was cleared. If you leave the question open for a while, the faults are read again before anything is cleared.\nService functions: the car network map no longer marks every module as not answering on some gateways, and battery readings no longer repeat.",
   "published": "2026-10-26",
   "minimumVersion": "3.0.6",
   "channel": "beta"
