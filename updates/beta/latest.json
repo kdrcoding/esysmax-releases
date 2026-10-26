@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.2.13",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.13/E-Sys-Max-4.2.13-win-x64.msi",
-  "sha256": "462775EFD7634ED611BDC7731A32F7644B3DB502F96E3D105AA93C46CC086F36",
-  "size": 63721788,
-  "notes": "After coding: clearer, more honest results. \u0022No fault came back\u0022 only shows when every module answered again; a module that did not answer is named. A clear that stopped part way says exactly what was cleared. If you leave the question open for a while, the faults are read again before anything is cleared.\nService functions: the car network map no longer marks every module as not answering on some gateways, and battery readings no longer repeat.",
+  "version": "4.2.14",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.14/E-Sys-Max-4.2.14-win-x64.msi",
+  "sha256": "B07F04E233556E5492DF3A9B48F40B2FF8AB4C270844483AB98BC29678293D63",
+  "size": 63729980,
+  "notes": "Preview a vehicle order change now handles secure-coded modules (NCD 2.0/3.0): their coding change is shown, and the guided steps leave them out because BMW\u0027s backend must sign it. Modules whose coding files are missing from your PSdZData are now explained in plain words.",
   "published": "2026-10-26",
   "minimumVersion": "3.0.6",
   "channel": "beta"
