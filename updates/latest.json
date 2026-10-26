@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.1.18",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.1.18/E-Sys-Max-4.1.18-win-x64.msi",
-  "sha256": "1118BB3E06EFEC822E697421EC26887303109CEDF379131CB8EA7C59DF001B46",
-  "size": 63656252,
-  "notes": "Fault scan: a module no longer shows hundreds of faults. Like BMW\u0027s own tester, only stored and pending faults count; older entries are counted on the module\u0027s line.\nNew free trial: one car for 24 hours, counted from when you first connect your car. The trial time shows on the licence card, and when it is over every screen says so.\nWhen your trial ends you get a personal lifetime offer on the payment page.\nE-Sys error messages now say what they mean and what to do, right in E-Sys\u0027s own message window.\nNew: Flashing \u003E Last job report shows E-Sys\u0027s last job in plain words: every module, the step it stopped at and why.\nNCD compare is now on the toolbar, right after Backup.\nAfter Disconnect, E-Sys MAX tells you when the ignition is on again.\nTyped values in Keys are checked before they are used.\nThe Terms now show the support each plan includes.\nSmall fixes.",
-  "published": "2026-10-25",
+  "version": "4.2.6",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.6/E-Sys-Max-4.2.6-win-x64.msi",
+  "sha256": "91D5C68C9B1EF8F2142A01AF0BD203A002691AB814AA3541E1E8481A1FB80321",
+  "size": 63680828,
+  "notes": "Service reset and Service functions: the window can be closed while it reads, and a car that cannot be reached is said in seconds instead of minutes.\nA rare launcher crash after a module answered too slowly is fixed.\nHome marks the best E-Sys to use on this PC: Best match on the newest one that is ready.\nNew: Car tools \u003E FSC status lists which modules hold feature codes (FSCs) and whether each one is valid. It only reads.\nFault scan: Restart can restart the selected module or all modules, one after the other. The gateway, engine, body and airbag modules are left running, it asks first, and it stops when the car no longer answers.\nCar connection check: Windows Firewall blocking E-Sys and a cable adapter with a fixed IP can be fixed with one press. Both ask first.\nCar connection check: new Find ICOM button shows the ICOM\u0027s address to enter in E-Sys, with a Copy button.\nNCD compare: new Save as cheat sheet turns the differences into one cheat in a sheet of its own, ready on the FDL-Editor\u0027s Cheats tab.\nCheats with a setting of several bytes, also from the launcher\u0027s Sheet Maker, now show on the FDL-Editor\u0027s Cheats tab.",
+  "published": "2026-10-26",
   "minimumVersion": "4.1.0",
   "channel": "main"
 }
