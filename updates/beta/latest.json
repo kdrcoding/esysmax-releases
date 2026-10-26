@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.2.10",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.10/E-Sys-Max-4.2.10-win-x64.msi",
-  "sha256": "24504B07C66186A6CB64FACF5729A8D90F8A3D761202982FD4A711928FF44356",
-  "size": 63680828,
-  "notes": "Preview a vehicle order change now guides the VO coding too: Select the changed modules (E-Sys\u0027s Code then codes only those), Write the order, and Check the coding, which reads the modules back and says whether each one is coded as the new order says.\nYou press E-Sys\u0027s own Write and Code buttons; E-Sys MAX does the selecting and checking.",
+  "version": "4.2.11",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.11/E-Sys-Max-4.2.11-win-x64.msi",
+  "sha256": "9ECA7CD8830BC75643898D73CF71571FFFEA05FCBEF9B4344A45B7669930534A",
+  "size": 63701308,
+  "notes": "New: Coding tools \u003E Fit a new or used module. Pick the module you fitted and E-Sys MAX tells you what it needs: a blank module (Detect CAF for SWE first), software your PSdZData does not have or from another model (flash it first), secure coding, or ready to code from the car\u0027s order.\nThen it selects the module on the Coding page, you press E-Sys\u0027s Code, and Check the coding reads it back and says whether it is coded for this car.",
   "published": "2026-10-26",
   "minimumVersion": "3.0.6",
   "channel": "beta"
