@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.2.6",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.6/E-Sys-Max-4.2.6-win-x64.msi",
-  "sha256": "91D5C68C9B1EF8F2142A01AF0BD203A002691AB814AA3541E1E8481A1FB80321",
-  "size": 63680828,
-  "notes": "Service reset and Service functions: the window can be closed while it reads, and a car that cannot be reached is said in seconds instead of minutes.\nA rare launcher crash after a module answered too slowly is fixed.\nHome marks the best E-Sys to use on this PC: Best match on the newest one that is ready.\nNew: Car tools \u003E FSC status lists which modules hold feature codes (FSCs) and whether each one is valid. It only reads.\nFault scan: Restart can restart the selected module or all modules, one after the other. The gateway, engine, body and airbag modules are left running, it asks first, and it stops when the car no longer answers.\nCar connection check: Windows Firewall blocking E-Sys and a cable adapter with a fixed IP can be fixed with one press. Both ask first.\nCar connection check: new Find ICOM button shows the ICOM\u0027s address to enter in E-Sys, with a Copy button.\nNCD compare: new Save as cheat sheet turns the differences into one cheat in a sheet of its own, ready on the FDL-Editor\u0027s Cheats tab.\nCheats with a setting of several bytes, also from the launcher\u0027s Sheet Maker, now show on the FDL-Editor\u0027s Cheats tab.",
-  "published": "2026-10-26",
+  "version": "4.2.21",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.21/E-Sys-Max-4.2.21-win-x64.msi",
+  "sha256": "6C312D8FFFF9B34424D7F71336CFEF162F2FFA8503C60CBD58070B70B2026D90",
+  "size": 63963136,
+  "notes": "The installer is now signed: Windows shows a verified publisher instead of \u0022unknown publisher\u0022. A fresh look for every E-Sys MAX window inside E-Sys, the same as the launcher: clear titles, one orange button for the main step, coloured results at a glance (faults, finished jobs, valid FSCs) and quieter lists. Full backup zips can be locked with a password (Settings, Backups; off unless you switch it on). Open them with 7-Zip or WinRAR; with it on, the cloud copy takes only the locked zip. NCD compare: right-click a setting to save it as a cheat with either file\u0027s value, and ticks now follow Swap across CAFD versions. Safer re-apply and Code several changes: re-apply reads each file\u0027s names for its own CAFD version and puts back only the bits it changed, and Code several changes never codes from a coding file it already used, puts each module\u0027s edit into E-Sys\u0027s coding folder only right before that module is coded, and waits for E-Sys to finish before putting files back. After coding also checks the coded modules on remote and ICOM connections. Connection check and Find ICOM are steadier, and battery registration waits for a new reading before it offers to register again. Code several changes keeps a module that E-Sys coded with no errors marked as coded, even when a later step fails. NCD compare shows value names once (\u0022three times\u0022, not \u0022three time\u0022), and windows keep their look when E-Sys switches between light and dark. NCD compare and re-apply are quicker on big modules.",
+  "published": "2026-10-27",
   "minimumVersion": "4.1.0",
   "channel": "main"
 }
