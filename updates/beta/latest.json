@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.2.22",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.22/E-Sys-Max-4.2.22-win-x64.msi",
-  "sha256": "82C2A9DA4A717FB8F6813B884C696EA380C58AD651FC1ED8414BBE7DFC0BDCB6",
+  "version": "4.2.23",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.23/E-Sys-Max-4.2.23-win-x64.msi",
+  "sha256": "A1ADE34C9476278EBFEEB8D2A08684A0A590DFC8D6568516944DB18B3DCBCC3D",
   "size": 63950848,
-  "notes": "Free trial: when the server refuses a trial, E-Sys MAX now shows its real reason instead of \u0022could not be reached\u0022. Code several changes: an error before a module was coded is no longer reported as an E-Sys coding error for that module. NCD compare: All settings matches another CAFD only by names E-Sys MAX is sure of, and says when there is no sure match.",
+  "notes": "Fault scan: a long piece of text pasted into the gateway address box no longer stops the scan; only a real address or name is used. Blocked PCs: E-Sys MAX now says clearly when a PC is blocked and how to get in again (buy a licence or contact support).",
   "published": "2026-10-27",
   "minimumVersion": "3.0.6",
   "channel": "beta"
