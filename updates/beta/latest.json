@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.2.23",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.23/E-Sys-Max-4.2.23-win-x64.msi",
-  "sha256": "A1ADE34C9476278EBFEEB8D2A08684A0A590DFC8D6568516944DB18B3DCBCC3D",
-  "size": 63950848,
-  "notes": "Fault scan: a long piece of text pasted into the gateway address box no longer stops the scan; only a real address or name is used. Blocked PCs: E-Sys MAX now says clearly when a PC is blocked and how to get in again (buy a licence or contact support).",
-  "published": "2026-10-27",
+  "version": "4.2.26",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.26/E-Sys-Max-4.2.26-win-x64.msi",
+  "sha256": "3E0A639E63C23DFB4DB8F6B5305C799B0BE7ED11F206F5BA2206C35693936AAD",
+  "size": 64053248,
+  "notes": "Fault scan: thousands more BMW fault codes now show their meaning, including newer models such as the G80 (for example the exhaust flap faults). Front camera faults on newer cars show their meaning too. Ignition on / off: a clear message when the car\u0027s body module does not take the command.",
+  "published": "2026-10-28",
   "minimumVersion": "3.0.6",
   "channel": "beta"
 }
