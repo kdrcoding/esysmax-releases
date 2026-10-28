@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.2.21",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.21/E-Sys-Max-4.2.21-win-x64.msi",
-  "sha256": "6C312D8FFFF9B34424D7F71336CFEF162F2FFA8503C60CBD58070B70B2026D90",
-  "size": 63963136,
-  "notes": "The installer is now signed: Windows shows a verified publisher instead of \u0022unknown publisher\u0022. A fresh look for every E-Sys MAX window inside E-Sys, the same as the launcher: clear titles, one orange button for the main step, coloured results at a glance (faults, finished jobs, valid FSCs) and quieter lists. Full backup zips can be locked with a password (Settings, Backups; off unless you switch it on). Open them with 7-Zip or WinRAR; with it on, the cloud copy takes only the locked zip. NCD compare: right-click a setting to save it as a cheat with either file\u0027s value, and ticks now follow Swap across CAFD versions. Safer re-apply and Code several changes: re-apply reads each file\u0027s names for its own CAFD version and puts back only the bits it changed, and Code several changes never codes from a coding file it already used, puts each module\u0027s edit into E-Sys\u0027s coding folder only right before that module is coded, and waits for E-Sys to finish before putting files back. After coding also checks the coded modules on remote and ICOM connections. Connection check and Find ICOM are steadier, and battery registration waits for a new reading before it offers to register again. Code several changes keeps a module that E-Sys coded with no errors marked as coded, even when a later step fails. NCD compare shows value names once (\u0022three times\u0022, not \u0022three time\u0022), and windows keep their look when E-Sys switches between light and dark. NCD compare and re-apply are quicker on big modules.",
-  "published": "2026-10-27",
+  "version": "4.2.26",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.26/E-Sys-Max-4.2.26-win-x64.msi",
+  "sha256": "3E0A639E63C23DFB4DB8F6B5305C799B0BE7ED11F206F5BA2206C35693936AAD",
+  "size": 64053248,
+  "notes": "Fault scan: thousands more BMW fault codes now show their meaning, including newer models such as the G80 (for example the exhaust flap faults) and front camera faults on newer cars. A long piece of text pasted into the gateway address box no longer stops the scan. Lists in the small windows (Code several, Fault scan, TAL exclude, FSC, reports, signed NCD) sort by a column when you click its title. Code several changes finishes as soon as its report is read, and an error before a module was coded is no longer shown as a coding error for that module. Full backup leaves E-Sys\u0027s SVT tidy afterwards, and CAFD lines in the SVT tree are easy to read when selected. NCD compare: All settings matches another CAFD only by names E-Sys MAX is sure of, and says when there is no sure match. Ignition on / off: a clear message when the car\u0027s body module does not take the command. Free trial and blocked PCs: E-Sys MAX now shows the real reason and what to do.",
+  "published": "2026-10-28",
   "minimumVersion": "4.1.0",
   "channel": "main"
 }
