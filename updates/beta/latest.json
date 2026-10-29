@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.3.5",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.3.5/E-Sys-Max-4.3.5-win-x64.msi",
-  "sha256": "90EAA86BBAB94B332DFFEB7F1309ECF04A81DCCB331C5FAE2AADBB1148F39811",
+  "version": "4.3.6",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.3.6/E-Sys-Max-4.3.6-win-x64.msi",
+  "sha256": "D07B8075F62084AA5A937AFE1141B6E1E8E7A8E7649515109B888545B1D806C2",
   "size": 64094208,
-  "notes": "Fault scan: works right after connecting, without reading the SVT first. E-Sys MAX asks the car which modules it has through E-Sys\u0027s own connection and scans them all. Code several changes: a search box finds a change by module or words (for example \u0022mirrors\u0022 or \u0022KOMBI\u0022), E-Sys\u0027s report is closed for you when it has no errors (it is still kept in the car\u0027s Reports folder), so only the \u0022code the next module?\u0022 question is left, and reading the coding data first no longer waits about 12 seconds per module. Old coding copies that were saved before E-Sys knew their module are no longer offered a second time.",
+  "notes": "Changed files say so: Save As of a file you changed in E-Sys\u0027s own SVT editor or FDL-Editor suggests the file\u0027s name with MODIFIED in it, so a changed copy is never mixed up with the original. An unchanged file keeps E-Sys\u0027s own name, and so does a coding file in E-Sys\u0027s CAF folder (Code NCD codes exactly that file). A changed NCD saved with MODIFIED in its name is no longer filed in the backups as if it was read from the car. E-Sys left hanging without any window: pressing play now asks whether to end it and start E-Sys with E-Sys MAX, instead of only saying it is open (nothing is ended without your Yes, and an E-Sys showing any window, even a question box, is never ended).",
   "published": "2026-10-29",
   "minimumVersion": "3.0.6",
   "channel": "beta"
