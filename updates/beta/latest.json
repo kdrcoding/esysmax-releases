@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.3.7",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.3.7/E-Sys-Max-4.3.7-win-x64.msi",
-  "sha256": "DB674A53D9B2BDF6623450F1CE73B33FB01928D4AD1D116985779729D1EEDF34",
-  "size": 64102400,
-  "notes": "Full backup keeps the whole car again: the SVT read from the car is now saved in the backup (it was left out), the fault memory is read through E-Sys\u0027s own connection when the gateway lets only one program in, and \u0022Read from the car first\u0022 is ticked when you open the window while connected. E-Sys\u0027s own Save, Ctrl\u002BS and \u0022save the changes?\u0022 in the SVT editor and FDL-Editor now write a copy with MODIFIED in its name and never overwrite the file read from the car; a changed BMW-signed coding file is still refused by Save and code. The battery and ignition plates keep reading after you connect the same car again. Code several says what to do when a car\u0027s coding was not read yet, and its messages are no longer cut off. Coding history shows each coding file of a module and names a file two modules share. Car reports say when faults were read through E-Sys\u0027s connection.",
+  "version": "4.3.8",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.3.8/E-Sys-Max-4.3.8-win-x64.msi",
+  "sha256": "1050D58A37BE0D166B7E1FD09E738D98AD81955290C23DAD5987DABB709F8A3A",
+  "size": 64118784,
+  "notes": "Module lines in the SVT now show their description also when the car has newer software than your PSdZData (some CAFD and SWFK lines stayed bare), and an SVT opened from a file on a G20 and similar cars names every part again. The Flash assistant checks before flashing that your PSdZData has every flash file the job needs: a Lite PSdZData or missing files are named before E-Sys would stop part way. FSC status reads when E-Sys is connected but the car\u0027s VIN is not shown yet (remote sessions). Full backup never saves an older SVT under the connected car\u0027s VIN and does not open a second connection to the car when E-Sys\u0027s own one gives no fault list. Writing the vehicle order checks the order E-Sys will really write, says no before anything is changed when the car or E-Sys is not ready, and the offer comes back after a refusal of the moment. A save clicked right after an edit always goes to the MODIFIED copy.",
   "published": "2026-10-29",
   "minimumVersion": "3.0.6",
   "channel": "beta"
