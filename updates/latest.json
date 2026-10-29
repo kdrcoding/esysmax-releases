@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.2.26",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.2.26/E-Sys-Max-4.2.26-win-x64.msi",
-  "sha256": "3E0A639E63C23DFB4DB8F6B5305C799B0BE7ED11F206F5BA2206C35693936AAD",
-  "size": 64053248,
-  "notes": "Fault scan: thousands more BMW fault codes now show their meaning, including newer models such as the G80 (for example the exhaust flap faults) and front camera faults on newer cars. A long piece of text pasted into the gateway address box no longer stops the scan. Lists in the small windows (Code several, Fault scan, TAL exclude, FSC, reports, signed NCD) sort by a column when you click its title. Code several changes finishes as soon as its report is read, and an error before a module was coded is no longer shown as a coding error for that module. Full backup leaves E-Sys\u0027s SVT tidy afterwards, and CAFD lines in the SVT tree are easy to read when selected. NCD compare: All settings matches another CAFD only by names E-Sys MAX is sure of, and says when there is no sure match. Ignition on / off: a clear message when the car\u0027s body module does not take the command. Free trial and blocked PCs: E-Sys MAX now shows the real reason and what to do.",
-  "published": "2026-10-28",
+  "version": "4.3.5",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.3.5/E-Sys-Max-4.3.5-win-x64.msi",
+  "sha256": "90EAA86BBAB94B332DFFEB7F1309ECF04A81DCCB331C5FAE2AADBB1148F39811",
+  "size": 64094208,
+  "notes": "Write to car from the Type and codes table: double-click a code to add or remove it, and with the car connected E-Sys MAX offers to write the vehicle order and its vehicle profile (FP) for you, with a copy saved first. No need to go to VCM. This works on E-Sys 22.06 too. The toolbar has Type and codes in FA helper\u0027s place (FA helper is in the E-Sys MAX menu). Cars that share BMW\u0027s code list with their family (for example the G80 M3) show every code again. A changed vehicle order or SVT is saved with MODIFIED in its name.\n\nFault scan: works right after connecting, without reading the SVT first, and asks every module the car has. Slow modules are read instead of showing \u0022no answer\u0022. Newer wording for about 2,000 BMW fault codes.\n\nCode several changes: reads a module\u0027s coding data by itself when needed, then codes it. A search box finds a change by module or words. E-Sys\u0027s report is closed for you when it has no errors (still kept in the car\u0027s Reports folder). Each change is offered once.\n\nCar report: the coding changes list shows only real setting changes. Garage: car cards show build date, paint, options and modules, and each car its own model. Backups keep the SVT read from the car too.\n\nFaster: E-Sys no longer pauses after Read FA, Read SVT or opening the FDL editor; NCD compare reads big folders without freezing. Slow internet: E-Sys MAX waits for it, and without internet keeps working offline for the usual days. Safer: car writes check the car and E-Sys\u0027s connection once more right before they act.",
+  "published": "2026-10-29",
   "minimumVersion": "4.1.0",
   "channel": "main"
 }
