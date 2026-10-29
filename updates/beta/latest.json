@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.3.3",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.3.3/E-Sys-Max-4.3.3-win-x64.msi",
-  "sha256": "0FF59C019F4414799523F12F0507EF25F54EDE68897A4EA3DA405C87B1E9EE72",
-  "size": 64077824,
-  "notes": "Type and codes: Write to car works on E-Sys 22.06 too. It stopped before writing with \u0022It stopped while calculating the vehicle profile\u0022; now the vehicle order and its vehicle profile (FP) are written, as on newer E-Sys versions.",
+  "version": "4.3.4",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.3.4/E-Sys-Max-4.3.4-win-x64.msi",
+  "sha256": "C79314E1700CCDD25628F17E7961D9560112DD3DE22F0CCEE5F737682421AAA6",
+  "size": 64098304,
+  "notes": "Code several changes: no more \u0022Code NCD is not available\u0022 right after connecting. A module whose coding data was not read yet is read first, then coded, all in one go.\nCar report: the \u0022Coding changes\u0022 list shows only real setting changes (no \u0022coding date\u0022 rows) and each line once.\nGarage: a car shows its own model again (an F30 was shown as a 1 Series F20 after Code several).",
   "published": "2026-10-29",
   "minimumVersion": "3.0.6",
   "channel": "beta"
