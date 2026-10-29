@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.3.1",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.3.1/E-Sys-Max-4.3.1-win-x64.msi",
-  "sha256": "2A21142239A955E4D4BC47FC6E7AE95EFDC8AA46ADF449C42FEA18DC571EB7C2",
-  "size": 64102400,
-  "notes": "Write to car from the Type and codes table: double-click a code to add or remove it, and with the car connected E-Sys MAX asks once whether to write the vehicle order now. It lists what changed, saves a copy first, then writes the order and its vehicle profile (FP) with a progress window; no need to go to VCM. The Write to car button does the same after several changes. The toolbar now has Type and codes in FA helper\u0027s place (FA helper is in the E-Sys MAX menu). A changed vehicle order is saved and written with MODIFIED in its name. Write vehicle order: Take me there now opens the VCM page and asks, and when E-Sys keeps Write FA FP off, E-Sys MAX calculates the vehicle profile first. NCD compare shows once (on the toolbar). The codes lists no longer leave old tooltip boxes behind while scrolling.",
+  "version": "4.3.2",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.3.2/E-Sys-Max-4.3.2-win-x64.msi",
+  "sha256": "1291F982C7BD614FD2D385361726E5A2FCD92DF0B82E228A92B425FF86A7533E",
+  "size": 64086016,
+  "notes": "Type and codes: cars that share BMW\u0027s code list with their family (for example the G80 M3 with the G20, and other M and body variants) show every option, HO-Wort and E-Wort code again, not only the ones already in the vehicle order. The toolbar\u0027s Type and codes button no longer reloads the Coding page when it is already open; it only brings the tab to the front. A vehicle order or SVT opened from a MODIFIED file keeps MODIFIED in its name when it is saved again.",
   "published": "2026-10-29",
   "minimumVersion": "3.0.6",
   "channel": "beta"
