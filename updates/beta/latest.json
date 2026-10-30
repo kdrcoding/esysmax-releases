@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.5.1",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.5.1/E-Sys-Max-4.5.1-win-x64.msi",
-  "sha256": "E709A2F5C7AA21C1F3BDEDD6083F11548FD5EA20FD9493C03DDA28FEA044CC57",
-  "size": 64262144,
-  "notes": "E-Sys MAX now speaks German (beta): choose Deutsch (beta) under Settings, top right, and E-Sys MAX restarts in German. Home, Your garage, the licence card, Settings, About, Welcome, What\u0027s new and the start window are translated; screens not translated yet stay in English. Dates and car facts follow the language too. English stays the default and looks the same as before.",
+  "version": "4.5.2",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.5.2/E-Sys-Max-4.5.2-win-x64.msi",
+  "sha256": "2830D73EDE1B18D1C75B368D8A1A91D1B87CF8E7194580AEE6BB73229612A260",
+  "size": 64245760,
+  "notes": "NCD Compare can send the Before or the After values to the Sheet Maker: right-click the differences, or use the Send to Sheet Maker button. After values make a cheat sheet that does the change, Before values make one that puts it back. Also in German (beta).",
   "published": "2026-10-30",
   "minimumVersion": "3.0.6",
   "channel": "beta"
