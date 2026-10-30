@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.3.5",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.3.5/E-Sys-Max-4.3.5-win-x64.msi",
-  "sha256": "90EAA86BBAB94B332DFFEB7F1309ECF04A81DCCB331C5FAE2AADBB1148F39811",
-  "size": 64094208,
-  "notes": "Write to car from the Type and codes table: double-click a code to add or remove it, and with the car connected E-Sys MAX offers to write the vehicle order and its vehicle profile (FP) for you, with a copy saved first. No need to go to VCM. This works on E-Sys 22.06 too. The toolbar has Type and codes in FA helper\u0027s place (FA helper is in the E-Sys MAX menu). Cars that share BMW\u0027s code list with their family (for example the G80 M3) show every code again. A changed vehicle order or SVT is saved with MODIFIED in its name.\n\nFault scan: works right after connecting, without reading the SVT first, and asks every module the car has. Slow modules are read instead of showing \u0022no answer\u0022. Newer wording for about 2,000 BMW fault codes.\n\nCode several changes: reads a module\u0027s coding data by itself when needed, then codes it. A search box finds a change by module or words. E-Sys\u0027s report is closed for you when it has no errors (still kept in the car\u0027s Reports folder). Each change is offered once.\n\nCar report: the coding changes list shows only real setting changes. Garage: car cards show build date, paint, options and modules, and each car its own model. Backups keep the SVT read from the car too.\n\nFaster: E-Sys no longer pauses after Read FA, Read SVT or opening the FDL editor; NCD compare reads big folders without freezing. Slow internet: E-Sys MAX waits for it, and without internet keeps working offline for the usual days. Safer: car writes check the car and E-Sys\u0027s connection once more right before they act.",
-  "published": "2026-10-29",
+  "version": "4.4.0",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.4.0/E-Sys-Max-4.4.0-win-x64.msi",
+  "sha256": "606AFF58C0D5D91A9F20C9AD1099A6F326B0F25F2F70675FB0045B8F293FABEF",
+  "size": 64208896,
+  "notes": "Full backup keeps the whole car again: the SVT read from the car is saved in the backup, the fault memory is read through E-Sys\u0027s own connection when the gateway lets only one program in, and an older SVT is never saved under the connected car\u0027s VIN. Changed files say so: E-Sys\u0027s own Save, Ctrl\u002BS and Save As in the SVT editor and FDL-Editor write a copy with MODIFIED in its name and never overwrite the file read from the car. Module lines in the SVT show their description also when the car has newer software than your PSdZData. The Flash assistant checks before flashing that your PSdZData has every flash file the job needs. Writing the vehicle order checks the order E-Sys will really write and says no before anything is changed when the car or E-Sys is not ready. FSC status reads in remote sessions, the battery and ignition plates keep reading after you connect the same car again, and Code several says what to do when a car\u0027s coding was not read yet. E-Sys left hanging without any window: pressing play asks whether to end it and start again. Updating is quicker: Windows asks for permission right after E-Sys MAX closes, without a long black screen first.",
+  "published": "2026-10-30",
   "minimumVersion": "4.1.0",
   "channel": "main"
 }
