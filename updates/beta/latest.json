@@ -1,9 +1,9 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.4.1",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.4.1/E-Sys-Max-4.4.1-win-x64.msi",
-  "sha256": "1A35483E5EDDDB9601098372B47EED3504CDDCEB238BA4309EB7A3FA6B518E45",
-  "size": 64229376,
+  "version": "4.5.0",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.5.0/E-Sys-Max-4.5.0-win-x64.msi",
+  "sha256": "8F8D9AC47BE23F6E2AA801A64EA92193BE8138949A1FAE49DA5977BEE02CBEE7",
+  "size": 64241664,
   "notes": "Type and codes: ticking a code no longer moves the rows under the mouse, so quick clicks never tick or untick the wrong code, and the toolbar\u0027s Type and codes finds its tab again after a module was coded. Code several on a car whose coding was not read yet opens Full backup by itself and fills its list as soon as the car is read. A coding file, vehicle order or SVT you changed and saved is never taken for the car\u0027s own: Coding history, Search the car, Code several, Car report and Your garage use only what was read from the car, and the backup no longer keeps an edited file as read from the car. The Flash assistant also checks the flash files for a Complete Flash of the whole car, and waits while it looks instead of letting the flash start. Coding history opens larger, Search the car and the vehicle order preview sort by any column, the ambient colour picker has a new look with ready colours, and E-Sys MAX\u0027s messages and questions have the same look as the rest of the app and stay in front of the window they belong to. After coding, the fault check looks only at the module you coded (it offered to clear the fault memory of other modules too), and Code several no longer ends with that question. Preview a vehicle order change and Fit a new or used module work right after reading the SVT from the car (they asked to read it first). Two cars of the same model in Your garage show the end of their VIN. Windows\u0027 permission question names E-Sys MAX when it updates. Small fixes for some PCs.",
   "published": "2026-10-30",
   "minimumVersion": "3.0.6",
