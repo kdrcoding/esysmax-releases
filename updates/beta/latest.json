@@ -6,6 +6,6 @@
   "size": 64286720,
   "notes": "Code them for me is much faster (about 50 s instead of almost 4 minutes), and Insert signed NCD no longer waits minutes for nothing. Fault scan says how many faults are present now and lists them first; a long list of old communication faults after coding gets a short hint to clear them and scan again. The FDL-Editor\u0027s Search button finds the setting names on E-Sys 22.06 too. Clearer texts in Save and code, the full backup report and error help, and the right car name in the car report.\nAlso in 4.6.1: Insert signed NCD and Register a new battery work right after Read SVT. Green when it worked, red when it failed, for every write and coding result. Code them for me after writing the vehicle order. The car report keeps the faults the car came in with. The Backup button opens the full backup in one click.",
   "published": "2026-10-31",
-  "minimumVersion": "3.0.6",
+  "minimumVersion": "4.6.2",
   "channel": "beta"
 }
