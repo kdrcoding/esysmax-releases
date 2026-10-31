@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.6.0",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.6.0/E-Sys-Max-4.6.0-win-x64.msi",
-  "sha256": "D35FF58432D0759BA253971363429B9DAE29B0D6C9DE21A505150AE2D7A8F189",
-  "size": 64299008,
-  "notes": "Write to car and coding results are now clear at a glance: green when it worked, red when it failed. After writing the vehicle order in Type and codes, Show what to code lists the modules to code, and Code them for me codes them (it saves each module\u0027s coding first and checks it after). Open Connection shows a red No car found bar with the likely cause when no car answers.\nThe car report keeps the faults the car came in with, also after you clear them. The Backup button opens the full backup in one click. Edit settings on a module reads and opens the FDL-Editor faster and shows that it is reading. NCD Compare can send the Before or the After values to the Sheet Maker. The E-Sys MAX cheat sheet has about 2,000 more tweaks. German (beta) under Settings.",
+  "version": "4.6.1",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.6.1/E-Sys-Max-4.6.1-win-x64.msi",
+  "sha256": "2E05353FF69FE6AC7F523BEA59F476FF62404F0F70E3B0E67F2EE8A892A3D5FC",
+  "size": 64286720,
+  "notes": "Insert signed NCD and Register a new battery work right after Read SVT: they asked to read the SVT again, and again. Safer with two cars in a row: an SVT read from car A no longer counts for car B after you connect car B; read the SVT of car B first.\nAlso in 4.6.0: green when it worked, red when it failed, for every write and coding result. After writing the vehicle order in Type and codes, Code them for me codes the modules (it saves each module\u0027s coding first and checks it after). The car report keeps the faults the car came in with, also after you clear them. The Backup button opens the full backup in one click. Edit settings opens the FDL-Editor faster. About 2,000 more cheat sheet tweaks.",
   "published": "2026-10-31",
   "minimumVersion": "3.0.6",
   "channel": "beta"
