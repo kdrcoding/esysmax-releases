@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.5.0",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.5.0/E-Sys-Max-4.5.0-win-x64.msi",
-  "sha256": "8F8D9AC47BE23F6E2AA801A64EA92193BE8138949A1FAE49DA5977BEE02CBEE7",
-  "size": 64241664,
-  "notes": "Type and codes: ticking a code no longer moves the rows under the mouse, so quick clicks never tick or untick the wrong code, and the toolbar\u0027s Type and codes finds its tab again after a module was coded. Code several on a car whose coding was not read yet opens Full backup by itself and fills its list as soon as the car is read. A coding file, vehicle order or SVT you changed and saved is never taken for the car\u0027s own: Coding history, Search the car, Code several, Car report and Your garage use only what was read from the car, and the backup no longer keeps an edited file as read from the car. The Flash assistant also checks the flash files for a Complete Flash of the whole car, and waits while it looks instead of letting the flash start. Coding history opens larger, Search the car and the vehicle order preview sort by any column, the ambient colour picker has a new look with ready colours, and E-Sys MAX\u0027s messages and questions have the same look as the rest of the app and stay in front of the window they belong to. After coding, the fault check looks only at the module you coded (it offered to clear the fault memory of other modules too), and Code several no longer ends with that question. Preview a vehicle order change and Fit a new or used module work right after reading the SVT from the car (they asked to read it first). Two cars of the same model in Your garage show the end of their VIN. Windows\u0027 permission question names E-Sys MAX when it updates. Small fixes for some PCs.",
-  "published": "2026-10-30",
+  "version": "4.6.0",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.6.0/E-Sys-Max-4.6.0-win-x64.msi",
+  "sha256": "D35FF58432D0759BA253971363429B9DAE29B0D6C9DE21A505150AE2D7A8F189",
+  "size": 64299008,
+  "notes": "Write to car and coding results are now clear at a glance: green when it worked, red when it failed. After writing the vehicle order in Type and codes, Show what to code lists the modules to code, and Code them for me codes them (it saves each module\u0027s coding first and checks it after). Open Connection shows a red No car found bar with the likely cause when no car answers.\nThe car report keeps the faults the car came in with, also after you clear them. The Backup button opens the full backup in one click. Edit settings on a module reads and opens the FDL-Editor faster and shows that it is reading. NCD Compare can send the Before or the After values to the Sheet Maker. The E-Sys MAX cheat sheet has about 2,000 more tweaks. German (beta) under Settings.",
+  "published": "2026-10-31",
   "minimumVersion": "4.1.0",
   "channel": "main"
 }
