@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.5.2",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.5.2/E-Sys-Max-4.5.2-win-x64.msi",
-  "sha256": "2830D73EDE1B18D1C75B368D8A1A91D1B87CF8E7194580AEE6BB73229612A260",
-  "size": 64245760,
-  "notes": "NCD Compare can send the Before or the After values to the Sheet Maker: right-click the differences, or use the Send to Sheet Maker button. After values make a cheat sheet that does the change, Before values make one that puts it back. Also in German (beta).",
-  "published": "2026-10-30",
+  "version": "4.6.0",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.6.0/E-Sys-Max-4.6.0-win-x64.msi",
+  "sha256": "D35FF58432D0759BA253971363429B9DAE29B0D6C9DE21A505150AE2D7A8F189",
+  "size": 64299008,
+  "notes": "Write to car and coding results are now clear at a glance: green when it worked, red when it failed. After writing the vehicle order in Type and codes, Show what to code lists the modules to code, and Code them for me codes them (it saves each module\u0027s coding first and checks it after). Open Connection shows a red No car found bar with the likely cause when no car answers.\nThe car report keeps the faults the car came in with, also after you clear them. The Backup button opens the full backup in one click. Edit settings on a module reads and opens the FDL-Editor faster and shows that it is reading. NCD Compare can send the Before or the After values to the Sheet Maker. The E-Sys MAX cheat sheet has about 2,000 more tweaks. German (beta) under Settings.",
+  "published": "2026-10-31",
   "minimumVersion": "3.0.6",
   "channel": "beta"
 }
