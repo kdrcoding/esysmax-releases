@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.6.1",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.6.1/E-Sys-Max-4.6.1-win-x64.msi",
-  "sha256": "2E05353FF69FE6AC7F523BEA59F476FF62404F0F70E3B0E67F2EE8A892A3D5FC",
+  "version": "4.6.2",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.6.2/E-Sys-Max-4.6.2-win-x64.msi",
+  "sha256": "CB065D0901D3D33433DE303EAF77E0CEF1C400C63FF0D136DD32762FB79E110A",
   "size": 64286720,
-  "notes": "Insert signed NCD and Register a new battery work right after Read SVT: they asked to read the SVT again, and again. Safer with two cars in a row: an SVT read from car A no longer counts for car B after you connect car B; read the SVT of car B first.\nAlso in 4.6.0: green when it worked, red when it failed, for every write and coding result. After writing the vehicle order in Type and codes, Code them for me codes the modules (it saves each module\u0027s coding first and checks it after). The car report keeps the faults the car came in with, also after you clear them. The Backup button opens the full backup in one click. Edit settings opens the FDL-Editor faster. About 2,000 more cheat sheet tweaks.",
+  "notes": "Code them for me is much faster (about 50 s instead of almost 4 minutes), and Insert signed NCD no longer waits minutes for nothing. Fault scan says how many faults are present now and lists them first; a long list of old communication faults after coding gets a short hint to clear them and scan again. The FDL-Editor\u0027s Search button finds the setting names on E-Sys 22.06 too. Clearer texts in Save and code, the full backup report and error help, and the right car name in the car report.\nAlso in 4.6.1: Insert signed NCD and Register a new battery work right after Read SVT. Green when it worked, red when it failed, for every write and coding result. Code them for me after writing the vehicle order. The car report keeps the faults the car came in with. The Backup button opens the full backup in one click.",
   "published": "2026-10-31",
   "minimumVersion": "3.0.6",
   "channel": "beta"
