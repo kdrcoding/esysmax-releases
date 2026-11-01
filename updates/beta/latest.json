@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.6.2",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.6.2/E-Sys-Max-4.6.2-win-x64.msi",
-  "sha256": "CB065D0901D3D33433DE303EAF77E0CEF1C400C63FF0D136DD32762FB79E110A",
-  "size": 64286720,
-  "notes": "Code them for me is much faster (about 50 s instead of almost 4 minutes), and Insert signed NCD no longer waits minutes for nothing. Fault scan says how many faults are present now and lists them first; a long list of old communication faults after coding gets a short hint to clear them and scan again. The FDL-Editor\u0027s Search button finds the setting names on E-Sys 22.06 too. Clearer texts in Save and code, the full backup report and error help, and the right car name in the car report.\nAlso in 4.6.1: Insert signed NCD and Register a new battery work right after Read SVT. Green when it worked, red when it failed, for every write and coding result. Code them for me after writing the vehicle order. The car report keeps the faults the car came in with. The Backup button opens the full backup in one click.",
-  "published": "2026-10-31",
-  "minimumVersion": "4.6.2",
+  "version": "4.6.5",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.6.5/E-Sys-Max-4.6.5-win-x64.msi",
+  "sha256": "10940AE32EECA8DB806D11E2C29B1A1FDA2FD28B3531F8748E091D88659F4BCA",
+  "size": 63578112,
+  "notes": "Speed and stability improvements",
+  "published": "2026-11-01",
+  "minimumVersion": "4.6.5",
   "channel": "beta"
 }
