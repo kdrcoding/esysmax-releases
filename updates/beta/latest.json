@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.6.5",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.6.5/E-Sys-Max-4.6.5-win-x64.msi",
-  "sha256": "10940AE32EECA8DB806D11E2C29B1A1FDA2FD28B3531F8748E091D88659F4BCA",
-  "size": 63578112,
-  "notes": "Speed and stability improvements",
+  "version": "4.6.6",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.6.6/E-Sys-Max-4.6.6-win-x64.msi",
+  "sha256": "C63B5C7BDD89C622CD16933F4440C953CFF87F6CEBAF0E6363B08915C6FCE15C",
+  "size": 63582208,
+  "notes": "Background reliability and security improvements.",
   "published": "2026-11-01",
-  "minimumVersion": "4.6.5",
+  "minimumVersion": "3.0.6",
   "channel": "beta"
 }
