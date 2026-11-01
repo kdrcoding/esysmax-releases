@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.6.6",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.6.6/E-Sys-Max-4.6.6-win-x64.msi",
-  "sha256": "C63B5C7BDD89C622CD16933F4440C953CFF87F6CEBAF0E6363B08915C6FCE15C",
-  "size": 63582208,
-  "notes": "Background reliability and security improvements.",
+  "version": "4.6.7",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.6.7/E-Sys-Max-4.6.7-win-x64.msi",
+  "sha256": "137FD797B19184BF15EAE56E70B7CC71FB8F24AD0FC41B3219A1E1A54BEEFD65",
+  "size": 63561728,
+  "notes": "Fault explanations, module names and one-click presets now load the same way as the setting names. Reliability fixes.",
   "published": "2026-11-01",
-  "minimumVersion": "3.0.6",
+  "minimumVersion": "4.6.7",
   "channel": "beta"
 }
