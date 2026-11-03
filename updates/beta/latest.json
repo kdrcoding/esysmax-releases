@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.7.2",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.7.2/E-Sys-Max-4.7.2-win-x64.msi",
-  "sha256": "E4B937B2559B9FAEDB3EDD3D0BF665646B1F04C3288D6BC23A7842870B5C7CCD",
+  "version": "4.7.3",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.7.3/E-Sys-Max-4.7.3-win-x64.msi",
+  "sha256": "7883BC86AB563522404091E46F6CD8F7608D01B621F5DF55EB052B0FDF814838",
   "size": 63569920,
-  "notes": "E-Sys MAX 4.7.2 Shield: on F-series and i cars the battery and ignition plates now read only through E-Sys\u0027s own connection while E-Sys is connected, so E-Sys keeps the car to itself while it reads and codes.",
+  "notes": "E-Sys MAX 4.7.3 Shield: after Apply cheat (and other changes made from the CAFD editor panel) the tree shows the changed setting without opening its option folders, and scrolls only when that setting is out of view. Also in this beta: on F-series and i cars the battery and ignition plates read only through E-Sys\u0027s own connection while E-Sys is connected.",
   "published": "2026-11-03",
   "minimumVersion": "3.0.6",
   "channel": "beta"
