@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.7.4",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.7.4/E-Sys-Max-4.7.4-win-x64.msi",
-  "sha256": "31CED45A7333142A7A486BB8613991F5B4F61CCF1C5300A052F8E7318D4A026C",
-  "size": 63565824,
-  "notes": "E-Sys MAX 4.7.4 Shield: the garage, the vehicle order and the car report show each car\u0027s model as BMW sold it (a G30 540i no longer shows as 535i, an F30 340i no longer as 335i) and without engine codes or market words. Pressing Connect in E-Sys now frees the car at once even while the battery plate is reading it.",
+  "version": "4.7.5",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.7.5/E-Sys-Max-4.7.5-win-x64.msi",
+  "sha256": "2B1C1EC4AE54F29B6E7228E6E5848D450AC6D808CAD037C2A20F0B9FF731ADA5",
+  "size": 63553536,
+  "notes": "E-Sys MAX 4.7.5 Shield: when E-Sys\u0027s job report says a module turned down an FSC job, E-Sys MAX now explains it as an FSC problem (is the FSC for this module and this car?) instead of a coding file problem. This version also has every fix since 4.7.0: the CAFD editor no longer opens all option folders or jumps the tree after Apply cheat, the battery plate never opens a second connection on F-series and i cars, Connect frees the car at once, and cars show the model BMW sold them as (a G30 540i no longer shows as 535i).",
   "published": "2026-11-03",
   "minimumVersion": "3.0.6",
   "channel": "beta"
