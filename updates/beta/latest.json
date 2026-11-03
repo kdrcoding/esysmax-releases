@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.7.0",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.7.0/E-Sys-Max-4.7.0-win-x64.msi",
-  "sha256": "E538B75492EB361B551F5A726763D612062BAF66DBB5719F715B4B17D1C287C1",
-  "size": 63565824,
-  "notes": "E-Sys MAX 4.7 Shield: your settings and licence are now locked to your own Windows account, E-Sys MAX guards itself better against changed or added files, and updates are safer.",
+  "version": "4.7.1",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.7.1/E-Sys-Max-4.7.1-win-x64.msi",
+  "sha256": "6D296A3E58C80C18B5B3CFF1267BD4576DF0B1F04E7FEE0AF7604A43CC34225C",
+  "size": 63557632,
+  "notes": "E-Sys MAX 4.7.1 Shield: steadier settings and licence handling on more PCs, better help when E-Sys MAX finds a file in its folder that does not belong there, and EDIABAS works with older interface setups.",
   "published": "2026-11-03",
   "minimumVersion": "3.0.6",
   "channel": "beta"
