@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.6.8",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.6.8/E-Sys-Max-4.6.8-win-x64.msi",
-  "sha256": "ACA63C157AC77CFC18501DF83315C7C3627B7526DF55850489528512BBBFDFEC",
-  "size": 63553536,
-  "notes": "E-Sys MAX now works with a licence only. Safer updates and more protection for your licence.",
-  "published": "2026-11-02",
-  "minimumVersion": "4.6.8",
+  "version": "4.7.0",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.7.0/E-Sys-Max-4.7.0-win-x64.msi",
+  "sha256": "E538B75492EB361B551F5A726763D612062BAF66DBB5719F715B4B17D1C287C1",
+  "size": 63565824,
+  "notes": "E-Sys MAX 4.7 Shield: your settings and licence are now locked to your own Windows account, E-Sys MAX guards itself better against changed or added files, and updates are safer.",
+  "published": "2026-11-03",
+  "minimumVersion": "3.0.6",
   "channel": "beta"
 }
