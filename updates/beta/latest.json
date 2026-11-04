@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.7.7",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.7.7/E-Sys-Max-4.7.7-win-x64.msi",
-  "sha256": "08B92239A6FE7F8242605024D2D2C43DB78FF9D84BB13BD8B3392067A487695B",
-  "size": 63574016,
-  "notes": "E-Sys MAX 4.7.7\n\nFixes\n- Fixed: after updating to 4.7.6, the next start could stop on Home at \u0022Checking your setup\u0022 with an error. If this happened to you, download E-Sys MAX from esysmax.com/download and install it over your copy: your licence and settings stay.",
+  "version": "4.7.8",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.7.8/E-Sys-Max-4.7.8-win-x64.msi",
+  "sha256": "F913A6EEC37F9F4589874E4BB7FAD791A12AC9431600338394CC14B585A37EC1",
+  "size": 63569920,
+  "notes": "E-Sys MAX 4.7.8\n\nFixes\n- Full backup on big cars (G30 and others with many modules): the coding read now has time to finish, one coding file that cannot be copied no longer stops the whole backup, and the I-steps are read only once E-Sys is done.\n- Full backup report: a missing I-step shows as \u0027-\u0027, never the word \u0022null\u0022.\n- Garage: a backup day kept in two folders of one car is counted once.\n- Home shows the series the way BMW writes it (F10, not F010), and says when the saved I-step is the factory one.\n- Home no longer stays on \u0022Checking your setup...\u0022 when the check cannot run.\n- The car\u0027s VIN is read correctly from E-Sys\u0027s last connection.\n- Connection list: the data version is shown as data, not as if it were the car\u0027s I-step.\n- Cheat sheets: when one value name fits several codes, you choose the code.\n- Clearer error messages everywhere: no more \u0022(null)\u0022, empty lists that looked fine, or technical text in the crash box.\n- Trial: a problem saving the trial on this PC is shown as a step to retry, not a crash.\n\nThank you for using E-Sys MAX.",
   "published": "2026-11-04",
-  "minimumVersion": "4.7.7",
+  "minimumVersion": "3.0.6",
   "channel": "beta"
 }
