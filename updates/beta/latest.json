@@ -4,8 +4,8 @@
   "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.7.5/E-Sys-Max-4.7.5-win-x64.msi",
   "sha256": "2B1C1EC4AE54F29B6E7228E6E5848D450AC6D808CAD037C2A20F0B9FF731ADA5",
   "size": 63553536,
-  "notes": "E-Sys MAX 4.7.5 Shield: when E-Sys\u0027s job report says a module turned down an FSC job, E-Sys MAX now explains it as an FSC problem (is the FSC for this module and this car?) instead of a coding file problem. This version also has every fix since 4.7.0: the CAFD editor no longer opens all option folders or jumps the tree after Apply cheat, the battery plate never opens a second connection on F-series and i cars, Connect frees the car at once, and cars show the model BMW sold them as (a G30 540i no longer shows as 535i).",
-  "published": "2026-11-03",
-  "minimumVersion": "3.0.6",
+  "notes": "E-Sys MAX 4.7.5 Shield (required update): your settings and licence are now locked to your own Windows account, and E-Sys MAX guards itself better against changed or added files. The CAFD editor no longer opens all option folders or jumps the tree after Apply cheat. On F-series and i cars the battery and ignition plates read only through E-Sys\u0027s own connection, so E-Sys keeps the car to itself, and Connect frees the car at once. Cars show the model BMW sold them as (a G30 540i no longer shows as 535i). Job reports explain a refused FSC as an FSC problem. Older versions are no longer supported: please update.",
+  "published": "2026-11-04",
+  "minimumVersion": "4.7.5",
   "channel": "beta"
 }
