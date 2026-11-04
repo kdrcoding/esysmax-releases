@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.6.8",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.6.8/E-Sys-Max-4.6.8-win-x64.msi",
-  "sha256": "ACA63C157AC77CFC18501DF83315C7C3627B7526DF55850489528512BBBFDFEC",
+  "version": "4.7.5",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.7.5/E-Sys-Max-4.7.5-win-x64.msi",
+  "sha256": "2B1C1EC4AE54F29B6E7228E6E5848D450AC6D808CAD037C2A20F0B9FF731ADA5",
   "size": 63553536,
-  "notes": "E-Sys MAX now works with a licence only. Safer updates and more protection for your licence.",
-  "published": "2026-11-02",
-  "minimumVersion": "4.6.8",
+  "notes": "E-Sys MAX 4.7.5 Shield (required update): your settings and licence are now locked to your own Windows account, and E-Sys MAX guards itself better against changed or added files. The CAFD editor no longer opens all option folders or jumps the tree after Apply cheat. On F-series and i cars the battery and ignition plates read only through E-Sys\u0027s own connection, so E-Sys keeps the car to itself, and Connect frees the car at once. Cars show the model BMW sold them as (a G30 540i no longer shows as 535i). Job reports explain a refused FSC as an FSC problem. Older versions are no longer supported: please update.",
+  "published": "2026-11-04",
+  "minimumVersion": "4.7.5",
   "channel": "main"
 }
