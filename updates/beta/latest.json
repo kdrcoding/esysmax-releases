@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.7.5",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.7.5/E-Sys-Max-4.7.5-win-x64.msi",
-  "sha256": "2B1C1EC4AE54F29B6E7228E6E5848D450AC6D808CAD037C2A20F0B9FF731ADA5",
-  "size": 63553536,
-  "notes": "E-Sys MAX 4.7.5 Shield (required update): your settings and licence are now locked to your own Windows account, and E-Sys MAX guards itself better against changed or added files. The CAFD editor no longer opens all option folders or jumps the tree after Apply cheat. On F-series and i cars the battery and ignition plates read only through E-Sys\u0027s own connection, so E-Sys keeps the car to itself, and Connect frees the car at once. Cars show the model BMW sold them as (a G30 540i no longer shows as 535i). Job reports explain a refused FSC as an FSC problem. Older versions are no longer supported: please update.",
+  "version": "4.7.6",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.7.6/E-Sys-Max-4.7.6-win-x64.msi",
+  "sha256": "AFAEEBF4A8724C4CFFB3B0B456DE8E39E3BEBEC3CC862ECC9C70279F39D1D01B",
+  "size": 63569920,
+  "notes": "E-Sys MAX 4.7.6\n\nWhat\u0027s new\n- Coding now waits while E-Sys is talking to the car, so two jobs never overlap.\n- Saving a car\u0027s order (FA) now checks the car\u0027s VIN first, so nothing is written to the wrong car.\n- Battery registration stops safely when it can\u0027t read the battery voltage or the ignition.\n- The ignition screen now reminds you that switching the ignition off with the engine running stops the engine.\n- Better handling of ICOM connections, including an ICOM plugged straight into the laptop.\n- A clearer message when the connection choice changes.\n\nFixes\n- Several smaller fixes to connection handling and the licence screens.\n- Faster, steadier start-up.\n\nThank you for using E-Sys MAX.",
   "published": "2026-11-04",
   "minimumVersion": "4.7.5",
   "channel": "beta"
