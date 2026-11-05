@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.7.9",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.7.9/E-Sys-Max-4.7.9-win-x64.msi",
-  "sha256": "815A882A1B023ABF7966FA02F186F7A1645C5EEBD0880E4C5BB49220466944DC",
-  "size": 65646592,
-  "notes": "E-Sys MAX 4.7.9\n\nChanges\n- Stronger protection under the hood, so your licence and E-Sys MAX itself stay safe.\n- Reliability and stability fixes across the app.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "version": "4.8.0",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.8.0/E-Sys-Max-4.8.0-win-x64.msi",
+  "sha256": "72036680AE6E2564EB1D371EDA7EDDA168805972B8D3713ACA8D3151D481BB9E",
+  "size": 65675264,
+  "notes": "E-Sys MAX 4.8.0\n\nChanges\n- Safer coding: before Code NCD, E-Sys MAX now makes sure the SVT really was read from the car you are connected to.\n- Dealer NCD packages with special letters in their file names now open.\n- E-Sys no longer freezes for a few seconds when you open a tool right after an update.\n- PSdZData unpacked straight onto a drive (like C:\\) is now found and set up correctly.\n- Check car connection no longer offers to close an E-Sys that is only showing a question.\n- Only one E-Sys with E-Sys MAX opens at a time, so two versions never mix up your backups.\n- Error messages can always be copied, also while an update is waiting.\n- Stronger protection under the hood.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
   "published": "2026-11-05",
   "minimumVersion": "4.7.9",
   "channel": "beta"
