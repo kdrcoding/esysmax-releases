@@ -6,6 +6,6 @@
   "size": 65675264,
   "notes": "E-Sys MAX 4.8.0\n\nChanges\n- Safer coding: before Code NCD, E-Sys MAX now makes sure the SVT really was read from the car you are connected to.\n- Dealer NCD packages with special letters in their file names now open.\n- E-Sys no longer freezes for a few seconds when you open a tool right after an update.\n- PSdZData unpacked straight onto a drive (like C:\\) is now found and set up correctly.\n- Check car connection no longer offers to close an E-Sys that is only showing a question.\n- Only one E-Sys with E-Sys MAX opens at a time, so two versions never mix up your backups.\n- Error messages can always be copied, also while an update is waiting.\n- Stronger protection under the hood.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
   "published": "2026-11-05",
-  "minimumVersion": "4.7.8",
+  "minimumVersion": "4.8.0",
   "channel": "main"
 }
