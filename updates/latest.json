@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.7.8",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.7.8/E-Sys-Max-4.7.8-win-x64.msi",
-  "sha256": "F913A6EEC37F9F4589874E4BB7FAD791A12AC9431600338394CC14B585A37EC1",
-  "size": 63569920,
-  "notes": "E-Sys MAX 4.7.8\n\nFixes\n- Full backup on big cars (G30 and others with many modules): the coding read now has time to finish, one coding file that cannot be copied no longer stops the whole backup, and the I-steps are read only once E-Sys is done.\n- Full backup report: a missing I-step shows as \u0027-\u0027, never the word \u0022null\u0022.\n- Garage: a backup day kept in two folders of one car is counted once.\n- Home shows the series the way BMW writes it (F10, not F010), and says when the saved I-step is the factory one.\n- Home no longer stays on \u0022Checking your setup...\u0022 when the check cannot run.\n- The car\u0027s VIN is read correctly from E-Sys\u0027s last connection.\n- Connection list: the data version is shown as data, not as if it were the car\u0027s I-step.\n- Cheat sheets: when one value name fits several codes, you choose the code.\n- Clearer error messages everywhere: no more \u0022(null)\u0022, empty lists that looked fine, or technical text in the crash box.\n- Trial: a problem saving the trial on this PC is shown as a step to retry, not a crash.\n\nThank you for using E-Sys MAX.",
-  "published": "2026-11-04",
+  "version": "4.8.0",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.8.0/E-Sys-Max-4.8.0-win-x64.msi",
+  "sha256": "72036680AE6E2564EB1D371EDA7EDDA168805972B8D3713ACA8D3151D481BB9E",
+  "size": 65675264,
+  "notes": "E-Sys MAX 4.8.0\n\nChanges\n- Safer coding: before Code NCD, E-Sys MAX now makes sure the SVT really was read from the car you are connected to.\n- Dealer NCD packages with special letters in their file names now open.\n- E-Sys no longer freezes for a few seconds when you open a tool right after an update.\n- PSdZData unpacked straight onto a drive (like C:\\) is now found and set up correctly.\n- Check car connection no longer offers to close an E-Sys that is only showing a question.\n- Only one E-Sys with E-Sys MAX opens at a time, so two versions never mix up your backups.\n- Error messages can always be copied, also while an update is waiting.\n- Stronger protection under the hood.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "published": "2026-11-05",
   "minimumVersion": "4.7.8",
   "channel": "main"
 }
