@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.8.7",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.8.7/E-Sys-Max-4.8.7-win-x64.msi",
-  "sha256": "A54001BB42AA3BEB43A4A0C5BE348A969064161BD79CDC0E16820A14EBA1A6BA",
-  "size": 65949696,
-  "notes": "Getting ready for new ways to start: buy, free trial with card, or an invite code.\nUpdates download more reliably.\nSmall fixes and polish.",
+  "version": "4.8.8",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.8.8/E-Sys-Max-4.8.8-win-x64.msi",
+  "sha256": "3F6B9F7DD18F66AB9861FF1DF2968F2AD9761C3A4C210831EB448E8B25B0B76E",
+  "size": 65970176,
+  "notes": "Module names show in full, also in dark mode.\nTidier windows and tables, more German text.\nClick the code in the title to copy it.",
   "published": "2026-11-06",
   "minimumVersion": "4.8.0",
   "channel": "beta"
