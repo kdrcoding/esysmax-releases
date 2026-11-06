@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.8.3",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.8.3/E-Sys-Max-4.8.3-win-x64.msi",
-  "sha256": "0B524112483CA5B873EB1950C1270926B2C880E92AC3AE882EA45D3C464A8CAA",
-  "size": 65904640,
-  "notes": "Badges: your level now shows as a rank emblem that grows as you level up.\nService reset: engine oil now shows the distance left.\nBattery: odd readings are no longer shown.\nPractice car: newest Fake Car with its own blue icon.\nSmall fixes and polish.",
+  "version": "4.8.4",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.8.4/E-Sys-Max-4.8.4-win-x64.msi",
+  "sha256": "275FA29B883E9508913FF576EDAF3E4160C615E738E2D8C7336041C9433F1C2B",
+  "size": 65900544,
+  "notes": "Car recovery: Code back now codes modules back from a backup again.\nBadges: counting is fairer and harder to game.\nThe paid mark in E-Sys follows your licence.\nSmall fixes and polish.",
   "published": "2026-11-06",
   "minimumVersion": "4.8.0",
   "channel": "beta"
