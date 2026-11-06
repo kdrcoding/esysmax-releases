@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.8.4",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.8.4/E-Sys-Max-4.8.4-win-x64.msi",
-  "sha256": "275FA29B883E9508913FF576EDAF3E4160C615E738E2D8C7336041C9433F1C2B",
-  "size": 65900544,
-  "notes": "Car recovery: Code back now codes modules back from a backup again.\nBadges: counting is fairer and harder to game.\nThe paid mark in E-Sys follows your licence.\nSmall fixes and polish.",
+  "version": "4.8.5",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.8.5/E-Sys-Max-4.8.5-win-x64.msi",
+  "sha256": "AE21E1781C3923B89239844B5B1B22B46272103241D6635861066C2BFCF591A9",
+  "size": 65925120,
+  "notes": "Your licence is kept safer when settings are saved at the same time or a settings file is damaged.\nUpdates install on more networks.\nRequired updates work more reliably.\nSmall fixes and polish.",
   "published": "2026-11-06",
   "minimumVersion": "4.8.0",
   "channel": "beta"
