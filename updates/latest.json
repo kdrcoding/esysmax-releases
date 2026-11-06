@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.8.0",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.8.0/E-Sys-Max-4.8.0-win-x64.msi",
-  "sha256": "72036680AE6E2564EB1D371EDA7EDDA168805972B8D3713ACA8D3151D481BB9E",
-  "size": 65675264,
-  "notes": "E-Sys MAX 4.8.0\n\nChanges\n- Safer coding: before Code NCD, E-Sys MAX now makes sure the SVT really was read from the car you are connected to.\n- Dealer NCD packages with special letters in their file names now open.\n- E-Sys no longer freezes for a few seconds when you open a tool right after an update.\n- PSdZData unpacked straight onto a drive (like C:\\) is now found and set up correctly.\n- Check car connection no longer offers to close an E-Sys that is only showing a question.\n- Only one E-Sys with E-Sys MAX opens at a time, so two versions never mix up your backups.\n- Error messages can always be copied, also while an update is waiting.\n- Stronger protection under the hood.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
-  "published": "2026-11-05",
+  "version": "4.8.8",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.8.8/E-Sys-Max-4.8.8-win-x64.msi",
+  "sha256": "3F6B9F7DD18F66AB9861FF1DF2968F2AD9761C3A4C210831EB448E8B25B0B76E",
+  "size": 65970176,
+  "notes": "E-Sys MAX 4.8.8\n\nNew\n- Badges: earn levels and badges as you code, and share a picture card.\n- Car recovery: put a module back the way it was from your backups.\n- Service reset and battery registration from Home.\n- Click the code in the title bar to copy it for support.\n\nChanges\n- Safer coding: coding stops if a safety check cannot finish, and the VCM order is only written when E-Sys says which order is active.\n- Module names show in full, also in dark mode.\n- Tidier windows and tables, and more texts in German.\n- Updates download more reliably.\n- Stronger protection under the hood.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "published": "2026-11-06",
   "minimumVersion": "4.8.0",
   "channel": "main"
 }
