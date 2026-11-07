@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.8.9",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.8.9/E-Sys-Max-4.8.9-win-x64.msi",
-  "sha256": "B6CCC942896E81C601EEE0CECD5B1E5FCDF160B56C33708C2DA58C937AD9D4F0",
-  "size": 65986560,
-  "notes": "Badges: share a link to your badges, and badges unlock with a licence.\nCard trial: see when your card is charged and cancel the trial from About.\nStart a website trial with your trial code.",
+  "version": "4.8.10",
+  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.8.10/E-Sys-Max-4.8.10-win-x64.msi",
+  "sha256": "4A9BEABC2D63090BC6C18D33899D2C8775C10F8D4798F1606C1633886AE31FE8",
+  "size": 65998848,
+  "notes": "Badges show their metal (Bronze, Silver, Gold and up) instead of a number.\nCopy your licence ID with one click in About, also during a trial.\nClearer messages and more texts in your language.\nBug fixes.",
   "published": "2026-11-07",
   "minimumVersion": "4.8.0",
   "channel": "beta"
