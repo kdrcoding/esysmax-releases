@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.8.10",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-4.8.10-win-x64.msi",
-  "sha256": "4A9BEABC2D63090BC6C18D33899D2C8775C10F8D4798F1606C1633886AE31FE8",
-  "size": 65998848,
-  "notes": "Badges show their metal (Bronze, Silver, Gold and up) instead of a number.\nCopy your licence ID with one click in About, also during a trial.\nClearer messages and more texts in your language.\nBug fixes.",
+  "version": "4.9.0",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-4.9.0-win-x64.msi",
+  "sha256": "053EB43C04BA6DBE3C828644B9E284EDE6AC47AD51F34ED5F606256A1953DF84",
+  "size": 67723264,
+  "notes": "Click the screenshot code in the title bar to copy it.\nBadges show your level as a metal emblem.\nAfter buying, a locked app finds your licence and opens by itself.\nStability and protection improvements.",
   "published": "2026-11-07",
   "minimumVersion": "4.8.0",
   "channel": "beta"
