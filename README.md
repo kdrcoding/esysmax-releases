@@ -3,8 +3,7 @@
 **E-Sys MAX** is a Windows E-Sys launcher and add-on for coding BMW F series and G series cars with BMW E-Sys
 (and MINI and Toyota Supra built on them). An E-Sys Ultra alternative, made by KDR Coding.
 
-[![Download](https://img.shields.io/badge/Download-esysmax.com-e8772e?style=for-the-badge)](https://esysmax.com/download)
-[![Latest release](https://img.shields.io/github/v/release/kdrcoding/esysmax-releases?style=for-the-badge&label=Latest&color=2b2d31)](https://github.com/kdrcoding/esysmax-releases/releases/latest)
+[![Get E-Sys MAX](https://img.shields.io/badge/Get_it-esysmax.com%2Fbuy-e8772e?style=for-the-badge)](https://esysmax.com/buy)
 [![Telegram](https://img.shields.io/badge/Telegram-t.me%2Fesysmax-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/esysmax)
 
 ![E-Sys MAX home: your garage and every E-Sys version ready to start](screenshots/home.png)
@@ -12,10 +11,10 @@
 > **Like E-Sys MAX?** Tap the ⭐ **Star** button at the top of this page. It takes one second and helps other
 > BMW owners find it.
 
-## Download
+## Get E-Sys MAX
 
-- **[esysmax.com/download](https://esysmax.com/download)** (Windows 10 and 11), or the installer on this repository's
-  [latest release](https://github.com/kdrcoding/esysmax-releases/releases/latest)
+- **[esysmax.com/buy](https://esysmax.com/buy)**: buy a licence, start a free trial with your card, or use an invite code.
+  Your private download link comes right after (Windows 10 and 11).
 - Every update and what it changed: [esysmax.com/changelog](https://esysmax.com/changelog)
 
 ## What it does
@@ -69,4 +68,4 @@
 
 E-Sys itself and PSdZData are BMW software and are not included. E-Sys MAX is not made by or connected with BMW AG.
 
-This repository holds the E-Sys MAX installers and screenshots only. © 2026 KDR Coding. All rights reserved.
+This repository holds E-Sys MAX update information and screenshots only. © 2026 KDR Coding. All rights reserved.
