@@ -1,7 +1,7 @@
 {
   "product": "E-Sys MAX",
   "version": "4.8.10",
-  "installer": "https://github.com/kdrcoding/esysmax-releases/releases/download/v4.8.10/E-Sys-Max-4.8.10-win-x64.msi",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-4.8.10-win-x64.msi",
   "sha256": "4A9BEABC2D63090BC6C18D33899D2C8775C10F8D4798F1606C1633886AE31FE8",
   "size": 65998848,
   "notes": "Badges show their metal (Bronze, Silver, Gold and up) instead of a number.\nCopy your licence ID with one click in About, also during a trial.\nClearer messages and more texts in your language.\nBug fixes.",
