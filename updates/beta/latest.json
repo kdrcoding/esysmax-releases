@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.9.0",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-4.9.0-win-x64.msi",
-  "sha256": "053EB43C04BA6DBE3C828644B9E284EDE6AC47AD51F34ED5F606256A1953DF84",
-  "size": 67723264,
-  "notes": "Click the screenshot code in the title bar to copy it.\nBadges show your level as a metal emblem.\nAfter buying, a locked app finds your licence and opens by itself.\nStability and protection improvements.",
-  "published": "2026-11-07",
-  "minimumVersion": "4.8.0",
+  "version": "4.9.1",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-4.9.1-win-x64.msi",
+  "sha256": "602A797EBD094EDC2135C112BE515D3EB8ED035FE3AC40B7C9DD77B9EA0CB3D1",
+  "size": 67735552,
+  "notes": "Fault scan in two panes: click a fault to read what it means, with Previous and Next.\nNCD compare and About E-Sys MAX have a cleaner look.\nE-Sys\u0027s bottom bar shows your E-Sys MAX version and licence.\nFixed: \u0022Code several changes\u0022 could ask to open E-Sys MAX with internet although you were online.",
+  "published": "2026-11-08",
+  "minimumVersion": "3.0.6",
   "channel": "beta"
 }
