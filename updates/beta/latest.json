@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.9.4",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-4.9.4-win-x64.msi",
-  "sha256": "96CF0175D4BE7478E7CB00707B5AE3CC8E1ADD1814AB14019E3D48B00D5EE8E8",
+  "version": "4.9.5",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-4.9.5-win-x64.msi",
+  "sha256": "3606B938E5786E4094C0B2B2157C964BA8FB21B54CC77423913638C9E80C4420",
   "size": 67227648,
-  "notes": "E-Sys MAX 4.9.4\n\nFixed\n- Setting names in the FDL editor show again on E-Sys 25.10.\n- Full backup reads the whole car on one press again, and twin modules keep their own coding.\n- Light look: car tiles keep the car\u0027s real paint colour.\n\nNew\n- Dark (new): a sharper dark look for E-Sys, picked in the launcher.\n- Home: even garage tiles, a best-match hint and older versions folded away.\n\nChanges\n- The free trial is its own app now: E-Sys MAX Trial. A trial licence works there; the full E-Sys MAX is for bought licences.\n- Start free trial opens esysmax.com/trial, where you get E-Sys MAX Trial.\n- Car recovery explains twin modules more clearly.\n- Full backup says how to connect when no car is connected.\n- Stronger protection under the hood.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "notes": "E-Sys MAX 4.9.5\n\nFixed\n- Car recovery: \u0022Read the car now\u0022 follows the car that is connected now, also after you connect another car.\n- Car report: the Full backup row lists the vehicle order and module list only when they were saved.\n- E-Sys MAX Demo: after buying, the full E-Sys MAX is offered right away.\n- E-Sys MAX Demo: clearer messages when the full E-Sys MAX is already installed.\n\nChanges\n- Updates are checked more strictly before they install.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
   "published": "2026-11-09",
   "minimumVersion": "3.0.6",
   "channel": "beta"
