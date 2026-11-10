@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.9.6",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-4.9.6-win-x64.msi",
-  "sha256": "237BE32E7C66B670DCFB8219AE2E5E846DB9BD41E63B9ADA7330018B28FF1304",
-  "size": 67256320,
-  "notes": "E-Sys MAX 4.9.6\n\nImproved\n- Dark (new): the side bar module icons (FA-Editor, TAL-Calculating, PDX-Charger and more) now sit on dark tiles instead of white boxes.\n- Dark (new): E-Sys 22.06 to 24.06 side bar buttons no longer show a white button face.\n- Dark (new): the Log-Viewer and Anflash-Editor lists lost their bright white frame.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "version": "4.9.7",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-4.9.7-win-x64.msi",
+  "sha256": "CD32A9E082C5D2CFDC1BF9613637A34A9487E4A27422277EB975AE2A2173BB3B",
+  "size": 67244032,
+  "notes": "E-Sys MAX 4.9.7\n\nNew\n- E-Sys 26.04 supported: CAFD editor names and search, SVT names, full backup, Code several, FA write, fault scan, car report and flashing all work on 26.04.\n\nImproved\n- German E-Sys: Full backup, the secure coding question, the automatic copies when you read the FA or SVT, and the data-protection notice now work when E-Sys is set to German.\n- Your calculation strategy (Single Flash) is now picked on every page that offers it, also in Comfort Mode and in a German E-Sys.\n- Flash assistant: when E-Sys wants the TAL saved before Execute, the assistant opens E-Sys\u0027s Save first.\n- E-Sys 26.04\u0027s own dark mode: the KL15/KL30 badges and the CAFD editor colours now follow it.\n- The Type and codes hint no longer gets cut off on narrow pages.\n- Save and code reads E-Sys\u0027s result faster on E-Sys 25.10 and 26.04.\n- The job report and the car report now also list flashes of a TAL you saved under your own name.\n- A flash that E-Sys finished with warnings while fitting or removing parts now shows as done, not as failed.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
   "published": "2026-11-10",
   "minimumVersion": "4.8.0",
   "channel": "beta"
