@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.9.5",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-4.9.5-win-x64.msi",
-  "sha256": "3606B938E5786E4094C0B2B2157C964BA8FB21B54CC77423913638C9E80C4420",
-  "size": 67227648,
-  "notes": "E-Sys MAX 4.9.5\n\nFixed\n- Car recovery: \u0022Read the car now\u0022 follows the car that is connected now, also after you connect another car.\n- Car report: the Full backup row lists the vehicle order and module list only when they were saved.\n- E-Sys MAX Demo: after buying, the full E-Sys MAX is offered right away.\n- E-Sys MAX Demo: clearer messages when the full E-Sys MAX is already installed.\n\nChanges\n- Updates are checked more strictly before they install.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
-  "published": "2026-11-09",
-  "minimumVersion": "3.0.6",
+  "version": "4.9.6",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-4.9.6-win-x64.msi",
+  "sha256": "237BE32E7C66B670DCFB8219AE2E5E846DB9BD41E63B9ADA7330018B28FF1304",
+  "size": 67256320,
+  "notes": "E-Sys MAX 4.9.6\n\nImproved\n- Dark (new): the side bar module icons (FA-Editor, TAL-Calculating, PDX-Charger and more) now sit on dark tiles instead of white boxes.\n- Dark (new): E-Sys 22.06 to 24.06 side bar buttons no longer show a white button face.\n- Dark (new): the Log-Viewer and Anflash-Editor lists lost their bright white frame.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "published": "2026-11-10",
+  "minimumVersion": "4.8.0",
   "channel": "beta"
 }
