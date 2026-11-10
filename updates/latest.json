@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.9.3",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-4.9.3-win-x64.msi",
-  "sha256": "2FB73DF98F8AC8AE9445D17606784B7939AB3711D948F87CC1C22566C0D07DBA",
-  "size": 67805184,
-  "notes": "E-Sys MAX 4.9.3\n\nNew\n- Car report PDF tells the whole visit: when E-Sys connected, the full backup, every fault scan with its codes, the clear and the scan after it, each coding change by name, module restarts and earlier reports, in time order.\n- Full backup works quietly: E-Sys\u0027s own windows stay out of sight while E-Sys MAX reads the car, and a question that needs you still comes up.\n- Full backup also keeps the module list the car stores, a backup log and the car\u0027s job history.\n- Fault scan in two panes, with a page for each fault.\n\nChanges\n- Code several opens its coding help at once, also right after starting.\n- A full backup no longer ends \u0022with notes\u0022 when every module was read fine.\n- The title bar shows only the version and your licence.\n- Restart all checks the car before the first module; battery registration needs a voltage first.\n- German texts are formal everywhere.\n- Cleaner NCD compare and a stronger About page.\n- Stronger protection under the hood.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
-  "published": "2026-11-08",
+  "version": "4.9.8",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-4.9.8-win-x64.msi",
+  "sha256": "BEC80EAAFCF5EEC3D217BD2A0836AB3DBA785E0F59591A5D21ECA7C5A8C58C2A",
+  "size": 67244032,
+  "notes": "E-Sys MAX 4.9.8\n\nNew\n- E-Sys 26.04 supported: CAFD editor names and search, SVT names, full backup, Code several, FA write, fault scan, car report and flashing all work on 26.04.\n- Dark (new): a sharper dark look for E-Sys, picked in the launcher, with a dark Windows title bar.\n- Home: even garage tiles, a best-match hint and older versions folded away.\n\nFixed\n- The CAFD (FDL) editor opens and shows setting names again on E-Sys 25.10.\n- Full backup reads the whole car on one press again, and twin modules keep their own coding.\n- German E-Sys: Full backup, the secure coding question, the automatic FA and SVT copies and the data-protection notice work when E-Sys is set to German.\n- Car recovery: \u0022Read the car now\u0022 follows the car that is connected now.\n- Light look: car tiles keep the car\u0027s real paint colour.\n- Dark look on E-Sys 22.06 to 24.06: toolbar buttons, status bar texts, side bar buttons and lists can all be seen again.\n\nChanges\n- The free trial is its own app now: E-Sys MAX Trial. The full E-Sys MAX is for bought licences.\n- Your calculation strategy (Single Flash) is picked on every page that offers it, also in Comfort Mode.\n- Flash assistant: when E-Sys wants the TAL saved before Execute, the assistant opens E-Sys\u0027s Save first.\n- The job report and the car report also list flashes of a TAL saved under your own name; a flash finished with warnings while fitting or removing parts shows as done.\n- Save and code reads E-Sys\u0027s result faster on E-Sys 25.10 and 26.04.\n- Updates are checked more strictly before they install.\n- Stronger protection under the hood.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "published": "2026-11-10",
   "minimumVersion": "4.8.0",
   "channel": "main"
 }
