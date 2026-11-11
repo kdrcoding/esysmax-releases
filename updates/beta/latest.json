@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "4.9.8",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-4.9.8-win-x64.msi",
-  "sha256": "BEC80EAAFCF5EEC3D217BD2A0836AB3DBA785E0F59591A5D21ECA7C5A8C58C2A",
-  "size": 67244032,
-  "notes": "E-Sys MAX 4.9.8\n\nImproved\n- Dark look: the Windows title bar is dark now.\n- Dark look on E-Sys 22.06 to 24.06: the Log-Viewer and connection buttons in E-Sys\u0027s toolbar can be seen again.\n- Dark look on E-Sys 22.06 to 24.06: the status bar texts (SWL-Sec, SFA, Sec4Diag and SWLCockpit token) can be read.\n- Home: \u0022Best match\u0022 no longer hides behind the buttons on a narrow window.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
-  "published": "2026-11-10",
+  "version": "5.0.0",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.0.0-win-x64.msi",
+  "sha256": "91EFB43FE3A2594985D623E4945DE41681838B6D271F1EF7A3A832055EF8B55C",
+  "size": 67284992,
+  "notes": "E-Sys MAX 5.0.0\n\nNew\n- Messages from E-Sys MAX now appear as a card on Home when the launcher starts online. To write to us, use Contact in About or Contact support on Home.\n- Reinstalled Windows? Your licence can now be brought back with a recovery code (Licence window: Send recovery code, then Use recovery code).\n\nImproved\n- Stronger protection of E-Sys MAX and of the files it keeps on your PC.\n- Fault texts: newer module generations (for example FLM3, DME2, EGS4, DKOMBI4, HU_NBT2, ACSM2) now show BMW\u0027s fault texts.\n- Renewing a licence now always extends the licence you already have.\n- Clearer messages when an update cannot be installed, with a link to your personal download.\n- Many smaller fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "published": "2026-11-11",
   "minimumVersion": "4.8.0",
   "channel": "beta"
 }
