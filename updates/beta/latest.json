@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "5.0.0",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.0.0-win-x64.msi",
-  "sha256": "91EFB43FE3A2594985D623E4945DE41681838B6D271F1EF7A3A832055EF8B55C",
+  "version": "5.0.1",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.0.1-win-x64.msi",
+  "sha256": "C3F4413FDBD9152F2DD5FD288CEE2532521E56816D98868CC6750516B5A62F71",
   "size": 67284992,
-  "notes": "E-Sys MAX 5.0.0\n\nNew\n- Messages from E-Sys MAX now appear as a card on Home when the launcher starts online. To write to us, use Contact in About or Contact support on Home.\n- Reinstalled Windows? Your licence can now be brought back with a recovery code (Licence window: Send recovery code, then Use recovery code).\n\nImproved\n- Stronger protection of E-Sys MAX and of the files it keeps on your PC.\n- Fault texts: newer module generations (for example FLM3, DME2, EGS4, DKOMBI4, HU_NBT2, ACSM2) now show BMW\u0027s fault texts.\n- Renewing a licence now always extends the licence you already have.\n- Clearer messages when an update cannot be installed, with a link to your personal download.\n- Many smaller fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
-  "published": "2026-11-11",
+  "notes": "E-Sys MAX 5.0.1\n\nNew\n- Setting names that are not confirmed by BMW\u0027s data are now shown in red in the coding editor. Hover over one to see where the name came from, and check it before you code.\n- Service reset reads every module that keeps services, on any F or G car, including the engine oil.\n\nImproved\n- A ready-made coding choice stays selected while names and cheat sheets load.\n- Contact is now a tile in About, next to Talk to us.\n- More setting names.\n- Many smaller fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "published": "2026-11-12",
   "minimumVersion": "4.8.0",
   "channel": "beta"
 }
