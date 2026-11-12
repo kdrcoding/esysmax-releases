@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "5.1.0",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.1.0-win-x64.msi",
-  "sha256": "BF2C97072604591685EC42AD34DE84FED22749E79BC45EFDCB4FF91BF174E1A5",
-  "size": 67416064,
-  "notes": "E-Sys MAX 5.1.0\n\n- The window title bar now turns properly dark with the dark theme.\n- Service reset: reads every module that keeps service data on F and G cars,\n  and reads the engine oil service more reliably (retry and per-item handling).\n- Service reader: smoother reading and clearer results.\n- FDL editor: your ready-made pick now stays selected while names and sheets\n  finish loading.\n- Setting names that are not yet confirmed are shown in red so they stand out.\n- About screen: the contact form is now its own tile next to \u0022Talk to us\u0022.\n\nThanks for using E-Sys MAX.",
+  "version": "5.1.1",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.1.1-win-x64.msi",
+  "sha256": "AAB9C69EFDB9CA65758888DE4207BF5C2560FCE9C12F475374C5436DE250E3D5",
+  "size": 67448832,
+  "notes": "E-Sys MAX 5.1.1\n\nImproved\n- Fault lists open without the window freezing.\n- Error and warning messages stay on screen until you have read them; only good news slides away by itself.\n- Clearer messages when an update download stalls or E-Sys is already open.\n- German: many more screens, messages and service texts are now in German.\n- Screen readers: buttons, switches, lists and result lines now have names and are read out when they change.\n- Many smaller fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
   "published": "2026-11-12",
   "minimumVersion": "4.8.0",
   "channel": "beta"
