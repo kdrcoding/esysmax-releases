@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "5.1.3",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.1.3-win-x64.msi",
-  "sha256": "319016F77669D528449F44866F4F3E7D15DFD6EB6539F4D1535FD5B812357A19",
-  "size": 67461120,
-  "notes": "E-Sys MAX 5.1.3\n\n- Messages: write to E-Sys MAX support right from the app (Messages in the top bar) and read the answers there. New answers pop up with a Reply button.\n- Contact in About opens Messages.\n- Practice car uses the newest Fake Car (1.6.7).\n- Small fixes.",
+  "version": "5.1.4",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.1.4-win-x64.msi",
+  "sha256": "EB595B71775AD26CF70F2F056C973F8CB440568E1010182171FB9F49C56A5AAF",
+  "size": 67473408,
+  "notes": "E-Sys MAX 5.1.4\n\n- Older E-Sys (3.30 and newer) works with E-Sys MAX. We still recommend E-Sys 22.06 or newer (best 25.10).\n- Old E-Sys that closed by itself at start: E-Sys MAX now starts it on a newer, checked Java 8 and gets that Java for you the first time if your PC has none.\n- Fault scan, module info, battery, clear faults, FA backup, FSC and SFA status work on old E-Sys too.\n- FDL editor setting names and search on old E-Sys.\n- Clearer help for old E-Sys messages (EST file, files saved by a newer E-Sys).\n- Small fixes.",
   "published": "2026-11-13",
-  "minimumVersion": "5.1.2",
+  "minimumVersion": "5.1.3",
   "channel": "beta"
 }
