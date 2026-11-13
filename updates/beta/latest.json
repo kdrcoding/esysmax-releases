@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "5.1.4",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.1.4-win-x64.msi",
-  "sha256": "EB595B71775AD26CF70F2F056C973F8CB440568E1010182171FB9F49C56A5AAF",
-  "size": 67473408,
-  "notes": "E-Sys MAX 5.1.4\n\n- Older E-Sys (3.30 and newer) works with E-Sys MAX. We still recommend E-Sys 22.06 or newer (best 25.10).\n- Old E-Sys that closed by itself at start: E-Sys MAX now starts it on a newer, checked Java 8 and gets that Java for you the first time if your PC has none.\n- Fault scan, module info, battery, clear faults, FA backup, FSC and SFA status work on old E-Sys too.\n- FDL editor setting names and search on old E-Sys.\n- Clearer help for old E-Sys messages (EST file, files saved by a newer E-Sys).\n- Small fixes.",
+  "version": "5.1.5",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.1.5-win-x64.msi",
+  "sha256": "9B10FF8D86B595FC7222C85F04CB835266576FFDFBB2F235FA9688C3652EEFB7",
+  "size": 67461120,
+  "notes": "E-Sys MAX 5.1.5\n\n- E-Sys 26.04: coding tools now open (before, they could stay on \u0022Not ready yet\u0022).\n- Coding on old E-Sys (3.36) in dark mode no longer stops with an error.\n- Full backup on E-Sys 3.30 to 3.36 now saves the car\u0027s type key too.\n- E-Sys 23.10 is now a tested version.\n- Messages moved to About \u003E Send us a message (the unread count shows there).\n- Licensed PCs: installing the Demo again brings back the full app by itself.\n- Restart module and Clear faults wait a moment for the battery reading instead of asking you to try again.\n- Old E-Sys 3.30 to 3.33: reading the FA no longer shows an error box, and Code several says clearly why it cannot code there.\n- Small fixes.",
   "published": "2026-11-13",
   "minimumVersion": "5.1.3",
   "channel": "beta"
