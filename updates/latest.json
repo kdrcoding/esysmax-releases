@@ -5,7 +5,7 @@
   "sha256": "06E5C373CF62BA003BDE15A9B0053AFCDBB225CAC72E71D00A7FB988C659F93E",
   "size": 67420160,
   "notes": "E-Sys MAX 5.1.2\n\nFixed\n- Updates from inside E-Sys MAX could stop with \u0022The update did not install\u0022. Updating works again, also from the Demo to the full version after buying.\n\nImproved\n- Fault lists open without the window freezing.\n- Error and warning messages stay on screen until you have read them; only good news slides away by itself.\n- Clearer messages when an update download stalls or E-Sys is already open.\n- German: many more screens, messages and service texts are now in German.\n- Screen readers: buttons, switches, lists and result lines now have names and are read out when they change.\n- An activation code can also be entered in About \u003E Enter licence.\n- Many smaller fixes.\n\nIf you are on 5.0.0 to 5.1.1: install 5.1.2 once from your personal download link. After that, updates install by themselves again.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
-  "published": "2026-11-12",
-  "minimumVersion": "4.8.0",
+  "published": "2026-11-13",
+  "minimumVersion": "5.1.2",
   "channel": "main"
 }
