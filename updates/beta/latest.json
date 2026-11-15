@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "5.2.2",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.2.2-win-x64.msi",
-  "sha256": "0024621B35D73C79B5D52CEB3AB4349682EB01CCD36E55BAA221E0E959B098FE",
-  "size": 65306624,
-  "notes": "E-Sys MAX 5.2.2\n\n- Code several changes and Save and code no longer stop with an error right after Expert Mode \u003E Coding opens.\n- Small fixes.",
+  "version": "5.2.3",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.2.3-win-x64.msi",
+  "sha256": "235397881716220C99C78BAEBD11FC330CBB5348246EC98A2004F17BDBA7D10B",
+  "size": 65282048,
+  "notes": "E-Sys MAX 5.2.3\n\n- Small fixes and security improvements.",
   "published": "2026-11-15",
   "minimumVersion": "5.1.3",
   "channel": "beta"
