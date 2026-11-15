@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "5.2.0",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.2.0-win-x64.msi",
-  "sha256": "AA63FDC90D15C9B413FBE6A310FDB36438FB8D5EA59D019A0358029E59440C2A",
-  "size": 65310720,
-  "notes": "E-Sys MAX 5.2.0\n\n- Practice car: the Fake Car download installs again.\n- Sharper support pictures, and photos you send no longer carry camera details.\n- Small fixes.",
+  "version": "5.2.1",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.2.1-win-x64.msi",
+  "sha256": "42DFC0232FED68F31D8201C2712ED65A5BDBB488F1E1065A034E28EE87764AF5",
+  "size": 65331200,
+  "notes": "E-Sys MAX 5.2.1\n\n- Photos taken upright on a phone now arrive upright in support pictures.\n- With two older E-Sys (3.x) installed, starting one no longer says the other is already open.\n- Safer saving of FDL editor scripts and of E-Sys settings you put back.\n- Small fixes.",
   "published": "2026-11-15",
   "minimumVersion": "5.1.3",
   "channel": "beta"
