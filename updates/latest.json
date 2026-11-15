@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "5.1.8",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.1.8-win-x64.msi",
-  "sha256": "17D9D4D9E9C6A3952DE4602D4FFF42A90FF7CC76AC9240C8DA76FBB819BDF3B8",
-  "size": 65314816,
-  "notes": "E-Sys MAX 5.1.8\n\nNew\n- Older E-Sys (3.30 and newer) works with E-Sys MAX: fault scan, module info, battery, clear faults, FA backup, FSC and SFA status, FDL editor names and search. We still recommend E-Sys 22.06 or newer (best 25.10).\n- Old E-Sys that closed by itself at start now starts on a newer, checked Java 8 (E-Sys MAX gets it for you the first time).\n- Send us a message: add a screenshot (Add picture, or Ctrl\u002BV after Win\u002BShift\u002BS). Pictures stay sharp.\n- E-Sys 23.10 is now a tested version.\n\nFixed\n- E-Sys 26.04: coding tools now open (before, they could stay on \u0022Not ready yet\u0022).\n- E-Sys 23.x: activating an FA no longer stops with an error, and the drop-downs keep working.\n- E-Sys 23.10 installed over 23.04: Settings no longer stop with an error.\n- E-Sys 22.10: times in the VO preview, FA, cheat sheets and file names use your own time zone.\n- Coding on old E-Sys (3.36) in dark mode no longer stops with an error.\n- CAFD editor: the \u0022Values from ECU\u0022 box keeps room to type on small laptop screens, and the line above it can be dragged to make it taller.\n\nImproved\n- Messages moved to About \u003E Send us a message (the unread count shows there).\n- Licensed PCs: installing the Demo again brings back the full app by itself.\n- Restart module and Clear faults wait a moment for the battery reading instead of asking you to try again.\n- Safer updates and stronger protection of the app\u0027s files.\n- Many smaller fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
-  "published": "2026-11-14",
+  "version": "5.2.2",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.2.2-win-x64.msi",
+  "sha256": "0024621B35D73C79B5D52CEB3AB4349682EB01CCD36E55BAA221E0E959B098FE",
+  "size": 65306624,
+  "notes": "E-Sys MAX 5.2.2\n\nFixed\n- Code several changes and Save and code no longer stop with \u0022The Coding page could not be read\u0022 right after Expert Mode \u003E Coding opens.\n- Practice car: the Fake Car download installs again.\n- Photos taken upright on a phone now arrive upright in support pictures.\n- With two older E-Sys (3.x) installed, starting one no longer says the other is already open.\n- E-Sys starts the same way on every PC, even when other Java settings are set on the PC.\n\nImproved\n- Sharper support pictures, and photos you send no longer carry camera details.\n- Safer saving of FDL editor scripts, job history and the E-Sys settings you put back.\n- Updates check more carefully that no other E-Sys MAX window is still starting.\n- Problem reports show more about an error, so we can fix it faster.\n- Many smaller fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "published": "2026-11-15",
   "minimumVersion": "5.1.3",
   "channel": "main"
 }
