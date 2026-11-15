@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "5.1.9",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.1.9-win-x64.msi",
-  "sha256": "A747D101671CA0F243A79AF7FCDC7301B16B2EF8F6C9B75A29C8A0EC52011E45",
-  "size": 65298432,
-  "notes": "E-Sys MAX 5.1.9\n\n- Practice car: starts the newest Fake Car on your PC, also one you downloaded yourself, and gets Fake Car 1.6.9.\n- Practice car: the \u0022Fake Car is running\u0022 line now changes when you close Fake Car.\n- Small fixes.",
+  "version": "5.2.0",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.2.0-win-x64.msi",
+  "sha256": "AA63FDC90D15C9B413FBE6A310FDB36438FB8D5EA59D019A0358029E59440C2A",
+  "size": 65310720,
+  "notes": "E-Sys MAX 5.2.0\n\n- Practice car: the Fake Car download installs again.\n- Sharper support pictures, and photos you send no longer carry camera details.\n- Small fixes.",
   "published": "2026-11-15",
   "minimumVersion": "5.1.3",
   "channel": "beta"
