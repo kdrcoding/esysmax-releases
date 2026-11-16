@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "5.2.5",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.2.5-win-x64.msi",
-  "sha256": "3A39B8B40955F100F337216261FFDFF71FBA9809204298CC3B6ABA5E7C55C577",
-  "size": 65372160,
-  "notes": "E-Sys MAX 5.2.5\n\nNew\n- Russian language (beta): Settings \u003E Language.\n\nImproved\n- Coding: a change that touches a safety setting (for example seat belt reminder, airbag, video while driving) asks you first. Emissions settings are not changed by E-Sys MAX.\n- Fault scan: each fault shows the text of its own module, and the battery hint no longer counts sensor voltage faults.\n- Service reset: the car clock note shows only when the clock is really off, and a lost connection is noticed faster.\n- Licence window and car network list read better in every language.\n- Small fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "version": "5.2.6",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.2.6-win-x64.msi",
+  "sha256": "CD679B722B2032CD9AAA7B81F9C6A7B5487A3A5C18D9ACFDC6A6A7C9F23DC241",
+  "size": 65392640,
+  "notes": "E-Sys MAX 5.2.6\n\nImproved\n- Cloud backup copy: a full backup is copied to your cloud folder once it has finished, so a finished backup always shows as finished there.\n- Car report: a step the car refused is never listed as done.\n- Updates tidy up after themselves.\n\nIncludes everything in 5.2.5: Russian language (beta), safety settings ask first, fault scan and service reset fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
   "published": "2026-11-16",
   "minimumVersion": "5.1.3",
   "channel": "beta"
