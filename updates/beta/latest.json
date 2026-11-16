@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "5.2.3",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.2.3-win-x64.msi",
-  "sha256": "235397881716220C99C78BAEBD11FC330CBB5348246EC98A2004F17BDBA7D10B",
-  "size": 65282048,
-  "notes": "E-Sys MAX 5.2.3\n\n- Small fixes and security improvements.",
-  "published": "2026-11-15",
+  "version": "5.2.4",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.2.4-win-x64.msi",
+  "sha256": "4910461A84DB0DEDA709E6DB8A5B34E2BCE17EDEFCA3F9C0922B0E166E9171AD",
+  "size": 65318912,
+  "notes": "E-Sys MAX 5.2.4\n\nNew\n- Fault scan: when several faults point to low voltage, it says to check the battery first, and which modules they are in.\n- Service reset: reads the car\u0027s date and tells you when it is off, so the new due dates come out right.\n\nImproved\n- Fault scan shows BMW\u0027s own fault texts for the F10 550i and M5 engine computer.\n- Practice car comes with Fake Car 1.7.0.\n- Small fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "published": "2026-11-16",
   "minimumVersion": "5.1.3",
   "channel": "beta"
 }
