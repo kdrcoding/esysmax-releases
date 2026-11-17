@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "5.2.6",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.2.6-win-x64.msi",
-  "sha256": "CD679B722B2032CD9AAA7B81F9C6A7B5487A3A5C18D9ACFDC6A6A7C9F23DC241",
-  "size": 65392640,
-  "notes": "E-Sys MAX 5.2.6\n\nImproved\n- Cloud backup copy: a full backup is copied to your cloud folder once it has finished, so a finished backup always shows as finished there.\n- Car report: a step the car refused is never listed as done.\n- Updates tidy up after themselves.\n\nIncludes everything in 5.2.5: Russian language (beta), safety settings ask first, fault scan and service reset fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
-  "published": "2026-11-16",
+  "version": "5.2.7",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.2.7-win-x64.msi",
+  "sha256": "BB4D017645EA868B65F41BA154F65128D1A40517017763B8075B8D2F305D381E",
+  "size": 72155136,
+  "notes": "E-Sys MAX 5.2.7\n\nNew\n- More languages (beta): Turkish, Italian, Spanish, Korean and Chinese, in the launcher, inside E-Sys and in the coding ideas. Choose yours in Settings.\n- German, Russian and Romanian are now complete: every window inside E-Sys is translated too.\n\nImproved\n- Every window fits its text in every language: longer words wrap instead of being cut, buttons never cover each other.\n- Buttons named in messages match the buttons on screen in every language.\n- Wider list columns where a translated title needs the room.\n\nIncludes everything in 5.2.6.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "published": "2026-11-17",
   "minimumVersion": "5.1.3",
   "channel": "beta"
 }
