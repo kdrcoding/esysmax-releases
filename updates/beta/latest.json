@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "5.2.7",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.2.7-win-x64.msi",
-  "sha256": "BB4D017645EA868B65F41BA154F65128D1A40517017763B8075B8D2F305D381E",
-  "size": 72155136,
-  "notes": "E-Sys MAX 5.2.7\n\nNew\n- More languages (beta): Turkish, Italian, Spanish, Korean and Chinese, in the launcher, inside E-Sys and in the coding ideas. Choose yours in Settings.\n- German, Russian and Romanian are now complete: every window inside E-Sys is translated too.\n\nImproved\n- Every window fits its text in every language: longer words wrap instead of being cut, buttons never cover each other.\n- Buttons named in messages match the buttons on screen in every language.\n- Wider list columns where a translated title needs the room.\n\nIncludes everything in 5.2.6.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "version": "5.2.8",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.2.8-win-x64.msi",
+  "sha256": "2D0FA0FBB2ACBFF97021A431B0095B08711871D45CFEC137568010323A4080B3",
+  "size": 73043968,
+  "notes": "E-Sys MAX 5.2.8\n\nNew\n- Japanese (beta): the launcher, every window inside E-Sys and the coding ideas.\n\nImproved\n- Numbers read naturally in every language: \u00221 module\u0022 and \u00225 modules\u0022, with the right word form in Russian, Romanian, Spanish, Italian and German, and the right counter word in Japanese, Korean and Chinese.\n- Dates show in each language\u0027s own order everywhere: badges, licence end date, What\u0027s New, share card and inside E-Sys.\n- Clearer coding ideas in every language, with more precise car terms.\n- Turkish capital letters (\u0130) and Korean line breaks look right.\n- Messages name each button exactly as it appears on screen.\n- A few messages and window titles that were still in English are now translated.\n\nIncludes everything in 5.2.7.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
   "published": "2026-11-17",
   "minimumVersion": "5.1.3",
   "channel": "beta"
