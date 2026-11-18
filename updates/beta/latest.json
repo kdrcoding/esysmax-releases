@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "5.2.8",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.2.8-win-x64.msi",
-  "sha256": "2D0FA0FBB2ACBFF97021A431B0095B08711871D45CFEC137568010323A4080B3",
-  "size": 73043968,
-  "notes": "E-Sys MAX 5.2.8\n\nNew\n- Japanese (beta): the launcher, every window inside E-Sys and the coding ideas.\n\nImproved\n- Numbers read naturally in every language: \u00221 module\u0022 and \u00225 modules\u0022, with the right word form in Russian, Romanian, Spanish, Italian and German, and the right counter word in Japanese, Korean and Chinese.\n- Dates show in each language\u0027s own order everywhere: badges, licence end date, What\u0027s New, share card and inside E-Sys.\n- Clearer coding ideas in every language, with more precise car terms.\n- Turkish capital letters (\u0130) and Korean line breaks look right.\n- Messages name each button exactly as it appears on screen.\n- A few messages and window titles that were still in English are now translated.\n\nIncludes everything in 5.2.7.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
-  "published": "2026-11-17",
+  "version": "5.2.9",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.2.9-win-x64.msi",
+  "sha256": "04944DEE71B3D2CF5162A54F897A5A2D6CE2C4585D47DBAA19DFB939CEE235DE",
+  "size": 73125888,
+  "notes": "E-Sys MAX 5.2.9\n\nImproved\n- Car report PDF in Chinese, Japanese and Korean shows every letter (before, many came out as question marks).\n- Fault scan: green and red results in every language, not only in English.\n- Coding: searching the ready-made changes finds both the words on screen and the English names.\n- Home: car model names in the garage are in your language (\u00225er Limousine\u0022, \u00225\u30B7\u30EA\u30FC\u30BA \u30BB\u30C0\u30F3\u0022); Japanese and Korean lines read correctly, the Ethernet status is named in Chinese, Japanese and Korean, Japanese badge names and Korean numbers no longer break mid-word, the car\u0027s build month is written the local way, and every status fits in the smaller window.\n- Coding ideas and Retrofits: the number of modules and the \u0022or\u0022 between module names read right in every language; long retrofit names are shown whole.\n- Chinese, Japanese and Korean: the toolbar, the E-Sys MAX menu, the CAFD editor panel, drop-down lists and search boxes now use the language\u0027s clear font (before, letters stood wide apart); hints in empty lists wrap inside the list.\n- SVT tools: the search box shows its whole hint in every language.\n- Coding history: each copy\u0027s date is shown once, not twice.\n- Job report: the job is named in your language (\u0022Coding (changed settings)\u0022), as in the car report.\n- Code several changes and Car recovery: every progress line and every reason a file is left out is now in your language.\n- The version list fades softly at the bottom when more versions follow.\n- Romanian, Russian, Italian, Spanish and Turkish: Home status lines fit the small window and Spanish dates read naturally; in Turkish and other languages the \u0022best value\u0022 label no longer breaks in the middle.\n- CAFD editor: the module name is shown in your language. With German code names, codes whose BMW text is only a planning note show their real name.\n- Many small fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "published": "2026-11-18",
   "minimumVersion": "5.1.3",
   "channel": "beta"
 }
