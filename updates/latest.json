@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "5.2.3",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.2.3-win-x64.msi",
-  "sha256": "235397881716220C99C78BAEBD11FC330CBB5348246EC98A2004F17BDBA7D10B",
-  "size": 65282048,
-  "notes": "E-Sys MAX 5.2.3\n\nImproved\n- Security improvements.\n- Small fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
-  "published": "2026-11-15",
+  "version": "5.2.8",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.2.8-win-x64.msi",
+  "sha256": "2D0FA0FBB2ACBFF97021A431B0095B08711871D45CFEC137568010323A4080B3",
+  "size": 73043968,
+  "notes": "E-Sys MAX 5.2.8\n\nNew\n- E-Sys MAX in 10 languages: English, German, Spanish, Italian, Russian, Romanian, Turkish, Japanese, Chinese and Korean. The launcher, every window inside E-Sys and the coding ideas. Choose yours in Settings. Spanish, Italian, Turkish, Japanese, Chinese and Korean are marked beta.\n- Fault scan: when several faults point to low voltage, it says to check the battery first, and which modules they are in.\n- Service reset: reads the car\u0027s date and tells you when it is off, so the new due dates come out right.\n\nImproved\n- Coding: a change that touches a safety setting (for example seat belt reminder, airbag, video while driving) asks you first. Emissions settings are not changed by E-Sys MAX.\n- Fault scan shows each module\u0027s own fault text, and BMW\u0027s own texts for the F10 550i and M5 engine computer.\n- Car report: a step the car refused is never listed as done.\n- Cloud backup copy: a full backup is copied once it has finished.\n- Numbers and dates read naturally in every language, and every window fits its text.\n- Practice car comes with Fake Car 1.7.0.\n- Updates tidy up after themselves, and many small fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "published": "2026-11-18",
   "minimumVersion": "5.1.3",
   "channel": "main"
 }
