@@ -2,11 +2,13 @@
 
 **E-Sys MAX** is a Windows E-Sys launcher and add-on for coding BMW F series and G series cars with BMW E-Sys
 (and MINI and Toyota Supra built on them). An E-Sys Ultra alternative, made by KDR Coding.
+**139,000+ coding settings in plain English, in 10 languages.**
 
 [![Get E-Sys MAX](https://img.shields.io/badge/Get_it-esysmax.com%2Fbuy-e8772e?style=for-the-badge)](https://esysmax.com/buy)
+[![Lifetime $99](https://img.shields.io/badge/Lifetime-%2499_one_time-2b2b2b?style=for-the-badge)](https://esysmax.com/buy)
 [![Telegram](https://img.shields.io/badge/Telegram-t.me%2Fesysmax-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/esysmax)
 
-![E-Sys MAX home: your garage and every E-Sys version ready to start](screenshots/home.png)
+![E-Sys MAX home: your garage, the car's build and options, and every E-Sys version ready to launch](screenshots/home.png)
 
 > **Like E-Sys MAX?** Tap the ⭐ **Star** button at the top of this page. It takes one second and helps other
 > BMW owners find it.
@@ -15,16 +17,22 @@
 
 - **[esysmax.com/buy](https://esysmax.com/buy)**: buy a licence, start a free trial with your card, or use an invite code.
   Your private download link comes right after (Windows 10 and 11).
+- Licences are one-time payments with every feature: 1 month $39, 1 year $59 or **lifetime $99**
+  (every update, priority support and setup help).
 - Every update and what it changed: [esysmax.com/changelog](https://esysmax.com/changelog)
 
 ## What it does
 
-- **110,000+ E-Sys coding settings named in English**: G series settings that E-Sys shows as a dot get their name
+- **139,000+ E-Sys coding settings named in English**: G series settings that E-Sys shows as a dot get their name,
+  and 5,600+ option codes are named too
+- **10 languages**: English, German, Spanish, Italian, Russian, Romanian, Turkish, Japanese, Chinese and Korean
 - Starts any E-Sys version with the right Java, memory and PSdZData; works over an ENET cable or a BMW ICOM
 - One-click coding changes (cheat sheets) and **what to code for a feature**: every module it needs
 - Vehicle order (VO) helper, FDL coding help, full backups and a history of every coding change
-- Fault scan with 9,000+ codes explained, **service reset** and service functions
+- **Car recovery**: compare the car today with a full backup (vehicle order, coding, modules and faults)
+- Fault scan of every module with 9,000+ codes explained, **service reset** and service functions
 - Car report as a PDF: options, modules and coding of the car
+- **Badges and levels**: real coding work earns badges and a rank, from bronze up to mythic
 
 ## Screenshots
 
@@ -55,7 +63,10 @@
 ### Module names right in E-Sys
 ![E-Sys SVT with module names and NCD files](screenshots/svt-ncd.png)
 
-<sub>Screenshots use a demo car with a made-up VIN.</sub>
+### Badges and levels
+![Badges page: level, points and badges earned by real coding work](screenshots/badges.png)
+
+<sub>Screenshots use demo cars with made-up VINs.</sub>
 
 ## Guides and support
 
