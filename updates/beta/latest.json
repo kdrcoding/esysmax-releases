@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "5.3.3",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.3.3-win-x64.msi",
-  "sha256": "B60D320126F591F21A518FC9C67D7FA3D98352235ADAEE17279002DBC34BA03D",
-  "size": 73261056,
-  "notes": "E-Sys MAX 5.3.3\n\nNew\n- About \u003E Move to a new PC: lifetime licences can now move to a new PC straight from the old one. Enter the new computer, confirm with the code we send to your Telegram or e-mail, and the new computer is ready at once. The old computer stops using the licence.\n\nImproved\n- Updates: when E-Sys is still open, the update says which window it is and offers to close it for you (E-Sys asks to save first).\n- Updates: pressing Update now twice no longer starts a second try.\n- Security improvements.\n- Many small fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
-  "published": "2026-11-21",
+  "version": "5.3.4",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.3.4-win-x64.msi",
+  "sha256": "DF25545F7100BE50CA9DE12D10EE5BCA8C75901AAE71D392A62A75BF9384D901",
+  "size": 73244672,
+  "notes": "E-Sys MAX 5.3.4\n\nImproved\n- Move to a new PC: the Move screen and its messages are now in every app language.\n- Move to a new PC: the Move screen fits small and scaled screens (it scrolls).\n- Move to a new PC: a move finishes cleanly even when the internet drops in the middle.\n- Korean, Japanese, Chinese: E-Sys\u0027s own buttons show their whole text again.\n- FA helper: Enter in the search box only searches.\n- NCD editor: a damaged NCD file is named right away when it opens.\n- Copy buttons, Open folder and Contact always answer the click.\n- Many small fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "published": "2026-11-22",
   "minimumVersion": "5.1.3",
   "channel": "beta"
 }
