@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "5.4.0",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.4.0-win-x64.msi",
-  "sha256": "1050C46013CA1E46FD79F0F3D48A72331DF14D32DA0E8F0ABB74A536FEB74731",
-  "size": 74047488,
-  "notes": "E-Sys MAX 5.4.0\n\nFixed\n- Car not found in E-Sys while the launcher found it: the \u0022Allow E-Sys through the firewall\u0022 fix in the connection check works again for E-Sys installed in C:\\EC-Apps. It only lets in the car\u0027s answers, from the cable\u0027s own network.\n\nImproved\n- E-Sys errors: each exact module answer (wrong mode, not offered, could not save, busy) gets its own help, also from the messages of the E-Sys you run, in German E-Sys too. BMW server, backend and setting timeouts are named as such.\n- Names: a module without coding data is no longer asked for or counted as missing.\n- Fault scan: the \u0022Scan again first\u0022 warnings are in your language, and a result cut off in its cell shows whole on hover.\n- Coding window: \u0022Factory I-step\u0022 is in your language.\n- Many small fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "version": "5.4.1",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.4.1-win-x64.msi",
+  "sha256": "36A0E037CB41830B22DC66A2B48BD83723579A987A747474CA3DD28192C53227",
+  "size": 74072064,
+  "notes": "E-Sys MAX 5.4.1\n\nFixed\n- Dark look: the module count in E-Sys is easy to read again.\n- Full backup: the coding lines fold up again at the end.\n- A picked line keeps its coloured text readable.\n- Switch messages are short notices and no longer pile up.\n\nImproved\n- The E-Sys MAX icon in the taskbar follows your light or dark look.\n- E-Sys errors: a module\u0027s raw \u0022negative response\u0022 answer gets its help, and the damaged file help now works on PCs in German, French, Spanish, Italian, Portuguese, Swedish, Japanese, Korean and Chinese.\n- Connection check: \u0022Allow E-Sys through the firewall\u0022 now only lets in the car\u0027s answers over the cable\u0027s own network, and an older wider rule is offered to be made narrow.\n- Many small fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
   "published": "2026-11-24",
   "minimumVersion": "5.3.1",
   "channel": "beta"
