@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "5.3.7",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.3.7-win-x64.msi",
-  "sha256": "823329CD128FC8C61006B35591040C64CD735B1D254EDC2CEE94DB30BEA7BE0F",
-  "size": 73891840,
-  "notes": "E-Sys MAX 5.3.7\n\nImproved\n- Christmas look: the taskbar icon has a little snow on it too.\n- Updates: clearer messages while an update downloads or waits for E-Sys to close, and Cancel always stays on screen.\n- Order codes and faults: names and fault meanings also show when the names arrive a little later; the inch sign shows right in wheel names.\n- Copy: copying a report says so when Windows did not allow it.\n- Write to us: choosing \u0022move my licence\u0022 opens the move form straight away.\n- Service reset: the reset question also warns when the car\u0027s date looks wrong.\n- Dates read the same on every Windows language and calendar.\n- Invite a friend: the card fits better and updates when your licence changes.\n- Problem reports and local files are handled more safely.\n- Many small fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
-  "published": "2026-11-23",
+  "version": "5.3.8",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.3.8-win-x64.msi",
+  "sha256": "7A39F510DC374B9C1C59F9571849E01AA8F00DB3B980299032EC3AD02BC98BEA",
+  "size": 73846784,
+  "notes": "E-Sys MAX 5.3.8\n\nImproved\n- Free Demo: installing the Demo over an older copy leaves no old files behind.\n- Many small fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "published": "2026-11-24",
   "minimumVersion": "5.3.1",
   "channel": "beta"
 }
