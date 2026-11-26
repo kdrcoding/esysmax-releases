@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "5.4.2",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.4.2-win-x64.msi",
-  "sha256": "9351067B4B744D2B542662F5252E5014FA8135ECD7789C1EA5BF4DF93FAE38AA",
-  "size": 74076160,
-  "notes": "E-Sys MAX 5.4.2\n\nFixed\n- Ignition: KL15 no longer shows \u0022off\u0022 while the ignition is on. When a BMW is switched off with Start and only the radio works, the plate now says \u0022off (radio)\u0022 and how to switch the ignition back on.\n- Battery: about 15 V with the engine running is shown as normal charging, not as a problem. The plate and the coding question show and judge the same voltage.\n- Service reset: when the brake module refuses a brake pad reset, you see why straight away (new pads and wear sensor first). If the car answers OK but still shows the old value, you are told the reset did not take.\n- Update: pressing Cancel while the update gets ready now says it was cancelled and keeps what was downloaded.\n- Problem reports keep no part of another Windows account\u0027s name.\n\nImproved\n- PSdZData on Home: the tooltip is short and lists each pack once, with the E-Sys versions that use it.\n- Coding check: says when E-Sys calculated coding files for only some parts of a module.\n- Connection check: the firewall rule is counted only when it really lets E-Sys reach the car.\n- Many small safety and stability fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
-  "published": "2026-11-25",
+  "version": "5.4.3",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.4.3-win-x64.msi",
+  "sha256": "B7732C7145630998ADF0ABAF4CE739D9A6789AAB8FA2DBD82754102B4243F40C",
+  "size": 75276288,
+  "notes": "E-Sys MAX 5.4.3 (beta)\n\nNew\n- Go back safely: if an update is ever taken back, E-Sys MAX tells you once and offers the last safe version with one click. Nothing changes without your yes.\n- Beta badge: click it to go back to the normal version at any time.\n\nImproved\n- Updates: the update helper is faster and more reliable.\n- Setup check: on a PC shared by several Windows accounts, it tells you when the EDIABAS folder can be changed by another account.\n- Many small safety and stability fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "published": "2026-11-26",
   "minimumVersion": "5.3.1",
   "channel": "beta"
 }
