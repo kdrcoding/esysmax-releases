@@ -1,10 +1,10 @@
 {
   "product": "E-Sys MAX",
-  "version": "5.5.0",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.5.0-win-x64.msi",
-  "sha256": "914C9298BE0D1039BBC2D5DBEBCD0B50F0CA37AD4BFE7FA13FCB9A30D6272DE7",
-  "size": 86142976,
-  "notes": "E-Sys MAX 5.5.0 (beta) - Gold edition\n- New: MAX Practice, a practice car for E-Sys with lessons and levels 1-6, now with signed coding and NCD lessons\n- New: MAX Practice button in E-Sys, quiet start, can stay in view or go to the clock icon while E-Sys works\n- New: Code them for me closes E-Sys\u0027s report itself and shows you what went wrong, if anything\n- New: Open Connection shows your car\u0027s series and the right target, and asks before connecting with a target not made for your car\n- New: fault scan shows the OBD-II code and thousands of new fault code names\n- Faster: E-Sys MAX starts faster, coding lists fill faster, Code several changes waits less\n- Fixes: vehicle profile names on older E-Sys, smaller E-Sys logs, clearer messages when the licence cannot be reached, and many more",
+  "version": "5.5.1",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.5.1-win-x64.msi",
+  "sha256": "2B4F9C934E6E65C511FC12E4261FC0283B7031B2A5CEAF143AF119DD4E959A87",
+  "size": 85790720,
+  "notes": "E-Sys MAX 5.5.1\n\n- Toolbar: drag a button along the toolbar to move it (the order is kept), drag it off the toolbar to unpin it, or drag a tool from the E-Sys MAX menu onto the toolbar to pin it there.\n- Unpinning a toolbar button now asks first, so it is not done by mistake.\n- The E-Sys MAX menu is sorted into groups (Read the car, Code and flash, Backup and recovery, Learn) with small headings and icons; a tool on the toolbar is not listed twice.\n- After a full backup the SVT on the Coding page looks like a fresh read again: every module folded, nothing selected.\n- The battery badge shows the voltage again right after E-Sys connects to an F10 (one-connection gateway), instead of \u0022KL30 --\u0022 for up to 20 seconds.\n- Car-writing tools load after several updates in one day (the toolbar was empty until the next day).\n- Everything from 5.5.0: MAX Practice with 41 lessons, Open Connection checks the right car series, stronger protection.",
   "published": "2026-11-28",
   "minimumVersion": "5.3.1",
   "channel": "beta"
