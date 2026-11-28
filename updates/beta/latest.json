@@ -1,11 +1,11 @@
 {
   "product": "E-Sys MAX",
-  "version": "5.5.0",
-  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.5.0-win-x64.msi",
-  "sha256": "914C9298BE0D1039BBC2D5DBEBCD0B50F0CA37AD4BFE7FA13FCB9A30D6272DE7",
-  "size": 86142976,
-  "notes": "E-Sys MAX 5.5.0 (beta) - Gold edition\n- New: MAX Practice, a practice car for E-Sys with lessons and levels 1-6, now with signed coding and NCD lessons\n- New: MAX Practice button in E-Sys, quiet start, can stay in view or go to the clock icon while E-Sys works\n- New: Code them for me closes E-Sys\u0027s report itself and shows you what went wrong, if anything\n- New: Open Connection shows your car\u0027s series and the right target, and asks before connecting with a target not made for your car\n- New: fault scan shows the OBD-II code and thousands of new fault code names\n- Faster: E-Sys MAX starts faster, coding lists fill faster, Code several changes waits less\n- Fixes: vehicle profile names on older E-Sys, smaller E-Sys logs, clearer messages when the licence cannot be reached, and many more",
-  "published": "2026-11-28",
+  "version": "5.4.3",
+  "installer": "https://licence.esysmax.com/license/installer/E-Sys-Max-5.4.3-win-x64.msi",
+  "sha256": "B7732C7145630998ADF0ABAF4CE739D9A6789AAB8FA2DBD82754102B4243F40C",
+  "size": 75276288,
+  "notes": "E-Sys MAX 5.4.3 (beta)\n\nNew\n- Go back safely: if an update is ever taken back, E-Sys MAX tells you once and offers the last safe version with one click. Nothing changes without your yes.\n- Beta badge: click it to go back to the normal version at any time.\n\nImproved\n- Updates: the update helper is faster and more reliable.\n- Setup check: on a PC shared by several Windows accounts, it tells you when the EDIABAS folder can be changed by another account.\n- Many small safety and stability fixes.\n\nYour licence and settings stay the same after updating.\n\nThank you for using E-Sys MAX.",
+  "published": "2026-11-26",
   "minimumVersion": "5.3.1",
   "channel": "beta"
 }
